@@ -60,14 +60,6 @@ jobs:
           prefixed_re = re.compile(r'^(?P<prefix>full|domain|keyword|regexp):(?P<val>.+)$')
 
           def as_domain_wildcard_or_none(pat: str):
-              """
-              Only process 'safe' rules:
-                ^(.+\\.)?example\\.com$
-              gen:
-                DOMAIN,example.com
-                DOMAIN-WILDCARD,*.example.com
-              other return None
-              """
               m = re.fullmatch(r'^\^\(\.\+\\\.\)\?([A-Za-z0-9\\\.\-]+)\$$', pat)
               if m:
                   base = m.group(1).replace('\\.', '.')
@@ -96,7 +88,6 @@ jobs:
                   if wc:
                       return wc
                   return [as_url_regex(val.strip())]
-              # 默认当作 domain-suffix
               return [f"DOMAIN-SUFFIX,{val.strip()}"]
 
           def resolve_list(name: str, stack=None, cache=None):
@@ -160,10 +151,10 @@ jobs:
 
       - name: Commit & push if changed
         run: |
-          if git status --porcelain | grep -qE "surge-rules/"; then
-            git add surge-rules
-            git commit -m "chore: update Surge rules (wildcard & url-regex) from DLC ${DLC_SHA} (${DLC_DATE})"
-            git push
+          git add -A
+          if ! git diff --cached --quiet; then
+              git commit -m "chore: update Surge rules from DLC ${DLC_SHA} (${DLC_DATE})"
+              git push
           else
-            echo "No changes to commit."
+              echo "No changes to commit."
           fi
