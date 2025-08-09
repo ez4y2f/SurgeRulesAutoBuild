@@ -1,3 +1,9 @@
+# Source: v2fly/domain-list-community
+# DLC commit: 6cb593b (2025-06-27)
+# Generated at: 2025-08-09T12:26:01.567414Z
+# Notes:
+# - includes resolved recursively; attributes preserved.
+# - regexp: best-effort → DOMAIN/DOMAIN-WILDCARD; else fallback to URL-REGEX.
 DOMAIN-SUFFIX,bluearchive-cn.com
 URL-REGEX,^https?://cdn\d-epicgames-\d+\.file\.myqcloud\.com(?::\d+)?(?:/|$)
 URL-REGEX,^https?://epicgames-download\d-\d+\.file\.myqcloud\.com(?::\d+)?(?:/|$)

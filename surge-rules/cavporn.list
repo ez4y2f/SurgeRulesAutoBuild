@@ -1,3 +1,9 @@
+# Source: v2fly/domain-list-community
+# DLC commit: 6cb593b (2025-06-27)
+# Generated at: 2025-08-09T12:26:01.644383Z
+# Notes:
+# - includes resolved recursively; attributes preserved.
+# - regexp: best-effort → DOMAIN/DOMAIN-WILDCARD; else fallback to URL-REGEX.
 DOMAIN-SUFFIX,cavporn.com
 DOMAIN-SUFFIX,cavporn.github.io
 URL-REGEX,^https?://(^|\.)cav1(0[2-9]|1[0-9])\.com(?::\d+)?(?:/|$)

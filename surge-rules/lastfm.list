@@ -1,2 +1,8 @@
+# Source: v2fly/domain-list-community
+# DLC commit: 6cb593b (2025-06-27)
+# Generated at: 2025-08-09T12:26:01.921958Z
+# Notes:
+# - includes resolved recursively; attributes preserved.
+# - regexp: best-effort → DOMAIN/DOMAIN-WILDCARD; else fallback to URL-REGEX.
 DOMAIN-SUFFIX,last.fm
 DOMAIN,lastfm.freetls.fastly.net

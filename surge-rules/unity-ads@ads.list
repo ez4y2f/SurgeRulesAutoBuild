@@ -1,3 +1,9 @@
+# Source: v2fly/domain-list-community
+# DLC commit: 6cb593b (2025-06-27)
+# Generated at: 2025-08-09T12:26:02.055562Z
+# Notes:
+# - includes resolved recursively; attributes preserved.
+# - regexp: best-effort → DOMAIN/DOMAIN-WILDCARD; else fallback to URL-REGEX.
 DOMAIN-SUFFIX,ads.unitychina.cn
 DOMAIN-SUFFIX,splash-ads.cdn.unity.cn
 DOMAIN-SUFFIX,splash-ads.unitychina.cn

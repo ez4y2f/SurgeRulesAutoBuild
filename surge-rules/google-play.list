@@ -1,3 +1,9 @@
+# Source: v2fly/domain-list-community
+# DLC commit: 6cb593b (2025-06-27)
+# Generated at: 2025-08-09T12:26:01.874216Z
+# Notes:
+# - includes resolved recursively; attributes preserved.
+# - regexp: best-effort → DOMAIN/DOMAIN-WILDCARD; else fallback to URL-REGEX.
 DOMAIN-SUFFIX,googleplay.com
 DOMAIN-SUFFIX,play-fe.googleapis.com
 DOMAIN-SUFFIX,play-games.googleusercontent.com

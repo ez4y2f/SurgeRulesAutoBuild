@@ -1,3 +1,9 @@
+# Source: v2fly/domain-list-community
+# DLC commit: 6cb593b (2025-06-27)
+# Generated at: 2025-08-09T12:26:01.713341Z
+# Notes:
+# - includes resolved recursively; attributes preserved.
+# - regexp: best-effort → DOMAIN/DOMAIN-WILDCARD; else fallback to URL-REGEX.
 DOMAIN-SUFFIX,3lateral.com
 DOMAIN-SUFFIX,artstation.com
 DOMAIN-SUFFIX,capturingreality.com
@@ -26,4 +32,5 @@ DOMAIN-SUFFIX,twinmotion.com
 DOMAIN-SUFFIX,unrealengine.com
 DOMAIN-SUFFIX,unrealtournament.com
 URL-REGEX,^https?://cdn\d-epicgames-\d+\.file\.myqcloud\.com(?::\d+)?(?:/|$)
+DOMAIN,epicgames-download\d.akamaized.net
 URL-REGEX,^https?://epicgames-download\d-\d+\.file\.myqcloud\.com(?::\d+)?(?:/|$)

@@ -1,3 +1,10 @@
+# Source: v2fly/domain-list-community
+# DLC commit: 6cb593b (2025-06-27)
+# Generated at: 2025-08-09T12:26:01.810767Z
+# Notes:
+# - includes resolved recursively; attributes preserved.
+# - regexp: best-effort → DOMAIN/DOMAIN-WILDCARD; else fallback to URL-REGEX.
+DOMAIN-SUFFIX,include:category-ai-!cn
 DOMAIN-SUFFIX,colorfulstage.com
 DOMAIN-SUFFIX,crypton.co.jp
 DOMAIN-SUFFIX,lapriere.jp
@@ -3982,6 +3989,7 @@ DOMAIN-SUFFIX,redino.tw
 DOMAIN-SUFFIX,anandtech.com
 DOMAIN-SUFFIX,betterexplained.com
 DOMAIN-SUFFIX,brilliant.org
+DOMAIN-SUFFIX,include:category-scholar-!cn
 DOMAIN-SUFFIX,cern
 DOMAIN-SUFFIX,ams02.space
 DOMAIN-SUFFIX,cern.ch
@@ -4143,6 +4151,7 @@ DOMAIN-SUFFIX,udemy.com
 DOMAIN-SUFFIX,udemycdn.com
 DOMAIN-SUFFIX,w3schools.com
 DOMAIN-SUFFIX,chemequations.com
+DOMAIN-SUFFIX,include:category-games-!cn
 DOMAIN-SUFFIX,ptzwx.com
 DOMAIN-SUFFIX,quanben-xiaoshuo.com
 DOMAIN-SUFFIX,quanben.io
@@ -5142,6 +5151,7 @@ DOMAIN-SUFFIX,pincong.rocks
 DOMAIN-SUFFIX,safechat.com
 DOMAIN-SUFFIX,sis001.com
 DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,include:category-social-media-!cn
 DOMAIN-SUFFIX,cf-ipfs.com
 DOMAIN-SUFFIX,cloudflare-ipfs.com
 DOMAIN-SUFFIX,4everland.io
@@ -13374,6 +13384,7 @@ DOMAIN-SUFFIX,apkpure.net
 DOMAIN-SUFFIX,cdnpure.com
 DOMAIN-SUFFIX,pureapk.com
 DOMAIN-SUFFIX,winudf.com
+DOMAIN-SUFFIX,include:category-browser-!cn
 DOMAIN-SUFFIX,playcover.io
 DOMAIN-SUFFIX,playcover.workers.dev
 DOMAIN-SUFFIX,fflogs.com
