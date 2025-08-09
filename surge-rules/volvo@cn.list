@@ -1,0 +1,12 @@
+# Source: v2fly/domain-list-community
+# DLC commit: 6cb593b (2025-06-27)
+# Generated at: 2025-08-09T11:16:18.118562Z
+# Notes:
+# - includes resolved recursively; attributes preserved.
+# - regexp: best-effort → DOMAIN/DOMAIN-WILDCARD; else fallback to URL-REGEX.
+DOMAIN-SUFFIX,vfsco.com.cn
+DOMAIN-SUFFIX,volvo.cn
+DOMAIN-SUFFIX,volvo.com.cn
+DOMAIN-SUFFIX,volvogroup.cn
+DOMAIN-SUFFIX,volvogroup.com.cn
+DOMAIN-SUFFIX,volvotrucks.com.cn

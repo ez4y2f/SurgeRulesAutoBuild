@@ -1,0 +1,29 @@
+# Source: v2fly/domain-list-community
+# DLC commit: 6cb593b (2025-06-27)
+# Generated at: 2025-08-09T11:16:18.121472Z
+# Notes:
+# - includes resolved recursively; attributes preserved.
+# - regexp: best-effort → DOMAIN/DOMAIN-WILDCARD; else fallback to URL-REGEX.
+DOMAIN-SUFFIX,g-technology.com
+DOMAIN-SUFFIX,sandisk.ae
+DOMAIN-SUFFIX,sandisk.it
+DOMAIN-SUFFIX,sandisk.cn
+DOMAIN-SUFFIX,sandisk.co.jp
+DOMAIN-SUFFIX,sandisk.co.kr
+DOMAIN-SUFFIX,sandisk.co.uk
+DOMAIN-SUFFIX,sandisk.com
+DOMAIN-SUFFIX,sandisk.com.au
+DOMAIN-SUFFIX,sandisk.com.br
+DOMAIN-SUFFIX,sandisk.com.tr
+DOMAIN-SUFFIX,sandisk.com.tw
+DOMAIN-SUFFIX,sandisk.de
+DOMAIN-SUFFIX,sandisk.es
+DOMAIN-SUFFIX,sandisk.fr
+DOMAIN-SUFFIX,sandisk.hk
+DOMAIN-SUFFIX,sandisk.id
+DOMAIN-SUFFIX,sandisk.in
+DOMAIN-SUFFIX,sandisk.nl
+DOMAIN-SUFFIX,sandisk.sg
+DOMAIN-SUFFIX,wd.com
+DOMAIN-SUFFIX,wdc.com
+DOMAIN-SUFFIX,westerndigital.com

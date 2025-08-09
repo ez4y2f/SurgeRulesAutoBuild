@@ -1,0 +1,12 @@
+# Source: v2fly/domain-list-community
+# DLC commit: 6cb593b (2025-06-27)
+# Generated at: 2025-08-09T11:16:18.008251Z
+# Notes:
+# - includes resolved recursively; attributes preserved.
+# - regexp: best-effort → DOMAIN/DOMAIN-WILDCARD; else fallback to URL-REGEX.
+DOMAIN-SUFFIX,lumion-la.com
+DOMAIN-SUFFIX,lumion.com
+DOMAIN-SUFFIX,lumion3d.com.my
+DOMAIN-SUFFIX,lumion3d.net
+DOMAIN-SUFFIX,lumiontech.net
+DOMAIN-SUFFIX,mylumion.com

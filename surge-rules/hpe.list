@@ -1,0 +1,22 @@
+# Source: v2fly/domain-list-community
+# DLC commit: 6cb593b (2025-06-27)
+# Generated at: 2025-08-09T11:16:17.974719Z
+# Notes:
+# - includes resolved recursively; attributes preserved.
+# - regexp: best-effort → DOMAIN/DOMAIN-WILDCARD; else fallback to URL-REGEX.
+DOMAIN-SUFFIX,greenlakeaas.com
+DOMAIN-SUFFIX,greenlakehybridcloud.com
+DOMAIN-SUFFIX,hewlett-packard.asia
+DOMAIN-SUFFIX,hewlett-packard.ch
+DOMAIN-SUFFIX,hewlett-packard.co.il
+DOMAIN-SUFFIX,hewlett-packard.co.uk
+DOMAIN-SUFFIX,hewlett-packard.co
+DOMAIN-SUFFIX,hewlett-packard.com.cn
+DOMAIN-SUFFIX,hewlett-packard.com.mx
+DOMAIN-SUFFIX,hewlett-packard.com.sg
+DOMAIN-SUFFIX,hewlett-packard.jp
+DOMAIN-SUFFIX,hewlett-packard.mobi
+DOMAIN-SUFFIX,hewlettpackard.enterprises
+DOMAIN-SUFFIX,hpe.com
+DOMAIN-SUFFIX,hpecyber.com
+DOMAIN,hpefonts.s3.amazonaws.com

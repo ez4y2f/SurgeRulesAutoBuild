@@ -1,0 +1,38 @@
+# Source: v2fly/domain-list-community
+# DLC commit: 6cb593b (2025-06-27)
+# Generated at: 2025-08-09T11:16:18.023340Z
+# Notes:
+# - includes resolved recursively; attributes preserved.
+# - regexp: best-effort → DOMAIN/DOMAIN-WILDCARD; else fallback to URL-REGEX.
+DOMAIN-SUFFIX,9ineverse.com
+DOMAIN-SUFFIX,buicha.social
+DOMAIN-SUFFIX,gyutte.site
+DOMAIN-SUFFIX,labo.wovs.tk
+DOMAIN-SUFFIX,maniakey.homes
+DOMAIN-SUFFIX,mfmf.club
+DOMAIN-SUFFIX,mi.kochudaho.me
+DOMAIN-SUFFIX,mi.mashiro.site
+DOMAIN-SUFFIX,mi.nakn.jp
+DOMAIN-SUFFIX,misskey-square.net
+DOMAIN-SUFFIX,misskey.04.si
+DOMAIN-SUFFIX,misskey.always-we-need.games
+DOMAIN-SUFFIX,misskey.art
+DOMAIN-SUFFIX,misskey.cloud
+DOMAIN-SUFFIX,misskey.design
+DOMAIN-SUFFIX,misskey.flowers
+DOMAIN-SUFFIX,misskey.gamelore.fun
+DOMAIN-SUFFIX,misskey.gg
+DOMAIN-SUFFIX,misskey.noellabo.jp
+DOMAIN-SUFFIX,misskey.ranranhome.info
+DOMAIN-SUFFIX,misskey.stream
+DOMAIN-SUFFIX,misskey.yukineko.me
+DOMAIN-SUFFIX,mk.shrimpia.network
+DOMAIN-SUFFIX,mk.yopo.work
+DOMAIN-SUFFIX,mof.kemomi.me
+DOMAIN-SUFFIX,msk.ilnk.info
+DOMAIN-SUFFIX,msk.kitazawa.me
+DOMAIN-SUFFIX,nijimiss.moe
+DOMAIN-SUFFIX,oekakiskey.com
+DOMAIN-SUFFIX,submarin.online
+DOMAIN-SUFFIX,sushi.ski
+DOMAIN-SUFFIX,trpger.us

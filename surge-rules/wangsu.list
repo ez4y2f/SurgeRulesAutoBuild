@@ -1,0 +1,20 @@
+# Source: v2fly/domain-list-community
+# DLC commit: 6cb593b (2025-06-27)
+# Generated at: 2025-08-09T11:16:18.119927Z
+# Notes:
+# - includes resolved recursively; attributes preserved.
+# - regexp: best-effort → DOMAIN/DOMAIN-WILDCARD; else fallback to URL-REGEX.
+DOMAIN-SUFFIX,51cdn.com
+DOMAIN-SUFFIX,8686c.com
+DOMAIN-SUFFIX,cdn30.org
+DOMAIN-SUFFIX,chinanetcenter.com
+DOMAIN-SUFFIX,lxdns.com
+DOMAIN-SUFFIX,lxdns.info
+DOMAIN-SUFFIX,lxdns.org
+DOMAIN-SUFFIX,ourdvsss.com
+DOMAIN-SUFFIX,speedws.info
+DOMAIN-SUFFIX,speedws.org
+DOMAIN-SUFFIX,wangsu.com
+DOMAIN-SUFFIX,wscdns.com
+DOMAIN-SUFFIX,wscdns.info
+DOMAIN-SUFFIX,wscdns.org

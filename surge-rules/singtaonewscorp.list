@@ -1,0 +1,24 @@
+# Source: v2fly/domain-list-community
+# DLC commit: 6cb593b (2025-06-27)
+# Generated at: 2025-08-09T11:16:18.075423Z
+# Notes:
+# - includes resolved recursively; attributes preserved.
+# - regexp: best-effort → DOMAIN/DOMAIN-WILDCARD; else fallback to URL-REGEX.
+DOMAIN-SUFFIX,singtaonewscorp.com
+DOMAIN-SUFFIX,sing68.com
+DOMAIN-SUFFIX,singtao.com
+DOMAIN-SUFFIX,singtaobooks.com
+DOMAIN-SUFFIX,singtaola.com
+DOMAIN-SUFFIX,singtaousa.com
+DOMAIN-SUFFIX,stheadline.com
+DOMAIN-SUFFIX,singtaoopo.com
+DOMAIN-SUFFIX,hkheadline.com
+DOMAIN-SUFFIX,thestandard.com.hk
+DOMAIN-SUFFIX,eastweek.com.hk
+DOMAIN-SUFFIX,easttouch.com.hk
+DOMAIN-SUFFIX,bastillepost.com
+DOMAIN-SUFFIX,eduplus.hk
+DOMAIN-SUFFIX,headlinejobs.hk
+DOMAIN-SUFFIX,jobmarket.com.hk
+DOMAIN-SUFFIX,my-magazine.me
+DOMAIN-SUFFIX,pcmarket.com.hk

@@ -1,0 +1,30 @@
+# Source: v2fly/domain-list-community
+# DLC commit: 6cb593b (2025-06-27)
+# Generated at: 2025-08-09T11:16:17.994351Z
+# Notes:
+# - includes resolved recursively; attributes preserved.
+# - regexp: best-effort → DOMAIN/DOMAIN-WILDCARD; else fallback to URL-REGEX.
+DOMAIN-SUFFIX,315dian.com
+DOMAIN-SUFFIX,doucang.cn
+DOMAIN-SUFFIX,doucang.com
+DOMAIN-SUFFIX,drp321.com
+DOMAIN-SUFFIX,erp.cn
+DOMAIN-SUFFIX,erp321.cn
+DOMAIN-SUFFIX,erp321.com
+DOMAIN-SUFFIX,erp321.net
+DOMAIN-SUFFIX,jsterp.cn
+DOMAIN-SUFFIX,jugongdan.com
+DOMAIN-SUFFIX,jushuitan.cn
+DOMAIN-SUFFIX,jushuitan.com
+DOMAIN-SUFFIX,jushuitan.net
+DOMAIN-SUFFIX,jushuitan-inc.com
+DOMAIN-SUFFIX,juxieyun.com
+DOMAIN-SUFFIX,scm121.cn
+DOMAIN-SUFFIX,scm121.com
+DOMAIN-SUFFIX,shopss.com
+DOMAIN-SUFFIX,shuiyaohuo.cn
+DOMAIN-SUFFIX,shuiyaohuo.com
+DOMAIN-SUFFIX,surerp.cn
+DOMAIN-SUFFIX,surerp.com
+DOMAIN-SUFFIX,sursung.cn
+DOMAIN-SUFFIX,sursung.com

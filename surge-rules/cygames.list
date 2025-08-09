@@ -1,0 +1,11 @@
+# Source: v2fly/domain-list-community
+# DLC commit: 6cb593b (2025-06-27)
+# Generated at: 2025-08-09T11:16:17.782245Z
+# Notes:
+# - includes resolved recursively; attributes preserved.
+# - regexp: best-effort → DOMAIN/DOMAIN-WILDCARD; else fallback to URL-REGEX.
+DOMAIN-SUFFIX,cygames.jp
+DOMAIN-SUFFIX,cygames.co.jp
+DOMAIN-SUFFIX,worldflipper.jp
+DOMAIN-SUFFIX,worldflipper.akamaized.net
+DOMAIN-SUFFIX,umamusume.akamaized.net

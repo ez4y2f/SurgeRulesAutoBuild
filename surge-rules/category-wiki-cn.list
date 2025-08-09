@@ -1,0 +1,17 @@
+# Source: v2fly/domain-list-community
+# DLC commit: 6cb593b (2025-06-27)
+# Generated at: 2025-08-09T11:16:17.730832Z
+# Notes:
+# - includes resolved recursively; attributes preserved.
+# - regexp: best-effort → DOMAIN/DOMAIN-WILDCARD; else fallback to URL-REGEX.
+DOMAIN-SUFFIX,fgo.wiki
+DOMAIN-SUFFIX,jikipedia.com
+DOMAIN-SUFFIX,mbalib.com
+DOMAIN-SUFFIX,qiuwen.wiki
+DOMAIN-SUFFIX,sec-wiki.com
+DOMAIN-SUFFIX,shidianbaike.com
+DOMAIN-SUFFIX,huijistatic.com
+DOMAIN-SUFFIX,huijiwiki.com
+DOMAIN-SUFFIX,moegirl.org
+DOMAIN-SUFFIX,moegirl.org.cn
+DOMAIN-SUFFIX,mcmod.cn

@@ -1,0 +1,17 @@
+# Source: v2fly/domain-list-community
+# DLC commit: 6cb593b (2025-06-27)
+# Generated at: 2025-08-09T11:16:17.727902Z
+# Notes:
+# - includes resolved recursively; attributes preserved.
+# - regexp: best-effort → DOMAIN/DOMAIN-WILDCARD; else fallback to URL-REGEX.
+DOMAIN-SUFFIX,bale.ai
+DOMAIN-SUFFIX,eitaa.com
+DOMAIN-SUFFIX,eitaa.ir
+DOMAIN-SUFFIX,gap.im
+DOMAIN-SUFFIX,gaplication.com
+DOMAIN-SUFFIX,mizito.ir
+DOMAIN-SUFFIX,niniban.com
+DOMAIN-SUFFIX,ninisite.com
+DOMAIN-SUFFIX,rubika.ir
+DOMAIN-SUFFIX,splus.ir
+DOMAIN-SUFFIX,virasty.com

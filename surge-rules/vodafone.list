@@ -1,0 +1,14 @@
+# Source: v2fly/domain-list-community
+# DLC commit: 6cb593b (2025-06-27)
+# Generated at: 2025-08-09T11:16:18.117299Z
+# Notes:
+# - includes resolved recursively; attributes preserved.
+# - regexp: best-effort → DOMAIN/DOMAIN-WILDCARD; else fallback to URL-REGEX.
+DOMAIN-SUFFIX,myvodafone.com.au
+DOMAIN-SUFFIX,myvodafone.com.ws
+DOMAIN-SUFFIX,vodafone.co.uk
+DOMAIN-SUFFIX,vodafone.com
+DOMAIN-SUFFIX,vodafone.com.au
+DOMAIN-SUFFIX,vodafone.com.tr
+DOMAIN-SUFFIX,vodafone.de
+DOMAIN-SUFFIX,vodafone.it

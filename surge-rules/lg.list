@@ -1,0 +1,16 @@
+# Source: v2fly/domain-list-community
+# DLC commit: 6cb593b (2025-06-27)
+# Generated at: 2025-08-09T11:16:18.004567Z
+# Notes:
+# - includes resolved recursively; attributes preserved.
+# - regexp: best-effort → DOMAIN/DOMAIN-WILDCARD; else fallback to URL-REGEX.
+DOMAIN-SUFFIX,lg.com
+DOMAIN-SUFFIX,lgappstv.com
+DOMAIN-SUFFIX,lge.co.kr
+DOMAIN-SUFFIX,lge.com
+DOMAIN-SUFFIX,lgecareers.com
+DOMAIN-SUFFIX,lghvac.com
+DOMAIN-SUFFIX,lghvacstory.com
+DOMAIN-SUFFIX,lgrecyclingprogram.com
+DOMAIN-SUFFIX,lgsalesportal.com
+DOMAIN,lgelectronics.122.2o7.net

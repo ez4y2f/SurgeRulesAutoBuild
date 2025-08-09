@@ -1,0 +1,25 @@
+# Source: v2fly/domain-list-community
+# DLC commit: 6cb593b (2025-06-27)
+# Generated at: 2025-08-09T11:16:17.554553Z
+# Notes:
+# - includes resolved recursively; attributes preserved.
+# - regexp: best-effort → DOMAIN/DOMAIN-WILDCARD; else fallback to URL-REGEX.
+DOMAIN-SUFFIX,calgon.at
+DOMAIN-SUFFIX,calgon.be
+DOMAIN-SUFFIX,calgon.ch
+DOMAIN-SUFFIX,calgon.cn
+DOMAIN-SUFFIX,calgon.co.uk
+DOMAIN-SUFFIX,calgon.com
+DOMAIN-SUFFIX,calgon.com.tr
+DOMAIN-SUFFIX,calgon.de
+DOMAIN-SUFFIX,calgon.es
+DOMAIN-SUFFIX,calgon.fr
+DOMAIN-SUFFIX,calgon.ie
+DOMAIN-SUFFIX,calgon.it
+DOMAIN-SUFFIX,calgon.nl
+DOMAIN-SUFFIX,calgon.pt
+DOMAIN-SUFFIX,calgon.ru
+DOMAIN-SUFFIX,calgon.tv
+DOMAIN-SUFFIX,calgoncarbon-china.com
+DOMAIN-SUFFIX,calgoncarbon.com
+DOMAIN-SUFFIX,calgonit.com

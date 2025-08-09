@@ -1,0 +1,16 @@
+# Source: v2fly/domain-list-community
+# DLC commit: 6cb593b (2025-06-27)
+# Generated at: 2025-08-09T11:16:18.087993Z
+# Notes:
+# - includes resolved recursively; attributes preserved.
+# - regexp: best-effort → DOMAIN/DOMAIN-WILDCARD; else fallback to URL-REGEX.
+DOMAIN-SUFFIX,gongqingyun.cn
+DOMAIN-SUFFIX,jzfz.net
+DOMAIN-SUFFIX,sumkoo.cn
+DOMAIN-SUFFIX,sumkoo.com
+DOMAIN-SUFFIX,sumkoo.net
+DOMAIN-SUFFIX,veeqi.net
+DOMAIN-SUFFIX,wenmingban.com
+DOMAIN-SUFFIX,zhiyuanhe.cn
+DOMAIN-SUFFIX,zhiyuanyun.com.cn
+DOMAIN-SUFFIX,zyhe.com.cn

@@ -1,0 +1,35 @@
+# Source: v2fly/domain-list-community
+# DLC commit: 6cb593b (2025-06-27)
+# Generated at: 2025-08-09T11:16:17.504861Z
+# Notes:
+# - includes resolved recursively; attributes preserved.
+# - regexp: best-effort → DOMAIN/DOMAIN-WILDCARD; else fallback to URL-REGEX.
+DOMAIN-SUFFIX,56laile.com
+DOMAIN-SUFFIX,800best.cn
+DOMAIN-SUFFIX,800best.com
+DOMAIN-SUFFIX,800best.com.cn
+DOMAIN-SUFFIX,800best.net
+DOMAIN-SUFFIX,800bestapi.cn
+DOMAIN-SUFFIX,800bestapi.com
+DOMAIN-SUFFIX,800bestapp.cn
+DOMAIN-SUFFIX,800bestapp.com
+DOMAIN-SUFFIX,baishinetwork.com
+DOMAIN-SUFFIX,best-inc.com
+DOMAIN-SUFFIX,bestcrossborder.com
+DOMAIN-SUFFIX,bestdataclub.com
+DOMAIN-SUFFIX,bestincapi.cn
+DOMAIN-SUFFIX,bestincapi.com
+DOMAIN-SUFFIX,bestincapp.cn
+DOMAIN-SUFFIX,bestincapp.com
+DOMAIN-SUFFIX,linliyz.com
+DOMAIN-SUFFIX,qiancangwms.com
+DOMAIN-SUFFIX,qianyierp.com
+DOMAIN-SUFFIX,t1tms.com
+DOMAIN-SUFFIX,t8tms.com
+DOMAIN-SUFFIX,t9tms.com
+DOMAIN-SUFFIX,tnettms.com
+DOMAIN-SUFFIX,wangniuwms.com
+DOMAIN-SUFFIX,xinyuanfin.com
+DOMAIN-SUFFIX,youyierp.com
+DOMAIN-SUFFIX,youyitms.com
+DOMAIN-SUFFIX,youyiwms.com

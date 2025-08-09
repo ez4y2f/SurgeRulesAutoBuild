@@ -1,0 +1,15 @@
+# Source: v2fly/domain-list-community
+# DLC commit: 6cb593b (2025-06-27)
+# Generated at: 2025-08-09T11:16:18.115714Z
+# Notes:
+# - includes resolved recursively; attributes preserved.
+# - regexp: best-effort → DOMAIN/DOMAIN-WILDCARD; else fallback to URL-REGEX.
+DOMAIN-SUFFIX,visa.cn
+DOMAIN-SUFFIX,visa.com.cn
+DOMAIN-SUFFIX,financialsoccer.com.cn
+DOMAIN-SUFFIX,practicalmoneyskills.cn
+DOMAIN-SUFFIX,practicalmoneyskills.com.cn
+DOMAIN-SUFFIX,visainfinite.cn
+DOMAIN-SUFFIX,visapay.cn
+DOMAIN-SUFFIX,visaplatinum.cn
+DOMAIN-SUFFIX,visaplatinum.com.cn

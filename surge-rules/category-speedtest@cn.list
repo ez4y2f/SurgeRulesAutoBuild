@@ -1,0 +1,23 @@
+# Source: v2fly/domain-list-community
+# DLC commit: 6cb593b (2025-06-27)
+# Generated at: 2025-08-09T11:16:17.728604Z
+# Notes:
+# - includes resolved recursively; attributes preserved.
+# - regexp: best-effort → DOMAIN/DOMAIN-WILDCARD; else fallback to URL-REGEX.
+DOMAIN-SUFFIX,cnspeedtest.cn
+DOMAIN-SUFFIX,speed.neu6.edu.cn
+DOMAIN-SUFFIX,speed.nuaa.edu.cn
+DOMAIN-SUFFIX,speed.qlu.edu.cn
+DOMAIN-SUFFIX,speed.ujs.edu.cn
+DOMAIN-SUFFIX,speed6.ujs.edu.cn
+DOMAIN-SUFFIX,speedtest.cn
+DOMAIN-SUFFIX,speedtest.mfcyun.com
+DOMAIN-SUFFIX,speedtest.shu.edu.cn
+DOMAIN-SUFFIX,speedtest6.shu.edu.cn
+DOMAIN-SUFFIX,speedtest.xaut.edu.cn
+DOMAIN-SUFFIX,test.ustc.edu.cn
+DOMAIN-SUFFIX,test6.ustc.edu.cn
+DOMAIN-SUFFIX,test.nju.edu.cn
+DOMAIN-SUFFIX,test6.nju.edu.cn
+DOMAIN-SUFFIX,speed.nju.edu.cn
+DOMAIN-SUFFIX,xnfz.seu.edu.cn

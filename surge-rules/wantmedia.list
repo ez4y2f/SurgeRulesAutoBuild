@@ -1,0 +1,20 @@
+# Source: v2fly/domain-list-community
+# DLC commit: 6cb593b (2025-06-27)
+# Generated at: 2025-08-09T11:16:18.120087Z
+# Notes:
+# - includes resolved recursively; attributes preserved.
+# - regexp: best-effort → DOMAIN/DOMAIN-WILDCARD; else fallback to URL-REGEX.
+DOMAIN-SUFFIX,want-media.com
+DOMAIN-SUFFIX,chinatimes.com
+DOMAIN-SUFFIX,chinatimes.com.tw
+DOMAIN-SUFFIX,infotimes.com.tw
+DOMAIN-SUFFIX,ctwant.com
+DOMAIN-SUFFIX,ctee.com.tw
+DOMAIN-SUFFIX,ctv.com.tw
+DOMAIN-SUFFIX,ctitv.com.tw
+DOMAIN-SUFFIX,wantblogger.com
+DOMAIN-SUFFIX,zwtvusa.com
+DOMAIN-SUFFIX,benliton.com
+DOMAIN-SUFFIX,lecoin.cc
+DOMAIN-SUFFIX,loveparents.org
+DOMAIN-SUFFIX,superstation.com.tw

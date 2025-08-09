@@ -1,0 +1,23 @@
+# Source: v2fly/domain-list-community
+# DLC commit: 6cb593b (2025-06-27)
+# Generated at: 2025-08-09T11:16:17.782564Z
+# Notes:
+# - includes resolved recursively; attributes preserved.
+# - regexp: best-effort → DOMAIN/DOMAIN-WILDCARD; else fallback to URL-REGEX.
+DOMAIN-SUFFIX,anm.co.uk
+DOMAIN-SUFFIX,dailym.ai
+DOMAIN-SUFFIX,dailymail.co.uk
+DOMAIN-SUFFIX,dailymail.com
+DOMAIN-SUFFIX,dailymail.com.au
+DOMAIN-SUFFIX,dailymail.dk
+DOMAIN-SUFFIX,dailymailonline.com
+DOMAIN-SUFFIX,dmgmediaprivacy.co.uk
+DOMAIN-SUFFIX,mailhealth.com
+DOMAIN-SUFFIX,mailonline.co.uk
+DOMAIN-SUFFIX,mailonline.com
+DOMAIN-SUFFIX,mailonsunday.co.uk
+DOMAIN-SUFFIX,mailonsunday.ie
+DOMAIN-SUFFIX,metro.co.uk
+DOMAIN-SUFFIX,mol.im
+DOMAIN-SUFFIX,thisismoney.co.uk
+DOMAIN-SUFFIX,thismon.ee

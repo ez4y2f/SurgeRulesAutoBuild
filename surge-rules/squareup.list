@@ -1,0 +1,18 @@
+# Source: v2fly/domain-list-community
+# DLC commit: 6cb593b (2025-06-27)
+# Generated at: 2025-08-09T11:16:18.083593Z
+# Notes:
+# - includes resolved recursively; attributes preserved.
+# - regexp: best-effort → DOMAIN/DOMAIN-WILDCARD; else fallback to URL-REGEX.
+DOMAIN-SUFFIX,cash.app
+DOMAIN-SUFFIX,cashbycashapp.com
+DOMAIN-SUFFIX,gosq.co
+DOMAIN-SUFFIX,gosq.com
+DOMAIN-SUFFIX,issquaredown.com
+DOMAIN-SUFFIX,issquareup.com
+DOMAIN-SUFFIX,mkt.com
+DOMAIN-SUFFIX,sellercommunity.com
+DOMAIN-SUFFIX,squarecapital.com
+DOMAIN-SUFFIX,squarecdn.com
+DOMAIN-SUFFIX,squarecloudservices.com
+DOMAIN-SUFFIX,squareup.com

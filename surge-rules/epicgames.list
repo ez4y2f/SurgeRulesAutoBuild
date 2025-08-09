@@ -1,0 +1,36 @@
+# Source: v2fly/domain-list-community
+# DLC commit: 6cb593b (2025-06-27)
+# Generated at: 2025-08-09T11:16:17.799021Z
+# Notes:
+# - includes resolved recursively; attributes preserved.
+# - regexp: best-effort → DOMAIN/DOMAIN-WILDCARD; else fallback to URL-REGEX.
+DOMAIN-SUFFIX,3lateral.com
+DOMAIN-SUFFIX,artstation.com
+DOMAIN-SUFFIX,capturingreality.com
+DOMAIN-SUFFIX,cubicmotion.com
+DOMAIN-SUFFIX,battlebreakers.com
+DOMAIN-SUFFIX,eac-cdn.com
+DOMAIN-SUFFIX,easy.ac
+DOMAIN-SUFFIX,easyanticheat.net
+DOMAIN-SUFFIX,epicgames.com
+DOMAIN-SUFFIX,epicgames.dev
+DOMAIN-SUFFIX,epicgamescdn.com
+DOMAIN-SUFFIX,fab.com
+DOMAIN-SUFFIX,fortnite.com
+DOMAIN-SUFFIX,hyprsense.com
+DOMAIN-SUFFIX,paragon.com
+DOMAIN-SUFFIX,playparagon.com
+DOMAIN-SUFFIX,quixel.com
+DOMAIN-SUFFIX,quixel.se
+DOMAIN-SUFFIX,radgametools.com
+DOMAIN-SUFFIX,realityscan.com
+DOMAIN-SUFFIX,roborecall.com
+DOMAIN-SUFFIX,shadowcomplex.com
+DOMAIN-SUFFIX,sketchfab.com
+DOMAIN-SUFFIX,spyjinx.com
+DOMAIN-SUFFIX,twinmotion.com
+DOMAIN-SUFFIX,unrealengine.com
+DOMAIN-SUFFIX,unrealtournament.com
+URL-REGEX,^https?://cdn\d-epicgames-\d+\.file\.myqcloud\.com(?::\d+)?(?:/|$)
+DOMAIN,epicgames-download\d.akamaized.net
+URL-REGEX,^https?://epicgames-download\d-\d+\.file\.myqcloud\.com(?::\d+)?(?:/|$)

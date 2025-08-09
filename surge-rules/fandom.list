@@ -1,0 +1,18 @@
+# Source: v2fly/domain-list-community
+# DLC commit: 6cb593b (2025-06-27)
+# Generated at: 2025-08-09T11:16:17.803605Z
+# Notes:
+# - includes resolved recursively; attributes preserved.
+# - regexp: best-effort → DOMAIN/DOMAIN-WILDCARD; else fallback to URL-REGEX.
+DOMAIN-SUFFIX,cursecdn.com
+DOMAIN-SUFFIX,fandom.com
+DOMAIN-SUFFIX,wikia.com
+DOMAIN-SUFFIX,wikia.org
+DOMAIN-SUFFIX,dndbeyond.com
+DOMAIN-SUFFIX,futhead.com
+DOMAIN-SUFFIX,gamepedia.com
+DOMAIN-SUFFIX,muthead.com
+DOMAIN-SUFFIX,cortexrpg.com
+DOMAIN-SUFFIX,fanatical.com
+DOMAIN-SUFFIX,wikia.nocookie.net
+DOMAIN,fandom.zendesk.com

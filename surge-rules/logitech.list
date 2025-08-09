@@ -1,0 +1,19 @@
+# Source: v2fly/domain-list-community
+# DLC commit: 6cb593b (2025-06-27)
+# Generated at: 2025-08-09T11:16:18.007570Z
+# Notes:
+# - includes resolved recursively; attributes preserved.
+# - regexp: best-effort → DOMAIN/DOMAIN-WILDCARD; else fallback to URL-REGEX.
+DOMAIN-SUFFIX,logi.com
+DOMAIN-SUFFIX,logicool.co.jp
+DOMAIN-SUFFIX,logicoolg.com
+DOMAIN-SUFFIX,logitech.biz
+DOMAIN-SUFFIX,logitech.com
+DOMAIN-SUFFIX,logitech.com.cn
+DOMAIN-SUFFIX,logitech.fr
+DOMAIN-SUFFIX,logitech.io
+DOMAIN-SUFFIX,logitechg.com
+DOMAIN-SUFFIX,logitechg.com.cn
+DOMAIN-SUFFIX,logitechg.fr
+DOMAIN-SUFFIX,logitechio.com.cn
+DOMAIN-SUFFIX,worldsfastestgamer.net

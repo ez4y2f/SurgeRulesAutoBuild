@@ -1,0 +1,27 @@
+# Source: v2fly/domain-list-community
+# DLC commit: 6cb593b (2025-06-27)
+# Generated at: 2025-08-09T11:16:18.088305Z
+# Notes:
+# - includes resolved recursively; attributes preserved.
+# - regexp: best-effort → DOMAIN/DOMAIN-WILDCARD; else fallback to URL-REGEX.
+DOMAIN-SUFFIX,boombeach.com
+DOMAIN-SUFFIX,brawlstars.com
+DOMAIN-SUFFIX,brawlstarsgame.com
+DOMAIN-SUFFIX,clash.com
+DOMAIN-SUFFIX,clashmini.com
+DOMAIN-SUFFIX,clashofclans.com
+DOMAIN-SUFFIX,clashroyale.com
+DOMAIN-SUFFIX,clashroyaleapp.com
+DOMAIN-SUFFIX,gamesfirsthelsinki.com
+DOMAIN-SUFFIX,hayday.com
+DOMAIN-SUFFIX,haydaygame.com
+DOMAIN-SUFFIX,mo.co
+DOMAIN-SUFFIX,seeurlpcl.com
+DOMAIN-SUFFIX,squadbusters.com
+DOMAIN-SUFFIX,supercell.com
+DOMAIN-SUFFIX,supercell.helpshift.com
+DOMAIN-SUFFIX,supercell.net
+DOMAIN-SUFFIX,supercellcreators.com
+DOMAIN-SUFFIX,supercellgames.com
+DOMAIN-SUFFIX,supercellid.com
+DOMAIN-SUFFIX,supercellstore.com

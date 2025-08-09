@@ -1,0 +1,18 @@
+# Source: v2fly/domain-list-community
+# DLC commit: 6cb593b (2025-06-27)
+# Generated at: 2025-08-09T11:16:18.124428Z
+# Notes:
+# - includes resolved recursively; attributes preserved.
+# - regexp: best-effort → DOMAIN/DOMAIN-WILDCARD; else fallback to URL-REGEX.
+DOMAIN-SUFFIX,wps.cn
+DOMAIN-SUFFIX,wps.com
+DOMAIN-SUFFIX,wpscdn.cn
+DOMAIN-SUFFIX,wpscdn.com
+DOMAIN-SUFFIX,kscord.com
+DOMAIN-SUFFIX,51dzt.com
+DOMAIN-SUFFIX,iciba.com
+DOMAIN-SUFFIX,docer.com
+DOMAIN-SUFFIX,kdocs.cn
+DOMAIN-SUFFIX,wpsmail.net
+DOMAIN-SUFFIX,papocket.com
+DOMAIN-SUFFIX,wpspdf.cn

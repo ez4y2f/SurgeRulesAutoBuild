@@ -1,0 +1,16 @@
+# Source: v2fly/domain-list-community
+# DLC commit: 6cb593b (2025-06-27)
+# Generated at: 2025-08-09T11:16:17.625278Z
+# Notes:
+# - includes resolved recursively; attributes preserved.
+# - regexp: best-effort → DOMAIN/DOMAIN-WILDCARD; else fallback to URL-REGEX.
+DOMAIN-SUFFIX,aiqicha.baidu.com
+DOMAIN-SUFFIX,hongdunwang.com.cn
+DOMAIN-SUFFIX,qcc.com
+DOMAIN-SUFFIX,qichacha.com
+DOMAIN-SUFFIX,qichamao.com
+DOMAIN-SUFFIX,qixin.com
+DOMAIN-SUFFIX,qyyjt.cn
+DOMAIN-SUFFIX,jindidata.com
+DOMAIN-SUFFIX,tianyancha.com
+DOMAIN-SUFFIX,x315.com

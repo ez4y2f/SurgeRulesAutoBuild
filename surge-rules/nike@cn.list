@@ -1,0 +1,26 @@
+# Source: v2fly/domain-list-community
+# DLC commit: 6cb593b (2025-06-27)
+# Generated at: 2025-08-09T11:16:18.034293Z
+# Notes:
+# - includes resolved recursively; attributes preserved.
+# - regexp: best-effort → DOMAIN/DOMAIN-WILDCARD; else fallback to URL-REGEX.
+DOMAIN-SUFFIX,just-do-it.cn
+DOMAIN-SUFFIX,nike-shox.cn
+DOMAIN-SUFFIX,nike.cn
+DOMAIN-SUFFIX,nikebetterworld.cn
+DOMAIN-SUFFIX,nikebetterworld.com.cn
+DOMAIN-SUFFIX,nikechina.cn
+DOMAIN-SUFFIX,nikegolf.cn
+DOMAIN-SUFFIX,nikeid.cn
+DOMAIN-SUFFIX,nikeid.com.cn
+DOMAIN-SUFFIX,nikeinc.com.cn
+DOMAIN-SUFFIX,nikelab.cn
+DOMAIN-SUFFIX,nikelab.com.cn
+DOMAIN-SUFFIX,nikeliuxiang.cn
+DOMAIN-SUFFIX,nikeliuxiang.com.cn
+DOMAIN-SUFFIX,nikemall.cn
+DOMAIN-SUFFIX,nikemall.com.cn
+DOMAIN-SUFFIX,nikerunclub.cn
+DOMAIN-SUFFIX,nikerunclub.com.cn
+DOMAIN-SUFFIX,nikerunning.com.cn
+DOMAIN-SUFFIX,nikestore.cn

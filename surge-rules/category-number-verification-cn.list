@@ -1,0 +1,13 @@
+# Source: v2fly/domain-list-community
+# DLC commit: 6cb593b (2025-06-27)
+# Generated at: 2025-08-09T11:16:17.665291Z
+# Notes:
+# - includes resolved recursively; attributes preserved.
+# - regexp: best-effort → DOMAIN/DOMAIN-WILDCARD; else fallback to URL-REGEX.
+DOMAIN,id6.me
+DOMAIN-SUFFIX,cmpassport.com
+DOMAIN,opencloud.wostore.cn
+DOMAIN,hs.wosms.cn
+DOMAIN,enrichgw.10010.com
+DOMAIN,hap.10010.com
+URL-REGEX,^https?://nis.+\.10010\.com(?::\d+)?(?:/|$)

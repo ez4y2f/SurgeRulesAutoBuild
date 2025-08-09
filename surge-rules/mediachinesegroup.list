@@ -1,0 +1,27 @@
+# Source: v2fly/domain-list-community
+# DLC commit: 6cb593b (2025-06-27)
+# Generated at: 2025-08-09T11:16:18.012054Z
+# Notes:
+# - includes resolved recursively; attributes preserved.
+# - regexp: best-effort → DOMAIN/DOMAIN-WILDCARD; else fallback to URL-REGEX.
+DOMAIN-SUFFIX,mediachinese.com
+DOMAIN-SUFFIX,mysinchew.com
+DOMAIN-SUFFIX,sinchew.com.my
+DOMAIN-SUFFIX,sinchew.my
+DOMAIN-SUFFIX,soccerfanz.com.my
+DOMAIN-SUFFIX,enanyang.my
+DOMAIN-SUFFIX,chinapress.com.my
+DOMAIN-SUFFIX,guangming.com.my
+DOMAIN-SUFFIX,mingpao.com
+DOMAIN-SUFFIX,mingpaocanada.com
+DOMAIN-SUFFIX,mingpaomonthly.com
+DOMAIN-SUFFIX,mingpaotor.com
+DOMAIN-SUFFIX,mingpaovan.com
+DOMAIN-SUFFIX,mingshengbao.com
+DOMAIN-SUFFIX,mingwatch.com
+DOMAIN-SUFFIX,mpfinance.com
+DOMAIN-SUFFIX,mpweekly.com
+DOMAIN-SUFFIX,yzzk.com
+DOMAIN-SUFFIX,omghk.com
+DOMAIN-SUFFIX,mings.hk
+DOMAIN-SUFFIX,mings-fashion.com

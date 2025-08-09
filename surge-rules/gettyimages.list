@@ -1,0 +1,31 @@
+# Source: v2fly/domain-list-community
+# DLC commit: 6cb593b (2025-06-27)
+# Generated at: 2025-08-09T11:16:17.956344Z
+# Notes:
+# - includes resolved recursively; attributes preserved.
+# - regexp: best-effort → DOMAIN/DOMAIN-WILDCARD; else fallback to URL-REGEX.
+DOMAIN-SUFFIX,gettyimages.ae
+DOMAIN-SUFFIX,gettyimages.at
+DOMAIN-SUFFIX,gettyimages.be
+DOMAIN-SUFFIX,gettyimages.ca
+DOMAIN-SUFFIX,gettyimages.ch
+DOMAIN-SUFFIX,gettyimages.co.jp
+DOMAIN-SUFFIX,gettyimages.co.nz
+DOMAIN-SUFFIX,gettyimages.co.uk
+DOMAIN-SUFFIX,gettyimages.com
+DOMAIN-SUFFIX,gettyimages.com.au
+DOMAIN-SUFFIX,gettyimages.com.br
+DOMAIN-SUFFIX,gettyimages.com.mx
+DOMAIN-SUFFIX,gettyimages.de
+DOMAIN-SUFFIX,gettyimages.dk
+DOMAIN-SUFFIX,gettyimages.es
+DOMAIN-SUFFIX,gettyimages.fi
+DOMAIN-SUFFIX,gettyimages.fr
+DOMAIN-SUFFIX,gettyimages.hk
+DOMAIN-SUFFIX,gettyimages.ie
+DOMAIN-SUFFIX,gettyimages.in
+DOMAIN-SUFFIX,gettyimages.it
+DOMAIN-SUFFIX,gettyimages.nl
+DOMAIN-SUFFIX,gettyimages.no
+DOMAIN-SUFFIX,gettyimages.pt
+DOMAIN-SUFFIX,gettyimages.se

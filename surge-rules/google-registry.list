@@ -1,0 +1,19 @@
+# Source: v2fly/domain-list-community
+# DLC commit: 6cb593b (2025-06-27)
+# Generated at: 2025-08-09T11:16:17.965126Z
+# Notes:
+# - includes resolved recursively; attributes preserved.
+# - regexp: best-effort → DOMAIN/DOMAIN-WILDCARD; else fallback to URL-REGEX.
+DOMAIN-SUFFIX,charlestonroadregistry.com
+DOMAIN-SUFFIX,crr.com
+DOMAIN-SUFFIX,registry.google
+DOMAIN-SUFFIX,get.app
+DOMAIN-SUFFIX,get.dev
+DOMAIN-SUFFIX,get.how
+DOMAIN-SUFFIX,get.new
+DOMAIN-SUFFIX,get.page
+DOMAIN-SUFFIX,get.rsvp
+DOMAIN-SUFFIX,hey.boo
+DOMAIN-SUFFIX,iam.soy
+DOMAIN-SUFFIX,new.day
+DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c

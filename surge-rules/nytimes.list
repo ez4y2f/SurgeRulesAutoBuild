@@ -1,0 +1,15 @@
+# Source: v2fly/domain-list-community
+# DLC commit: 6cb593b (2025-06-27)
+# Generated at: 2025-08-09T11:16:18.037732Z
+# Notes:
+# - includes resolved recursively; attributes preserved.
+# - regexp: best-effort → DOMAIN/DOMAIN-WILDCARD; else fallback to URL-REGEX.
+DOMAIN-SUFFIX,nyt.com
+DOMAIN-SUFFIX,nyt.net
+DOMAIN-SUFFIX,nytchina.com
+DOMAIN-SUFFIX,nytcn.me
+DOMAIN-SUFFIX,nytco.com
+DOMAIN-SUFFIX,nyti.ms
+DOMAIN-SUFFIX,nytimes.com
+DOMAIN-SUFFIX,nytstyle.com
+DOMAIN-SUFFIX,timestalks.com

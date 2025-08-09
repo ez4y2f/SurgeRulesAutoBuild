@@ -1,0 +1,12 @@
+# Source: v2fly/domain-list-community
+# DLC commit: 6cb593b (2025-06-27)
+# Generated at: 2025-08-09T11:16:18.066956Z
+# Notes:
+# - includes resolved recursively; attributes preserved.
+# - regexp: best-effort → DOMAIN/DOMAIN-WILDCARD; else fallback to URL-REGEX.
+DOMAIN-SUFFIX,fandango.com
+DOMAIN-SUFFIX,mgo.com
+DOMAIN-SUFFIX,mgo-images.com
+DOMAIN-SUFFIX,ravm.tv
+DOMAIN-SUFFIX,roku.com
+DOMAIN-SUFFIX,rokutime.com

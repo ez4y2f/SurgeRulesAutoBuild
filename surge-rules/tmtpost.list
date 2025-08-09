@@ -1,0 +1,14 @@
+# Source: v2fly/domain-list-community
+# DLC commit: 6cb593b (2025-06-27)
+# Generated at: 2025-08-09T11:16:18.104172Z
+# Notes:
+# - includes resolved recursively; attributes preserved.
+# - regexp: best-effort → DOMAIN/DOMAIN-WILDCARD; else fallback to URL-REGEX.
+DOMAIN-SUFFIX,tmtpost.com
+DOMAIN-SUFFIX,chaindd.com
+DOMAIN-SUFFIX,72whys.com
+DOMAIN-SUFFIX,checkzeit.com
+DOMAIN-SUFFIX,tivitv.com
+DOMAIN-SUFFIX,tigeek.net.cn
+DOMAIN-SUFFIX,tmtsmartlife.com
+DOMAIN-SUFFIX,tmtsmartrun.com

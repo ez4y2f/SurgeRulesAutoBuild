@@ -1,0 +1,14 @@
+# Source: v2fly/domain-list-community
+# DLC commit: 6cb593b (2025-06-27)
+# Generated at: 2025-08-09T11:16:17.556420Z
+# Notes:
+# - includes resolved recursively; attributes preserved.
+# - regexp: best-effort → DOMAIN/DOMAIN-WILDCARD; else fallback to URL-REGEX.
+DOMAIN-SUFFIX,colorfulstage.com
+DOMAIN-SUFFIX,crypton.co.jp
+DOMAIN-SUFFIX,lapriere.jp
+DOMAIN-SUFFIX,magicalmirai.com
+DOMAIN-SUFFIX,mikuexpo.com
+DOMAIN-SUFFIX,piapro.net
+DOMAIN-SUFFIX,snowmiku.com
+DOMAIN-SUFFIX,bowlroll.net

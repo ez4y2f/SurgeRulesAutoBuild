@@ -1,0 +1,23 @@
+# Source: v2fly/domain-list-community
+# DLC commit: 6cb593b (2025-06-27)
+# Generated at: 2025-08-09T11:16:18.098846Z
+# Notes:
+# - includes resolved recursively; attributes preserved.
+# - regexp: best-effort → DOMAIN/DOMAIN-WILDCARD; else fallback to URL-REGEX.
+DOMAIN-SUFFIX,kernel.org
+DOMAIN-SUFFIX,linux.org
+DOMAIN-SUFFIX,amp.dev
+DOMAIN-SUFFIX,ampproject.com
+DOMAIN-SUFFIX,ampproject.net
+DOMAIN-SUFFIX,ampproject.org
+DOMAIN,cdn.ampproject.org
+DOMAIN,amp.akamaized.net
+DOMAIN-SUFFIX,electronjs.org
+DOMAIN-SUFFIX,jquery.com
+DOMAIN-SUFFIX,jquerymobile.com
+DOMAIN-SUFFIX,jqueryui.com
+DOMAIN-SUFFIX,mochajs.org
+DOMAIN-SUFFIX,nodejs.org
+DOMAIN-SUFFIX,openjsf.org
+DOMAIN-SUFFIX,lfai.foundation
+DOMAIN-SUFFIX,linuxfoundation.org

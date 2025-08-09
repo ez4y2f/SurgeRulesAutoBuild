@@ -1,0 +1,20 @@
+# Source: v2fly/domain-list-community
+# DLC commit: 6cb593b (2025-06-27)
+# Generated at: 2025-08-09T11:16:18.131905Z
+# Notes:
+# - includes resolved recursively; attributes preserved.
+# - regexp: best-effort → DOMAIN/DOMAIN-WILDCARD; else fallback to URL-REGEX.
+DOMAIN-SUFFIX,chuokoron.jp
+DOMAIN-SUFFIX,fujinkoron.jp
+DOMAIN-SUFFIX,hochi.news
+DOMAIN-SUFFIX,ryokoyomiuri.co.jp
+DOMAIN-SUFFIX,the-japan-news.com
+DOMAIN-SUFFIX,ync.ne.jp
+DOMAIN-SUFFIX,yomikyo.or.jp
+DOMAIN-SUFFIX,yomilogi.com
+DOMAIN-SUFFIX,yomiuri-johkai.co.jp
+DOMAIN-SUFFIX,yomiuri-johkai.co.jp
+DOMAIN-SUFFIX,yomiuri-ryokou.co.jp
+DOMAIN-SUFFIX,yomiuri-shimbun.pressreader.com
+DOMAIN-SUFFIX,yomiuri-systec.co.jp
+DOMAIN-SUFFIX,yomiuri.co.jp

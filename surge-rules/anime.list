@@ -1,0 +1,27 @@
+# Source: v2fly/domain-list-community
+# DLC commit: 6cb593b (2025-06-27)
+# Generated at: 2025-08-09T11:16:17.519036Z
+# Notes:
+# - includes resolved recursively; attributes preserved.
+# - regexp: best-effort → DOMAIN/DOMAIN-WILDCARD; else fallback to URL-REGEX.
+DOMAIN-SUFFIX,9anime.cz
+DOMAIN-SUFFIX,9anime.id
+DOMAIN-SUFFIX,9anime.to
+DOMAIN-SUFFIX,9anime.ws
+DOMAIN-SUFFIX,age.tv
+DOMAIN-SUFFIX,agedm.org
+DOMAIN-SUFFIX,agedm.tv
+DOMAIN-SUFFIX,agefans.com
+DOMAIN-SUFFIX,agemys.org
+DOMAIN-SUFFIX,agedm.app
+DOMAIN-SUFFIX,animedao-tv.com
+DOMAIN-SUFFIX,crunchyroll.com
+DOMAIN-SUFFIX,funimation.com
+DOMAIN-SUFFIX,vrv.co
+DOMAIN-SUFFIX,gogoanime.vc
+DOMAIN-SUFFIX,gogoanime.wiki
+DOMAIN-SUFFIX,gogoanime3.co
+DOMAIN-SUFFIX,gogotaku.info
+DOMAIN-SUFFIX,gogo-load.com
+DOMAIN-SUFFIX,gogocdn.net
+DOMAIN-SUFFIX,hidive.com

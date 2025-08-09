@@ -1,0 +1,26 @@
+# Source: v2fly/domain-list-community
+# DLC commit: 6cb593b (2025-06-27)
+# Generated at: 2025-08-09T11:16:18.078979Z
+# Notes:
+# - includes resolved recursively; attributes preserved.
+# - regexp: best-effort → DOMAIN/DOMAIN-WILDCARD; else fallback to URL-REGEX.
+DOMAIN-SUFFIX,softbank
+DOMAIN-SUFFIX,sb-mobile.jp
+DOMAIN-SUFFIX,sb-telecom.net
+DOMAIN-SUFFIX,softbank-ipo.com
+DOMAIN-SUFFIX,softbank-jp.com
+DOMAIN-SUFFIX,softbank-robotics.com
+DOMAIN-SUFFIX,softbank-telecom.com
+DOMAIN-SUFFIX,softbank-telecom.net
+DOMAIN-SUFFIX,softbank.jp
+DOMAIN-SUFFIX,softbank.tv
+DOMAIN-SUFFIX,softbankbb.com
+DOMAIN-SUFFIX,softbankbb.net
+DOMAIN-SUFFIX,softbankci.com
+DOMAIN-SUFFIX,softbankhawksstore.jp
+DOMAIN-SUFFIX,softbankmobile.net
+DOMAIN-SUFFIX,softbankrobotics.com
+DOMAIN-SUFFIX,softbanktelecom.com
+DOMAIN-SUFFIX,softbankusa.net
+DOMAIN-SUFFIX,softbankventuresasia.com
+DOMAIN-SUFFIX,softbankworld.com

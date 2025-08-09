@@ -1,0 +1,13 @@
+# Source: v2fly/domain-list-community
+# DLC commit: 6cb593b (2025-06-27)
+# Generated at: 2025-08-09T11:16:17.803354Z
+# Notes:
+# - includes resolved recursively; attributes preserved.
+# - regexp: best-effort → DOMAIN/DOMAIN-WILDCARD; else fallback to URL-REGEX.
+DOMAIN-SUFFIX,famifun.com.tw
+DOMAIN-SUFFIX,family.co.jp
+DOMAIN-SUFFIX,family.com.tw
+DOMAIN-SUFFIX,familymart.com.cn
+DOMAIN-SUFFIX,familymart.com.my
+DOMAIN-SUFFIX,familymart.com.ph
+DOMAIN-SUFFIX,famima.vn
