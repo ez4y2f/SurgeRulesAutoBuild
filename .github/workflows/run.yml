@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 env:
-  USE_WILDCARD: "false"
+  USE_WILDCARD: "true"
   ALLOW_COMMENTS: "false"
 
 jobs:
