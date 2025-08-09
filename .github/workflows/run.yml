@@ -1,0 +1,169 @@
+name: Build Surge Rules from domain-list-community
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Clone domain-list-community
+        run: |
+          rm -rf dlc
+          git clone --depth=1 https://github.com/v2fly/domain-list-community.git dlc
+          echo "DLC_SHA=$(git -C dlc rev-parse --short HEAD)" >> $GITHUB_ENV
+          echo "DLC_DATE=$(git -C dlc show -s --format=%cs HEAD)" >> $GITHUB_ENV
+
+      - name: Generate Surge rules (with DOMAIN-WILDCARD & URL-REGEX)
+        run: |
+          cat > tools_dlc_to_surge.py << 'PY'
+          import os, re, pathlib, datetime
+
+          DLC_DIR = pathlib.Path("dlc")
+          DATA_DIR = DLC_DIR / "data"
+          OUT_DIR = pathlib.Path("surge-rules")
+          OUT_DIR.mkdir(parents=True, exist_ok=True)
+
+          DLC_SHA = os.environ.get("DLC_SHA","unknown")
+          DLC_DATE = os.environ.get("DLC_DATE", datetime.date.today().isoformat())
+
+          def clean_line(s: str) -> str:
+              s = s.strip()
+              if not s: return ""
+              for tok in ("#", "//"):
+                  idx = s.find(tok)
+                  if idx == 0: return ""
+                  if idx > 0: s = s[:idx].strip()
+              return s
+
+          include_re = re.compile(r'^include:(?P<name>[A-Za-z0-9_.\-]+)$')
+          prefixed_re = re.compile(r'^(?P<prefix>full|domain|keyword|regexp):(?P<val>.+)$')
+
+          def as_domain_wildcard_or_none(pat: str):
+              """
+              Only process 'safe' rules:
+                ^(.+\\.)?example\\.com$
+              gen:
+                DOMAIN,example.com
+                DOMAIN-WILDCARD,*.example.com
+              other return None
+              """
+              m = re.fullmatch(r'^\^\(\.\+\\\.\)\?([A-Za-z0-9\\\.\-]+)\$$', pat)
+              if m:
+                  base = m.group(1).replace('\\.', '.')
+                  return [f"DOMAIN,{base}", f"DOMAIN-WILDCARD,*.{base}"]
+              m2 = re.fullmatch(r'^\^([A-Za-z0-9\\\.\-]+)\$$', pat)
+              if m2:
+                  base = m2.group(1).replace('\\.', '.')
+                  return [f"DOMAIN,{base}"]
+              return None
+
+          def as_url_regex(pat: str):
+              host_pat = pat.strip()
+              if host_pat.startswith('^'): host_pat = host_pat[1:]
+              if host_pat.endswith('$'): host_pat = host_pat[:-1]
+              return f"URL-REGEX,^https?://{host_pat}(?::\\d+)?(?:/|$)"
+
+          def to_surge_rule(prefix: str, val: str):
+              if prefix == "full":
+                  return [f"DOMAIN,{val.strip()}"]
+              if prefix == "domain":
+                  return [f"DOMAIN-SUFFIX,{val.strip()}"]
+              if prefix == "keyword":
+                  return [f"DOMAIN-KEYWORD,{val.strip()}"]
+              if prefix == "regexp":
+                  wc = as_domain_wildcard_or_none(val.strip())
+                  if wc:
+                      return wc
+                  return [as_url_regex(val.strip())]
+              # 默认当作 domain-suffix
+              return [f"DOMAIN-SUFFIX,{val.strip()}"]
+
+          def resolve_list(name: str, stack=None, cache=None):
+              if stack is None: stack = []
+              if cache is None: cache = {}
+              if name in cache: return cache[name]
+              if name in stack:
+                  return [f"# WARNING: cyclic include detected: {' -> '.join(stack + [name])}"]
+              path = DATA_DIR / f"{name}.txt"
+              if not path.exists():
+                  return [f"# WARNING: include target not found: {name}"]
+              stack.append(name)
+              out, seen = [], set()
+              with path.open("r", encoding="utf-8") as f:
+                  for raw in f:
+                      line = clean_line(raw)
+                      if not line: continue
+                      m_inc = include_re.match(line)
+                      if m_inc:
+                          sub = resolve_list(m_inc.group("name"), stack=stack, cache=cache)
+                          for r in sub:
+                              if r not in seen:
+                                  out.append(r); seen.add(r)
+                          continue
+                      m_pref = prefixed_re.match(line)
+                      rules = to_surge_rule(m_pref.group("prefix"), m_pref.group("val")) if m_pref \
+                              else [f"DOMAIN-SUFFIX,{line}"]
+                      for r in rules:
+                          if r not in seen:
+                              out.append(r); seen.add(r)
+              stack.pop()
+              cache[name] = out
+              return out
+
+          def build_all():
+              files = sorted(p.stem for p in DATA_DIR.glob("*.txt"))
+              header = [
+                  f"# Source: v2fly/domain-list-community",
+                  f"# DLC commit: {DLC_SHA} ({DLC_DATE})",
+                  f"# Generated at: {datetime.datetime.utcnow().isoformat()}Z",
+                  f"# Notes:",
+                  f"# - regexp: best-effort to DOMAIN-WILDCARD; otherwise fallback to URL-REGEX.",
+                  f"# - includes resolved recursively; duplicates removed preserving order.",
+                  ""
+              ]
+              total = 0
+              for name in files:
+                  rules = resolve_list(name)
+                  out_path = OUT_DIR / f"{name}.list"
+                  with out_path.open("w", encoding="utf-8") as w:
+                      w.write("\n".join(header))
+                      for r in rules:
+                          w.write(r + "\n")
+                  total += 1
+              print(f"Generated {total} Surge rulesets into {OUT_DIR}/")
+
+          if __name__ == "__main__":
+              build_all()
+          PY
+          python3 tools_dlc_to_surge.py
+
+      - name: Commit & push if changed
+        run: |
+          if git status --porcelain | grep -qE "surge-rules/"; then
+            git add surge-rules
+            git commit -m "chore: update Surge rules (wildcard & url-regex) from DLC ${DLC_SHA} (${DLC_DATE})"
+            git push
+          else
+            echo "No changes to commit."
+          fi
