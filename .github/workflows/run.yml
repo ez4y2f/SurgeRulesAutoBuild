@@ -8,10 +8,6 @@ on:
 permissions:
   contents: write
 
-env:
-  USE_WILDCARD: "true"
-  ALLOW_COMMENTS: "false"
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -38,7 +34,7 @@ jobs:
           echo "DLC_SHA=$(git -C dlc rev-parse --short HEAD)" >> $GITHUB_ENV
           echo "DLC_DATE=$(git -C dlc show -s --format=%cs HEAD)" >> $GITHUB_ENV
 
-      - name: Generate Surge rules
+      - name: Generate Surge rules (include / attributes / wildcard & url-regex)
         run: |
           cat > tools_dlc_to_surge.py << 'PY'
           import os, re, pathlib, datetime, collections
@@ -50,10 +46,8 @@ jobs:
 
           DLC_SHA = os.environ.get("DLC_SHA","unknown")
           DLC_DATE = os.environ.get("DLC_DATE", datetime.date.today().isoformat())
-          USE_WILDCARD = os.environ.get("USE_WILDCARD","false").lower() == "true"
-          ALLOW_COMMENTS = os.environ.get("ALLOW_COMMENTS","false").lower() == "true"
 
-          Rule = collections.namedtuple("Rule", "kind value attrs")
+          Rule = collections.namedtuple("Rule", "kind value attrs")  # kind: domain/full/keyword/regexp/comment ; attrs: set()
 
           def strip_inline_comment(s: str) -> str:
               i = s.find('#')
@@ -72,7 +66,6 @@ jobs:
               return rest, attrs
 
           def parse_line(line: str):
-              line = line.replace('\ufeff','')
               line = strip_inline_comment(line)
               if not line:
                   return None
@@ -112,52 +105,33 @@ jobs:
                       if not parsed:
                           continue
                       if isinstance(parsed, tuple) and parsed[0] == "include":
-                          out.extend(resolve_list(parsed[1], stack=stack, cache=cache))
+                          sub = resolve_list(parsed[1], stack=stack, cache=cache)
+                          out.extend(sub)
                       else:
                           out.append(parsed)
               stack.pop()
               cache[name] = list(out)
               return out
 
-          VAL_DOMAIN = r'[A-Za-z0-9.-]+'
-          STRICT_PATTERNS = [
-              re.compile(r'^DOMAIN,' + VAL_DOMAIN + r'$'),
-              re.compile(r'^DOMAIN-SUFFIX,' + VAL_DOMAIN + r'$'),
-              re.compile(r'^DOMAIN-KEYWORD,[^,\s]+$'),
-              re.compile(r'^URL-REGEX,.+$'),
-          ]
-          if USE_WILDCARD:
-              STRICT_PATTERNS.append(re.compile(r'^DOMAIN-WILDCARD,\*\.(' + VAL_DOMAIN + r')$'))
-
-          def valid_line(s: str) -> bool:
-              for pat in STRICT_PATTERNS:
-                  if pat.match(s):
-                      return True
-              return False
-
           def regexp_to_surge(pat: str):
               p = pat.strip()
-              out = []
+              # ^(.+\.)?example\.com$ → DOMAIN,example.com + DOMAIN-WILDCARD,*.example.com
               m = re.fullmatch(r'^\^\(\.\+\\\.\)\?([A-Za-z0-9\\\.\-]+)\$$', p)
               if m:
                   base = m.group(1).replace('\\.', '.')
-                  out.append(f"DOMAIN,{base}")
-                  if USE_WILDCARD:
-                      out.append(f"DOMAIN-WILDCARD,*.{base}")
-                  return out
+                  return [f"DOMAIN,{base}", f"DOMAIN-WILDCARD,*.{base}"]
+              # ^foo\.bar$ → DOMAIN,foo.bar
               m2 = re.fullmatch(r'^\^([A-Za-z0-9\\\.\-]+)\$$', p)
               if m2:
                   base = m2.group(1).replace('\\.', '.')
-                  out.append(f"DOMAIN,{base}")
-                  return out
+                  return [f"DOMAIN,{base}"]
               host = p[1:] if p.startswith('^') else p
               host = host[:-1] if host.endswith('$') else host
-              out.append(f"URL-REGEX,^https?://{host}(?::\\d+)?(?:/|$)")
-              return out
+              return [f"URL-REGEX,^https?://{host}(?::\\d+)?(?:/|$)"]
 
           def to_surge_lines(rule: Rule):
               if rule.kind == "comment":
-                  return [f"# {rule.value}"] if ALLOW_COMMENTS else []
+                  return [f"# {rule.value}"]
               if rule.kind == "domain":
                   return [f"DOMAIN-SUFFIX,{rule.value}"]
               if rule.kind == "full":
@@ -176,33 +150,33 @@ jobs:
               return attrs
 
           def write_ruleset(filepath: pathlib.Path, rules):
-              dropped = 0
+              header = [
+                  f"# Source: v2fly/domain-list-community",
+                  f"# DLC commit: {DLC_SHA} ({DLC_DATE})",
+                  f"# Generated at: {datetime.datetime.utcnow().isoformat()}Z",
+                  f"# Notes:",
+                  f"# - includes resolved recursively; attributes preserved.",
+                  f"# - regexp: best-effort → DOMAIN/DOMAIN-WILDCARD; else fallback to URL-REGEX.",
+                  ""
+              ]
               with filepath.open("w", encoding="utf-8") as w:
+                  w.write("\n".join(header))
                   for r in rules:
                       for line in to_surge_lines(r):
-                          line = line.strip()
-                          if not line:
-                              continue
-                          if valid_line(line):
-                              w.write(line + "\n")
-                          else:
-                              dropped += 1
-              return dropped
+                          w.write(line + "\n")
 
           def build_all():
               files = sorted(p.name for p in DATA_DIR.iterdir() if p.is_file())
               total = 0
-              total_dropped = 0
               for name in files:
                   rules = resolve_list(name)
-                  dropped = write_ruleset(OUT_DIR / f"{name}.list", rules)
-                  total_dropped += dropped
+                  write_ruleset(OUT_DIR / f"{name}.list", rules)
                   for attr in sorted(collect_attributes(rules)):
                       filtered = [r for r in rules if isinstance(r, Rule) and (attr in r.attrs)]
                       if filtered:
-                          total_dropped += write_ruleset(OUT_DIR / f"{name}@{attr}.list", filtered)
+                          write_ruleset(OUT_DIR / f"{name}@{attr}.list", filtered)
                   total += 1
-              print(f"Generated {total} Surge rulesets into {OUT_DIR}/, dropped {total_dropped} invalid lines")
+              print(f"Generated {total} Surge rulesets into {OUT_DIR}/")
 
           if __name__ == "__main__":
               build_all()
