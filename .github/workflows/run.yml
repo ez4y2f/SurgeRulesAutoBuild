@@ -9,8 +9,8 @@ permissions:
   contents: write
 
 env:
-  USE_WILDCARD: "true"
-  ALLOW_COMMENTS: "false""
+  USE_WILDCARD: "false"
+  ALLOW_COMMENTS: "false"
 
 jobs:
   build:
@@ -38,10 +38,10 @@ jobs:
           echo "DLC_SHA=$(git -C dlc rev-parse --short HEAD)" >> $GITHUB_ENV
           echo "DLC_DATE=$(git -C dlc show -s --format=%cs HEAD)" >> $GITHUB_ENV
 
-      - name: Generate Surge rules (strict)
+      - name: Generate Surge rules
         run: |
           cat > tools_dlc_to_surge.py << 'PY'
-          import os, re, pathlib, datetime, collections, sys
+          import os, re, pathlib, datetime, collections
 
           DLC_DIR = pathlib.Path("dlc")
           DATA_DIR = DLC_DIR / "data"
@@ -53,7 +53,7 @@ jobs:
           USE_WILDCARD = os.environ.get("USE_WILDCARD","false").lower() == "true"
           ALLOW_COMMENTS = os.environ.get("ALLOW_COMMENTS","false").lower() == "true"
 
-          Rule = collections.namedtuple("Rule", "kind value attrs")  # kind: domain/full/keyword/regexp/comment ; attrs: set()
+          Rule = collections.namedtuple("Rule", "kind value attrs")
 
           def strip_inline_comment(s: str) -> str:
               i = s.find('#')
@@ -101,7 +101,7 @@ jobs:
                   return list(cache[name])
               if name in stack:
                   return [Rule("comment", f"WARNING: cyclic include: {' -> '.join(stack+[name])}", set())]
-              path = DATA_DIR / name  # DLC data 无扩展名
+              path = DATA_DIR / name
               if not path.exists() or not path.is_file():
                   return [Rule("comment", f"WARNING: include target not found: {name}", set())]
               stack.append(name)
@@ -138,7 +138,6 @@ jobs:
           def regexp_to_surge(pat: str):
               p = pat.strip()
               out = []
-              # ^(.+\.)?example\.com$ → DOMAIN + (可选) DOMAIN-WILDCARD
               m = re.fullmatch(r'^\^\(\.\+\\\.\)\?([A-Za-z0-9\\\.\-]+)\$$', p)
               if m:
                   base = m.group(1).replace('\\.', '.')
@@ -146,7 +145,6 @@ jobs:
                   if USE_WILDCARD:
                       out.append(f"DOMAIN-WILDCARD,*.{base}")
                   return out
-              # ^foo\.bar$ → DOMAIN,foo.bar
               m2 = re.fullmatch(r'^\^([A-Za-z0-9\\\.\-]+)\$$', p)
               if m2:
                   base = m2.group(1).replace('\\.', '.')
@@ -180,10 +178,6 @@ jobs:
           def write_ruleset(filepath: pathlib.Path, rules):
               dropped = 0
               with filepath.open("w", encoding="utf-8") as w:
-                  if ALLOW_COMMENTS:
-                      w.write(f"# Source: v2fly/domain-list-community\n")
-                      w.write(f"# DLC commit: {DLC_SHA} ({DLC_DATE})\n")
-                      w.write(f"# Generated at: {datetime.datetime.utcnow().isoformat()}Z\n\n")
                   for r in rules:
                       for line in to_surge_lines(r):
                           line = line.strip()
