@@ -1,9 +1,3 @@
-# Source: v2fly/domain-list-community
-# DLC commit: 6cb593b (2025-06-27)
-# Generated at: 2025-08-09T11:16:18.037173Z
-# Notes:
-# - includes resolved recursively; attributes preserved.
-# - regexp: best-effort → DOMAIN/DOMAIN-WILDCARD; else fallback to URL-REGEX.
 DOMAIN-SUFFIX,geforce.cn
 DOMAIN-SUFFIX,geforce.co.kr
 DOMAIN-SUFFIX,geforce.co.uk
