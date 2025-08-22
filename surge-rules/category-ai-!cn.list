@@ -2,6 +2,10 @@ DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN,servd-anthropic-website.b-cdn.net
+DOMAIN-SUFFIX,cursor-cdn.com
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,cursorapi.com
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,deepmind.google
 DOMAIN-SUFFIX,geller-pa.googleapis.com
@@ -49,15 +53,12 @@ DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,poecdn.net
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.ai
-DOMAIN-SUFFIX,cursor-cdn.com
-DOMAIN-SUFFIX,cursor.com
-DOMAIN-SUFFIX,cursor.sh
-DOMAIN-SUFFIX,cursorapi.com
 DOMAIN-SUFFIX,coderabbit.ai
 DOMAIN-SUFFIX,coderabbit.gallery.vsassets.io
 DOMAIN-SUFFIX,clipdrop.co
 DOMAIN-SUFFIX,jasper.ai
 DOMAIN-SUFFIX,chutes.ai
+DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,dify.ai
 DOMAIN-SUFFIX,gateway.ai.cloudflare.com
 DOMAIN-SUFFIX,meta.ai
