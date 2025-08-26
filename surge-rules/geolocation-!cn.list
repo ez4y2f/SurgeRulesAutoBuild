@@ -5534,6 +5534,8 @@ DOMAIN-SUFFIX,forbes.com
 DOMAIN-SUFFIX,forbesimg.com
 DOMAIN-SUFFIX,fox
 DOMAIN-SUFFIX,tubi.io
+DOMAIN-SUFFIX,tubi.tv
+DOMAIN-SUFFIX,tubi.video
 DOMAIN-SUFFIX,tubitv.com
 DOMAIN-SUFFIX,fox-corporation.com
 DOMAIN-SUFFIX,fox-news.com
@@ -22015,6 +22017,7 @@ DOMAIN,cdn.js7k.com
 DOMAIN-SUFFIX,yandex
 DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai
 DOMAIN-SUFFIX,dzen.ru
+DOMAIN-SUFFIX,naydex.net
 DOMAIN-SUFFIX,rostaxi.org
 DOMAIN-SUFFIX,ya.ru
 DOMAIN-SUFFIX,yandex-bank.net
@@ -22022,6 +22025,7 @@ DOMAIN-SUFFIX,yandex-images.clstorage.net
 DOMAIN-SUFFIX,yandex.aero
 DOMAIN-SUFFIX,yandex.az
 DOMAIN-SUFFIX,yandex.by
+DOMAIN-SUFFIX,yandex.cloud
 DOMAIN-SUFFIX,yandex.co.il
 DOMAIN-SUFFIX,yandex.com
 DOMAIN-SUFFIX,yandex.com.am
