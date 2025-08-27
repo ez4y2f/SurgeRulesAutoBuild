@@ -48,6 +48,7 @@ DOMAIN-SUFFIX,ntp.tut.ac.jp
 DOMAIN-SUFFIX,ntp1.wakwak.com
 DOMAIN-SUFFIX,ntp2.wakwak.com
 DOMAIN,time.apple.com
+DOMAIN,time.asia.apple.com
 DOMAIN,time.euro.apple.com
 DOMAIN,time.aws.com
 DOMAIN,time.cloudflare.com

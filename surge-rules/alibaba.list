@@ -171,6 +171,12 @@ DOMAIN-SUFFIX,oss-eu-west-1.aliyuncs.com
 DOMAIN-SUFFIX,oss-me-east-1.aliyuncs.com
 DOMAIN-SUFFIX,oss-us-east-1.aliyuncs.com
 DOMAIN-SUFFIX,oss-us-west-1.aliyuncs.com
+DOMAIN-SUFFIX,alicloudccp.com
+DOMAIN-SUFFIX,alipan.com
+DOMAIN-SUFFIX,aliyundrive.cloud
+DOMAIN-SUFFIX,aliyundrive.com
+DOMAIN-SUFFIX,aliyundrive.net
+DOMAIN-SUFFIX,yunpan.aliyun.com
 DOMAIN-SUFFIX,cainiao-inc.com
 DOMAIN-SUFFIX,cainiao.com
 DOMAIN-SUFFIX,cainiao.com.cn
@@ -311,10 +317,6 @@ DOMAIN-SUFFIX,aliexpress.ru
 DOMAIN-SUFFIX,alipayplus.com
 DOMAIN-SUFFIX,alipay.hk
 DOMAIN-SUFFIX,alipaymo.com
-DOMAIN-SUFFIX,alicloudccp.com
-DOMAIN-SUFFIX,alipan.com
-DOMAIN-SUFFIX,aliyundrive.com
-DOMAIN-SUFFIX,aliyundrive.net
 DOMAIN-SUFFIX,freshhema.com
 DOMAIN-SUFFIX,freshippo.com
 DOMAIN-SUFFIX,hemamax.com

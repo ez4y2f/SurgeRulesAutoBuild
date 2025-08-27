@@ -348,6 +348,11 @@ DOMAIN-SUFFIX,m9.run
 DOMAIN-SUFFIX,ma.run
 DOMAIN-SUFFIX,um.run
 DOMAIN-SUFFIX,ym.run
+DOMAIN-SUFFIX,aegis.qq.com
+DOMAIN-SUFFIX,tamaegis.com
+DOMAIN-SUFFIX,rumt-zh.com
+DOMAIN-SUFFIX,rumt-sg.com
+DOMAIN-SUFFIX,rumt-us.com
 DOMAIN-SUFFIX,ad.qq.com
 DOMAIN-SUFFIX,ad.qun.qq.com
 DOMAIN-SUFFIX,adfilter.imtt.qq.com
@@ -384,6 +389,9 @@ DOMAIN-SUFFIX,tcss.qq.com
 DOMAIN-SUFFIX,trace.qq.com
 DOMAIN-SUFFIX,ugdtimg.com
 DOMAIN-SUFFIX,wit.qq.com
+DOMAIN-SUFFIX,cnb.cool
+DOMAIN-SUFFIX,coding.me
+DOMAIN-SUFFIX,coding.net
 DOMAIN-SUFFIX,openmidas.com
 DOMAIN-SUFFIX,qq.design
 DOMAIN-SUFFIX,qqgamedesign.com

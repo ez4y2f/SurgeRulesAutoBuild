@@ -15,8 +15,6 @@ DOMAIN-SUFFIX,cnweblog.com
 DOMAIN-SUFFIX,cppblog.com
 DOMAIN-SUFFIX,phpweblog.net
 DOMAIN-SUFFIX,teachblog.net
-DOMAIN-SUFFIX,coding.me
-DOMAIN-SUFFIX,coding.net
 DOMAIN-SUFFIX,codechina.net
 DOMAIN-SUFFIX,csdn.com
 DOMAIN-SUFFIX,csdn.net
@@ -101,6 +99,9 @@ DOMAIN-SUFFIX,sifou.com
 DOMAIN-SUFFIX,mysxl.cn
 DOMAIN-SUFFIX,sxl.cn
 DOMAIN-SUFFIX,sxlcdn.cn
+DOMAIN-SUFFIX,cnb.cool
+DOMAIN-SUFFIX,coding.me
+DOMAIN-SUFFIX,coding.net
 DOMAIN-SUFFIX,openmidas.com
 DOMAIN-SUFFIX,qq.design
 DOMAIN-SUFFIX,qqgamedesign.com

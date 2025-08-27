@@ -18,7 +18,7 @@ DOMAIN-SUFFIX,now-tv.com
 DOMAIN-SUFFIX,now-ashare.com
 DOMAIN-SUFFIX,viu.tv
 DOMAIN,api.viu.now.com
-URL-REGEX,^https?://ewcdn[0-9]{2}\.nowe\.com(?::\d+)?(?:/|$)
+URL-REGEX,^https?://ewcdn[0-9]+\.nowe\.com(?::\d+)?(?:/|$)
 DOMAIN-SUFFIX,viu.com
 DOMAIN,dfp6rglgjqszk.cloudfront.net
 DOMAIN,d1k2us671qcoau.cloudfront.net
