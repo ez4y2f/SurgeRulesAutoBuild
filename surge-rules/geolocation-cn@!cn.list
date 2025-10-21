@@ -54,9 +54,6 @@ DOMAIN-SUFFIX,icbcswiss.com
 DOMAIN-SUFFIX,icbcthai.com
 DOMAIN-SUFFIX,icbkfs.com
 DOMAIN-SUFFIX,icbkus.com
-DOMAIN-SUFFIX,citics.com.hk
-DOMAIN-SUFFIX,cncbinternational.com
-DOMAIN-SUFFIX,csci.hk
 DOMAIN-SUFFIX,emsec.hk
 DOMAIN-SUFFIX,pingan.com.hk
 DOMAIN-SUFFIX,ctrip.co.id
@@ -198,13 +195,6 @@ DOMAIN-SUFFIX,sa-brazil-1.myhuaweicloud.com
 DOMAIN-SUFFIX,tr-west-1.myhuaweicloud.com
 DOMAIN-SUFFIX,us-east-1.myhuaweicloud.com
 DOMAIN,community.oneplus.com
-DOMAIN-SUFFIX,hk.weibo.com
-DOMAIN-SUFFIX,my.weibo.com
-DOMAIN-SUFFIX,overseas.weibo.com
-DOMAIN-SUFFIX,sg.weibo.com
-DOMAIN-SUFFIX,th.weibo.com
-DOMAIN-SUFFIX,tw.weibo.com
-DOMAIN-SUFFIX,us.weibo.com
 DOMAIN-SUFFIX,intltencentcos.com
 DOMAIN-SUFFIX,ap-hongkong.myqcloud.com
 DOMAIN-SUFFIX,ap-singapore.myqcloud.com
