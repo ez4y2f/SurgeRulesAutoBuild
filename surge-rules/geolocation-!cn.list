@@ -2990,6 +2990,9 @@ DOMAIN-SUFFIX,redotpay.zendesk.com
 DOMAIN-SUFFIX,pod-15-sunco-ws.zendesk.com
 DOMAIN-SUFFIX,xhpjc6-cdn-settings.appsflyersdk.com
 DOMAIN-SUFFIX,rp-static-apne1.s3.ap-northeast-1.amazonaws.com
+DOMAIN-SUFFIX,straitsx.com
+DOMAIN,d3r7nsslvs6aaf.cloudfront.net
+DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 DOMAIN-SUFFIX,trustwallet.com
 DOMAIN-SUFFIX,wisecoin.com
 DOMAIN-SUFFIX,wiseid.com
@@ -22251,6 +22254,7 @@ DOMAIN-SUFFIX,yandexcloud.net
 DOMAIN-SUFFIX,yandexcom.net
 DOMAIN-SUFFIX,yandexwebcache.org
 DOMAIN-SUFFIX,yastatic.net
+DOMAIN-SUFFIX,kinopoisk.ru
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,teamviewer.cn
