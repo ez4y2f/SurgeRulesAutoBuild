@@ -395,6 +395,7 @@ DOMAIN-SUFFIX,redhat.com
 DOMAIN-SUFFIX,redhat.org
 DOMAIN-SUFFIX,scala-lang.org
 DOMAIN-SUFFIX,scala-sbt.org
+DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,sourcehut.org
 DOMAIN-SUFFIX,sr.ht
 DOMAIN-SUFFIX,askubuntu.com
