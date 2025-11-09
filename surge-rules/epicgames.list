@@ -25,6 +25,7 @@ DOMAIN-SUFFIX,spyjinx.com
 DOMAIN-SUFFIX,twinmotion.com
 DOMAIN-SUFFIX,unrealengine.com
 DOMAIN-SUFFIX,unrealtournament.com
+DOMAIN-SUFFIX,egdownload.fastly-edge.com
 URL-REGEX,^https?://cdn\d-epicgames-\d+\.file\.myqcloud\.com(?::\d+)?(?:/|$)
 DOMAIN,epicgames-download\d.akamaized.net
 URL-REGEX,^https?://epicgames-download\d-\d+\.file\.myqcloud\.com(?::\d+)?(?:/|$)

@@ -25,6 +25,7 @@ DOMAIN,download3.epicgames.com
 DOMAIN,download4.epicgames.com
 DOMAIN,epicgames-download1.akamaized.net
 DOMAIN,fastly-download.epicgames.com
+DOMAIN-SUFFIX,egdownload.fastly-edge.com
 DOMAIN,cloudflare.epicgamescdn.com
 DOMAIN,epicgames-download1-1251447533.file.myqcloud.com
 DOMAIN,blizzard.gcdn.cloudn.co.kr
