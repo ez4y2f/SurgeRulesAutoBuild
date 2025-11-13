@@ -42,7 +42,6 @@ DOMAIN-SUFFIX,fenbike.cn
 DOMAIN-SUFFIX,fenbike.com
 DOMAIN-SUFFIX,fenbilantian.cn
 DOMAIN-SUFFIX,fenbilantian.com
-DOMAIN-SUFFIX,zhihuishu.com
 DOMAIN-SUFFIX,cedf.cn
 DOMAIN-SUFFIX,cedf.org.cn
 DOMAIN-SUFFIX,chdi.com.cn
@@ -69,6 +68,10 @@ DOMAIN-SUFFIX,qgzb.gov.cn
 DOMAIN-SUFFIX,qgzb.net
 DOMAIN-SUFFIX,zbbm.gov.cn
 DOMAIN-SUFFIX,zbbm.net
+DOMAIN-SUFFIX,cugbonline.cn
+DOMAIN-SUFFIX,zhihuishu.com
+DOMAIN-SUFFIX,j-test.com
+DOMAIN-SUFFIX,nattest-china.com
 DOMAIN-SUFFIX,rainclassroom.com
 DOMAIN-SUFFIX,yuketang.cn
 DOMAIN-SUFFIX,yudou.cn

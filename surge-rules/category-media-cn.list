@@ -44,8 +44,6 @@ DOMAIN-SUFFIX,chinanews.com.cn
 DOMAIN-SUFFIX,cns.com.cn
 DOMAIN-SUFFIX,ecns.cn
 DOMAIN-SUFFIX,inewsweek.cn
-DOMAIN-SUFFIX,dgtle.com
-DOMAIN-SUFFIX,geekpark.net
 DOMAIN-SUFFIX,coolbuy.com
 DOMAIN-SUFFIX,ifanr.cn
 DOMAIN-SUFFIX,ifanr.com
@@ -135,8 +133,6 @@ DOMAIN-SUFFIX,focus.cn
 DOMAIN-SUFFIX,itc.cn
 DOMAIN-SUFFIX,sohu.com
 DOMAIN-SUFFIX,sohucs.com
-DOMAIN-SUFFIX,solidot.org
-DOMAIN-SUFFIX,sspai.com
 DOMAIN-SUFFIX,tmtpost.com
 DOMAIN-SUFFIX,chaindd.com
 DOMAIN-SUFFIX,72whys.com
@@ -156,6 +152,17 @@ DOMAIN-SUFFIX,xueqiu.com
 DOMAIN-SUFFIX,ynet.cn
 DOMAIN-SUFFIX,ynet.com
 DOMAIN-SUFFIX,ynet.com.cn
+DOMAIN-SUFFIX,jsbc.com
+DOMAIN-SUFFIX,jstv.com
+DOMAIN-SUFFIX,cztv.com
+DOMAIN-SUFFIX,cztvcdn.com
+DOMAIN-SUFFIX,cztvcloud.com
+DOMAIN-SUFFIX,zjstv.com
+DOMAIN-SUFFIX,dgtle.com
+DOMAIN-SUFFIX,gcores.com
+DOMAIN-SUFFIX,geekpark
+DOMAIN-SUFFIX,solidot.org
+DOMAIN-SUFFIX,sspai.com
 DOMAIN-SUFFIX,stcn.com
 DOMAIN-SUFFIX,caijing.com.cn
 DOMAIN-SUFFIX,hexun.com
@@ -218,3 +225,4 @@ DOMAIN-SUFFIX,anzhuo.cn
 DOMAIN-SUFFIX,idcquan.com
 DOMAIN-SUFFIX,admin5.com
 DOMAIN-SUFFIX,jxpp.com
+DOMAIN-SUFFIX,woshipm.com

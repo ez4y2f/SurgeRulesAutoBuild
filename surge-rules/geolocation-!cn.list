@@ -41,7 +41,9 @@ DOMAIN-SUFFIX,freebrowser.org
 DOMAIN-SUFFIX,freewechat.com
 DOMAIN-SUFFIX,freeweibo.com
 DOMAIN-SUFFIX,freezhihu.org
+DOMAIN-SUFFIX,googlecensorship.org
 DOMAIN-SUFFIX,greatfire.org
+DOMAIN-SUFFIX,greatfirevpn.com
 DOMAIN-SUFFIX,pao-pao.net
 DOMAIN-SUFFIX,wikiunblocked.org
 DOMAIN-SUFFIX,haveibeenpwned.com
@@ -6787,6 +6789,8 @@ DOMAIN-SUFFIX,bobovip.cc
 DOMAIN-SUFFIX,sesez.com
 DOMAIN-SUFFIX,bcicdn.com
 DOMAIN-SUFFIX,bcrncdn.com
+DOMAIN-SUFFIX,bcvcdn.com
+DOMAIN-SUFFIX,bgicdn.com
 DOMAIN-SUFFIX,bongacams.com
 DOMAIN-SUFFIX,boylove.cc
 DOMAIN-SUFFIX,boylove.live
@@ -13622,6 +13626,7 @@ DOMAIN-SUFFIX,thetrackernetwork.com
 DOMAIN-SUFFIX,tracker.gg
 DOMAIN-SUFFIX,tracker.network
 DOMAIN-SUFFIX,bluestacks.com
+DOMAIN-SUFFIX,ldmnq.com
 DOMAIN-SUFFIX,lsplayer.com
 DOMAIN-SUFFIX,yeshen.com
 DOMAIN-SUFFIX,maa.plus
@@ -14646,6 +14651,7 @@ DOMAIN-SUFFIX,mariadb.org
 DOMAIN-SUFFIX,mingw.org
 DOMAIN-SUFFIX,mobatek.net
 DOMAIN-SUFFIX,mysql.com
+DOMAIN-SUFFIX,neovim.io
 DOMAIN-SUFFIX,nixos.org
 DOMAIN-SUFFIX,nodesource.com
 DOMAIN-SUFFIX,notepad-plus-plus.org
@@ -17940,6 +17946,11 @@ DOMAIN-SUFFIX,canon.ua
 DOMAIN-SUFFIX,canon.uz
 DOMAIN-SUFFIX,canonfoundation.org
 DOMAIN-SUFFIX,canonproprinters.com
+DOMAIN-SUFFIX,affinity.api.serifservices.com
+DOMAIN-SUFFIX,affinity.studio
+DOMAIN-SUFFIX,affinity-beta.s3.amazonaws.com
+DOMAIN-SUFFIX,affinity-lessons.s3.amazonaws.com
+DOMAIN-SUFFIX,canva.com
 DOMAIN-SUFFIX,chegg.com
 DOMAIN-SUFFIX,cheggcdn.com
 DOMAIN-SUFFIX,webex.ca
