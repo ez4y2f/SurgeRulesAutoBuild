@@ -187,8 +187,6 @@ DOMAIN-SUFFIX,boxun.com
 DOMAIN-SUFFIX,bowenpress.com
 DOMAIN-SUFFIX,c-span.org
 DOMAIN-SUFFIX,c-spanvideo.org
-DOMAIN-SUFFIX,cbs
-DOMAIN-SUFFIX,showtime
 DOMAIN-SUFFIX,cbs.com
 DOMAIN-SUFFIX,cbscorporation.com
 DOMAIN-SUFFIX,cbsi.com
@@ -1126,7 +1124,6 @@ DOMAIN-SUFFIX,skysports.ie
 DOMAIN-SUFFIX,skysportsonline.com
 DOMAIN-SUFFIX,skysportsracing.com
 DOMAIN-SUFFIX,cn-cdn1.skymansion.net
-DOMAIN-SUFFIX,theguardian
 DOMAIN-SUFFIX,dev-guardianapis.com
 DOMAIN-SUFFIX,dev-theguardian.com
 DOMAIN-SUFFIX,gu-web.net

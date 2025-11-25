@@ -5421,8 +5421,6 @@ DOMAIN-SUFFIX,boxun.com
 DOMAIN-SUFFIX,bowenpress.com
 DOMAIN-SUFFIX,c-span.org
 DOMAIN-SUFFIX,c-spanvideo.org
-DOMAIN-SUFFIX,cbs
-DOMAIN-SUFFIX,showtime
 DOMAIN-SUFFIX,cbs.com
 DOMAIN-SUFFIX,cbscorporation.com
 DOMAIN-SUFFIX,cbsi.com
@@ -6360,7 +6358,6 @@ DOMAIN-SUFFIX,skysports.ie
 DOMAIN-SUFFIX,skysportsonline.com
 DOMAIN-SUFFIX,skysportsracing.com
 DOMAIN-SUFFIX,cn-cdn1.skymansion.net
-DOMAIN-SUFFIX,theguardian
 DOMAIN-SUFFIX,dev-guardianapis.com
 DOMAIN-SUFFIX,dev-theguardian.com
 DOMAIN-SUFFIX,gu-web.net
@@ -14208,6 +14205,7 @@ DOMAIN-SUFFIX,anaconda.cloud
 DOMAIN-SUFFIX,anaconda.com
 DOMAIN-SUFFIX,anaconda.org
 DOMAIN-SUFFIX,conda.io
+DOMAIN-SUFFIX,android
 DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,androidify.com
 DOMAIN,android.googlesource.com
@@ -18425,6 +18423,7 @@ DOMAIN,sni1dcb6gl.wpc.edgecastcdn.net
 DOMAIN-SUFFIX,godaddy.com
 DOMAIN-SUFFIX,x.co
 DOMAIN-SUFFIX,godaddy
+DOMAIN-SUFFIX,android
 DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,androidify.com
 DOMAIN,android.googlesource.com
@@ -18940,7 +18939,6 @@ DOMAIN-SUFFIX,youtubemobilesupport.com
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN,yt3.googleusercontent.com
-DOMAIN-SUFFIX,and
 DOMAIN-SUFFIX,chrome
 DOMAIN-SUFFIX,dclk
 DOMAIN-SUFFIX,gbiz
@@ -22849,8 +22847,6 @@ DOMAIN-SUFFIX,hkedcity.net
 DOMAIN-SUFFIX,hkreadingcity.net
 DOMAIN-SUFFIX,huanghuagang.org
 DOMAIN-SUFFIX,lavteam.org
-DOMAIN-SUFFIX,mcd
-DOMAIN-SUFFIX,mcdonalds
 DOMAIN-SUFFIX,happymeal.com.au
 DOMAIN-SUFFIX,mcdelivery.com.au
 DOMAIN-SUFFIX,mcdonalds.com.au

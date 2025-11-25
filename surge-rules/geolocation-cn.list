@@ -39,10 +39,11 @@ DOMAIN-SUFFIX,whalecloud.com
 DOMAIN-SUFFIX,deepseek.com
 DOMAIN-SUFFIX,rwkv.cn
 DOMAIN-SUFFIX,rwkv.com
-DOMAIN-SUFFIX,tongyi.aliyun.com
 DOMAIN-SUFFIX,qianwen.aliyun.com
+DOMAIN-SUFFIX,qianwen.com
 DOMAIN-SUFFIX,qwen.ai
 DOMAIN-SUFFIX,qwenlm.ai
+DOMAIN-SUFFIX,tongyi.aliyun.com
 DOMAIN-SUFFIX,tongyi.com
 DOMAIN-SUFFIX,yiyan.baidu.com
 DOMAIN-SUFFIX,tiangong.cn
@@ -2284,9 +2285,11 @@ DOMAIN-SUFFIX,cztv.com
 DOMAIN-SUFFIX,cztvcdn.com
 DOMAIN-SUFFIX,cztvcloud.com
 DOMAIN-SUFFIX,zjstv.com
+DOMAIN-SUFFIX,cqcb.com
+DOMAIN-SUFFIX,hntv.tv
 DOMAIN-SUFFIX,dgtle.com
 DOMAIN-SUFFIX,gcores.com
-DOMAIN-SUFFIX,geekpark
+DOMAIN-SUFFIX,geekpark.net
 DOMAIN-SUFFIX,solidot.org
 DOMAIN-SUFFIX,sspai.com
 DOMAIN-SUFFIX,stcn.com
@@ -2353,6 +2356,12 @@ DOMAIN-SUFFIX,admin5.com
 DOMAIN-SUFFIX,jxpp.com
 DOMAIN-SUFFIX,woshipm.com
 DOMAIN-SUFFIX,zhichanli.com
+DOMAIN-SUFFIX,chinaaet.com
+DOMAIN-SUFFIX,freebuf.com
+DOMAIN-SUFFIX,iresearch.cn
+DOMAIN-SUFFIX,qianzhan.com
+DOMAIN-SUFFIX,secrss.com
+DOMAIN-SUFFIX,shangyexinzhi.com
 DOMAIN-SUFFIX,115.com
 DOMAIN-SUFFIX,115cdn.com
 DOMAIN-SUFFIX,115cdn.net
@@ -2522,6 +2531,8 @@ DOMAIN-SUFFIX,qgzb.gov.cn
 DOMAIN-SUFFIX,qgzb.net
 DOMAIN-SUFFIX,zbbm.gov.cn
 DOMAIN-SUFFIX,zbbm.net
+DOMAIN-SUFFIX,cbern.com.cn
+DOMAIN-SUFFIX,smartedu.cn
 DOMAIN-SUFFIX,cugbonline.cn
 DOMAIN-SUFFIX,zhihuishu.com
 DOMAIN-SUFFIX,j-test.com
@@ -6448,7 +6459,6 @@ DOMAIN-SUFFIX,fimmu.com
 DOMAIN-SUFFIX,finchina.com
 DOMAIN-SUFFIX,fixdown.com
 DOMAIN-SUFFIX,fqjob.net
-DOMAIN-SUFFIX,freebuf.com
 DOMAIN-SUFFIX,fugetech.com
 DOMAIN-SUFFIX,fuwj.com
 DOMAIN-SUFFIX,fxxz.com
@@ -6519,7 +6529,6 @@ DOMAIN-SUFFIX,hiyd.com
 DOMAIN-SUFFIX,hktheone.com
 DOMAIN-SUFFIX,hn-cbec.com
 DOMAIN-SUFFIX,hnrcsc.com
-DOMAIN-SUFFIX,hntv.tv
 DOMAIN-SUFFIX,hnyuyuhui.com
 DOMAIN-SUFFIX,hollycrm.com
 DOMAIN-SUFFIX,homeinns.com
@@ -6776,7 +6785,6 @@ DOMAIN-SUFFIX,qh24.com
 DOMAIN-SUFFIX,qiangbus.com
 DOMAIN-SUFFIX,qianjia.com
 DOMAIN-SUFFIX,qianlima.com
-DOMAIN-SUFFIX,qianzhan.com
 DOMAIN-SUFFIX,qiaobutang.com
 DOMAIN-SUFFIX,qie.tv
 DOMAIN-SUFFIX,qifeiye.com
