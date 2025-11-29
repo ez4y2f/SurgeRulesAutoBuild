@@ -176,7 +176,9 @@ DOMAIN-SUFFIX,pglstatp-snssdk-toutiao.com
 DOMAIN-SUFFIX,pglstatp-toutiao-b.com
 DOMAIN-SUFFIX,pglstatp-toutiao.com
 DOMAIN-SUFFIX,sf3-ttcdn-tos.pstatp.com
-DOMAIN-SUFFIX,x.clearbitjs.com
+DOMAIN-SUFFIX,clearbit.com
+DOMAIN-SUFFIX,clearbitjs.com
+DOMAIN-SUFFIX,clearbitscripts.com
 DOMAIN-SUFFIX,ad.games.dmm.com
 DOMAIN-SUFFIX,bluekai.com
 DOMAIN-SUFFIX,fout.jp
@@ -284,7 +286,6 @@ DOMAIN,wlog.kuaishou.com
 DOMAIN-SUFFIX,ads.service.kugou.com
 DOMAIN-SUFFIX,adserviceretry.kglink.cn
 DOMAIN-SUFFIX,adserviceretry.kugou.com
-DOMAIN-SUFFIX,leanplum.com
 DOMAIN-SUFFIX,apple.www.letv.com
 DOMAIN-SUFFIX,ark.letv.com
 DOMAIN-SUFFIX,dc.letv.com
@@ -296,7 +297,6 @@ DOMAIN-SUFFIX,graph.instagram.com
 DOMAIN-SUFFIX,graph-fallback.instagram.com
 DOMAIN-SUFFIX,graph.whatsapp.com
 DOMAIN-SUFFIX,graph.whatsapp.net
-DOMAIN-SUFFIX,decide.mixpanel.com
 DOMAIN-SUFFIX,mopub.com
 DOMAIN-SUFFIX,evt.mxplay.com
 DOMAIN-SUFFIX,a.youdao.com
@@ -315,7 +315,6 @@ DOMAIN-SUFFIX,js-agent.newrelic.com
 DOMAIN-SUFFIX,ogury.com
 DOMAIN-SUFFIX,presage.io
 DOMAIN-SUFFIX,ogury.co
-DOMAIN-SUFFIX,onesignal.com
 URL-REGEX,^https?://speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net(?::\d+)?(?:/|$)
 DOMAIN-SUFFIX,openx.net
 DOMAIN-SUFFIX,openxadexchange.com
@@ -333,7 +332,10 @@ DOMAIN-SUFFIX,qhupdate.com
 DOMAIN-SUFFIX,s.360.cn
 DOMAIN-SUFFIX,s.so.360.cn
 DOMAIN-SUFFIX,s.union.360.cn
-DOMAIN-SUFFIX,cdn.segment.com
+DOMAIN-SUFFIX,segment.com
+DOMAIN-SUFFIX,segment.io
+DOMAIN-SUFFIX,segmenthub.com
+DOMAIN-SUFFIX,segmentify.com
 DOMAIN-SUFFIX,static.sensorsdata.cn
 DOMAIN-SUFFIX,ad.sina.com.cn
 DOMAIN-SUFFIX,ad.us.sinaimg.cn
@@ -462,7 +464,6 @@ DOMAIN-SUFFIX,splash-ads.unitychina.cn
 DOMAIN-SUFFIX,unityads.unity.cn
 DOMAIN-SUFFIX,unityads.unity3d.com
 DOMAIN-SUFFIX,unityads.unitychina.cn
-DOMAIN-SUFFIX,ads.wteam.xyz
 DOMAIN-SUFFIX,collector.xhamster.com
 DOMAIN-SUFFIX,a.market.xiaomi.com
 DOMAIN-SUFFIX,ad.intl.xiaomi.com
