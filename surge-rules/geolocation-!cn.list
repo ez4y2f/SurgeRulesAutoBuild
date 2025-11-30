@@ -4647,6 +4647,9 @@ DOMAIN-SUFFIX,nowe.com
 DOMAIN-SUFFIX,nowe.hk
 DOMAIN-SUFFIX,now-tv.com
 DOMAIN-SUFFIX,now-ashare.com
+DOMAIN-SUFFIX,playfamily.ru
+DOMAIN-SUFFIX,okko.sport
+DOMAIN-SUFFIX,okko.tv
 DOMAIN-SUFFIX,haiwaikan.com
 DOMAIN-SUFFIX,iole.tv
 DOMAIN-SUFFIX,olehd.com
@@ -4777,6 +4780,7 @@ DOMAIN,p16-tiktokcdn-com.akamaized.net
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,tmdb.org
 DOMAIN,tmdb-image-prod.b-cdn.net
+DOMAIN-SUFFIX,thetvdb.com
 DOMAIN-SUFFIX,dogatch.jp
 DOMAIN-SUFFIX,gorin.jp
 DOMAIN-SUFFIX,screens-lab.jp
@@ -5062,7 +5066,6 @@ DOMAIN-SUFFIX,omobi.cc
 DOMAIN-SUFFIX,oranum.com
 DOMAIN-SUFFIX,overcast.fm
 DOMAIN-SUFFIX,syosetu.com
-DOMAIN-SUFFIX,thetvdb.com
 DOMAIN-SUFFIX,weverse.io
 DOMAIN-SUFFIX,yande.re
 DOMAIN-SUFFIX,amp-api.podcast.apple.com
