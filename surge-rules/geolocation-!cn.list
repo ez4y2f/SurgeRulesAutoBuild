@@ -2911,6 +2911,13 @@ DOMAIN-SUFFIX,telesco.pe
 DOMAIN-SUFFIX,tg.dev
 DOMAIN-SUFFIX,tx.me
 DOMAIN-SUFFIX,usercontent.dev
+DOMAIN-SUFFIX,temp-mail.org
+DOMAIN-SUFFIX,viber.com
+DOMAIN-SUFFIX,viber.co
+DOMAIN-SUFFIX,viber.me
+DOMAIN-SUFFIX,s-bid.rmp.rakuten.com
+DOMAIN-SUFFIX,vbcdn.com
+DOMAIN-SUFFIX,vbcdn.net
 DOMAIN-SUFFIX,graph.whatsapp.com
 DOMAIN-SUFFIX,graph.whatsapp.net
 DOMAIN-SUFFIX,wa.me
@@ -4203,6 +4210,8 @@ DOMAIN-SUFFIX,include:category-games-!cn
 DOMAIN-SUFFIX,ptzwx.com
 DOMAIN-SUFFIX,quanben-xiaoshuo.com
 DOMAIN-SUFFIX,quanben.io
+DOMAIN-SUFFIX,7tv.app
+DOMAIN-SUFFIX,7tv.io
 DOMAIN-SUFFIX,abema.io
 DOMAIN-SUFFIX,abema.tv
 DOMAIN-SUFFIX,abema-tv.com
@@ -4591,6 +4600,7 @@ DOMAIN-SUFFIX,ofiii.com
 DOMAIN,ntdofifreepc-tgc.cdn.hinet.net
 DOMAIN,ntdofifreevcpc-tgc.cdn.hinet.net
 DOMAIN-SUFFIX,manhuagui.com
+DOMAIN-SUFFIX,metacritic.com
 DOMAIN-SUFFIX,mubi.com
 DOMAIN-SUFFIX,mubicdn.net
 DOMAIN-SUFFIX,biggggg.com
@@ -4704,6 +4714,9 @@ DOMAIN-SUFFIX,mgo-images.com
 DOMAIN-SUFFIX,ravm.tv
 DOMAIN-SUFFIX,roku.com
 DOMAIN-SUFFIX,rokutime.com
+DOMAIN-SUFFIX,rutube.ru
+DOMAIN-SUFFIX,rutubelist.ru
+DOMAIN-SUFFIX,rtbcdn.ru
 DOMAIN-SUFFIX,showtimeanytime.com
 DOMAIN-SUFFIX,showtime.com
 DOMAIN-SUFFIX,dishworld.com
@@ -5144,6 +5157,8 @@ DOMAIN-SUFFIX,dcard.tw
 DOMAIN-SUFFIX,broadbandreports.com
 DOMAIN-SUFFIX,dslr.net
 DOMAIN-SUFFIX,dslreports.com
+DOMAIN-SUFFIX,habr.com
+DOMAIN-SUFFIX,habrastorage.org
 DOMAIN-SUFFIX,hkgolden.com
 DOMAIN-SUFFIX,hkgolden.media
 DOMAIN-SUFFIX,lih.kg
@@ -18004,6 +18019,7 @@ DOMAIN-SUFFIX,affinity.studio
 DOMAIN-SUFFIX,affinity-beta.s3.amazonaws.com
 DOMAIN-SUFFIX,affinity-lessons.s3.amazonaws.com
 DOMAIN-SUFFIX,canva.com
+DOMAIN-SUFFIX,canvastatus.com
 DOMAIN-SUFFIX,chegg.com
 DOMAIN-SUFFIX,cheggcdn.com
 DOMAIN-SUFFIX,webex.ca
