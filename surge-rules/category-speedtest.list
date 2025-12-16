@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,speedtestcustom.com
 DOMAIN-SUFFIX,webtest.net
 DOMAIN,www.speedtest.net.cdn.cloudflare.net
 URL-REGEX,^https?://speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net(?::\d+)?(?:/|$)
+DOMAIN-SUFFIX,ookla-speedtest-central.hgconair.hgc.com.hk
 DOMAIN-SUFFIX,open.cachefly.net
 DOMAIN-SUFFIX,openspeedtest.com
 DOMAIN-SUFFIX,cnspeedtest.cn

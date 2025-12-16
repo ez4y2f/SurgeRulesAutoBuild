@@ -18,6 +18,8 @@ DOMAIN-SUFFIX,socdm.com
 DOMAIN,disney.my.sentry.io
 DOMAIN-SUFFIX,ads-pixiv.net
 DOMAIN,o4504926511693824.ingest.sentry.io
+DOMAIN-SUFFIX,ad-channel.diwodiwo.xyz
+DOMAIN-SUFFIX,ad-display.diwodiwo.xyz
 DOMAIN-SUFFIX,collector.xhamster.com
 DOMAIN-SUFFIX,collector.github.com
 DOMAIN-SUFFIX,copilot-telemetry.githubusercontent.com
