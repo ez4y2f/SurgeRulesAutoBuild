@@ -39,6 +39,8 @@ DOMAIN-SUFFIX,jules.google.com
 DOMAIN-SUFFIX,labs.google
 DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
 DOMAIN-SUFFIX,aida.googleapis.com
+DOMAIN-SUFFIX,opal.google
+DOMAIN-SUFFIX,opal.google.com
 DOMAIN-SUFFIX,groq.com
 DOMAIN-SUFFIX,hf.co
 DOMAIN-SUFFIX,hf.space
