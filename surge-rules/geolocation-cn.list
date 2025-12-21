@@ -1457,8 +1457,11 @@ DOMAIN-SUFFIX,weibo.com
 DOMAIN-SUFFIX,weibo.com.cn
 DOMAIN-SUFFIX,weibocdn.com
 DOMAIN-SUFFIX,xhaiwai.com
+DOMAIN-SUFFIX,askdiandian.com
+DOMAIN-SUFFIX,diandianlife.top
 DOMAIN-SUFFIX,xhscdn.com
 DOMAIN-SUFFIX,xhscdn.net
+DOMAIN-SUFFIX,xhslink.com
 DOMAIN-SUFFIX,xiaohongshu.com
 DOMAIN-SUFFIX,duowan.com
 DOMAIN-SUFFIX,dwstatic.com
@@ -2730,6 +2733,7 @@ DOMAIN,hospital.pku.edu.cn
 DOMAIN,ss.bjmu.edu.cn
 DOMAIN-SUFFIX,yctdyy.com
 DOMAIN-SUFFIX,smuszh.com
+DOMAIN-SUFFIX,ahfda.com
 DOMAIN-SUFFIX,biomart.cn
 DOMAIN-SUFFIX,dxy.com
 DOMAIN-SUFFIX,dxy.cn
@@ -2862,6 +2866,10 @@ DOMAIN-SUFFIX,cugbonline.cn
 DOMAIN-SUFFIX,dearedu.com
 DOMAIN-SUFFIX,dgjy.net
 DOMAIN-SUFFIX,eduei.com
+DOMAIN-SUFFIX,ictbda.cn
+DOMAIN-SUFFIX,ictbda.com
+DOMAIN-SUFFIX,modex.com.cn
+DOMAIN-SUFFIX,xir.cn
 DOMAIN-SUFFIX,j-test.com
 DOMAIN-SUFFIX,nattest-china.com
 DOMAIN-SUFFIX,keboyunxiao.com
@@ -2949,6 +2957,7 @@ DOMAIN-SUFFIX,ancientbooks.cn
 DOMAIN-SUFFIX,apabi.com
 DOMAIN-SUFFIX,bjinfobank.com
 DOMAIN-SUFFIX,blyun.com
+DOMAIN-SUFFIX,medalink.cn
 DOMAIN-SUFFIX,chinabooktrading.com
 DOMAIN-SUFFIX,cidp.com.cn
 DOMAIN-SUFFIX,cnbksy.com
@@ -3018,6 +3027,8 @@ DOMAIN-SUFFIX,guoxuedashi.com
 DOMAIN-SUFFIX,guoxuemi.com
 DOMAIN-SUFFIX,zyh365.com
 DOMAIN-SUFFIX,wzlib.cn
+DOMAIN-SUFFIX,askdiandian.com
+DOMAIN-SUFFIX,diandianlife.top
 DOMAIN-SUFFIX,deepseek.com
 DOMAIN-SUFFIX,butterfly-static.cn
 DOMAIN-SUFFIX,butterflyai.cn
@@ -3401,6 +3412,7 @@ DOMAIN-SUFFIX,i8tq.com
 DOMAIN-SUFFIX,tq121.com.cn
 DOMAIN-SUFFIX,weather.com.cn
 DOMAIN-SUFFIX,weatherdt.com
+DOMAIN-SUFFIX,immersivetranslate.cn
 DOMAIN-SUFFIX,ireader.com
 DOMAIN-SUFFIX,zhangyue.com
 DOMAIN-SUFFIX,zhangyue01.com
@@ -6121,8 +6133,12 @@ DOMAIN-SUFFIX,ad1.xiaomi.com
 DOMAIN-SUFFIX,admob.xiaomi.com
 DOMAIN-SUFFIX,adv.sec.intl.miui.com
 DOMAIN-SUFFIX,adv.sec.miui.com
+DOMAIN-SUFFIX,data.mistat.india.xiaomi.com
+DOMAIN-SUFFIX,data.mistat.intl.xiaomi.com
+DOMAIN-SUFFIX,data.mistat.rus.xiaomi.com
+DOMAIN-SUFFIX,data.mistat.xiaomi.com
+DOMAIN-SUFFIX,logupdate.avlyun.sec.miui.com
 DOMAIN-SUFFIX,misc.in.duokanbox.com
-DOMAIN-SUFFIX,mistat.xiaomi.com
 DOMAIN-SUFFIX,sentry.d.mi.com
 DOMAIN-SUFFIX,sentry.d.xiaomi.net
 DOMAIN-SUFFIX,tjqonline.cn
