@@ -2341,6 +2341,9 @@ DOMAIN-SUFFIX,cloudimage.io
 DOMAIN-SUFFIX,cloudimg.io
 DOMAIN-SUFFIX,stackpath.com
 DOMAIN-SUFFIX,stackpath.dev
+DOMAIN-SUFFIX,vrcdn.cloud
+DOMAIN-SUFFIX,vrcdn.live
+DOMAIN-SUFFIX,vrcdn.video
 DOMAIN-SUFFIX,embedwistia-a.akamaihd.net
 DOMAIN-SUFFIX,wistia.com
 DOMAIN-SUFFIX,wistia.net
