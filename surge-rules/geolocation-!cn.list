@@ -1428,6 +1428,7 @@ DOMAIN-SUFFIX,myfin.bg
 DOMAIN-SUFFIX,futuesop.com
 DOMAIN-SUFFIX,futufin.com
 DOMAIN-SUFFIX,futuhk.com
+DOMAIN-SUFFIX,futuhkapp.com
 DOMAIN-SUFFIX,futuhn.com
 DOMAIN-SUFFIX,futuholdings.com
 DOMAIN-SUFFIX,futuniuniu.com
@@ -4808,6 +4809,11 @@ DOMAIN-SUFFIX,tiktokw.us
 DOMAIN-SUFFIX,ttlivecdn.com
 DOMAIN-SUFFIX,ttoverseaus.net
 DOMAIN-SUFFIX,ttwstatic.com
+DOMAIN-SUFFIX,tiktokcdn-us.com.edgesuite.net
+DOMAIN-SUFFIX,tiktokcdn.com.akamaized.net
+DOMAIN-SUFFIX,tiktokcdn.com.edgesuite.net
+DOMAIN-SUFFIX,tiktokv.com.edgekey.net
+DOMAIN-SUFFIX,tiktokv.com.edgesuite.net
 DOMAIN,p16-tiktokcdn-com.akamaized.net
 DOMAIN,roovza-launches.appsflyersdk.com
 DOMAIN,roovza.inapps.appsflyersdk.com
@@ -14146,8 +14152,6 @@ DOMAIN-SUFFIX,kodi.tv
 DOMAIN-SUFFIX,kodi.wiki
 DOMAIN-SUFFIX,liberapay.com
 DOMAIN-SUFFIX,liberapay.org
-DOMAIN-SUFFIX,linguee.com
-DOMAIN-SUFFIX,deepl.com
 DOMAIN-SUFFIX,localizecdn.com
 DOMAIN-SUFFIX,localizejs.com
 DOMAIN-SUFFIX,localizestatus.com
@@ -14312,7 +14316,6 @@ DOMAIN-SUFFIX,zeit-world.org
 DOMAIN-SUFFIX,zeit.co
 DOMAIN-SUFFIX,zeit.sh
 DOMAIN-SUFFIX,zeitworld.com
-DOMAIN-SUFFIX,webflow.com
 DOMAIN-SUFFIX,editorx.com
 DOMAIN-SUFFIX,parastorage.com
 DOMAIN-SUFFIX,wix-code.com
@@ -14358,6 +14361,11 @@ DOMAIN-SUFFIX,biliplus.com
 DOMAIN-SUFFIX,originlab.com
 DOMAIN-SUFFIX,cloudlatex.io
 DOMAIN-SUFFIX,overleaf.com
+DOMAIN-SUFFIX,linguee.com
+DOMAIN-SUFFIX,deepl.com
+DOMAIN-SUFFIX,collinsdictionary.com
+DOMAIN-SUFFIX,ldoceonline.com
+DOMAIN-SUFFIX,immersivetranslate.com
 DOMAIN-SUFFIX,auroraoss.com
 DOMAIN-SUFFIX,cookiepro.com
 DOMAIN-SUFFIX,cookielaw.org
@@ -14872,6 +14880,7 @@ DOMAIN-SUFFIX,mobatek.net
 DOMAIN-SUFFIX,mpv.io
 DOMAIN-SUFFIX,mysql.com
 DOMAIN-SUFFIX,neovim.io
+DOMAIN-SUFFIX,newpipe.net
 DOMAIN-SUFFIX,nixos.org
 DOMAIN-SUFFIX,nodesource.com
 DOMAIN-SUFFIX,notepad-plus-plus.org
@@ -14882,8 +14891,8 @@ DOMAIN-SUFFIX,packagist.org
 DOMAIN-SUFFIX,pcre.org
 DOMAIN-SUFFIX,phantomjs.org
 DOMAIN-SUFFIX,php.net
-DOMAIN-SUFFIX,putty.org
 DOMAIN-SUFFIX,postgresql.org
+DOMAIN-SUFFIX,putty.org
 DOMAIN-SUFFIX,r-project.org
 DOMAIN-SUFFIX,raspberrypi.org
 DOMAIN-SUFFIX,raspbian.org
@@ -14901,6 +14910,8 @@ DOMAIN-SUFFIX,videojs.com
 DOMAIN-SUFFIX,videolan.org
 DOMAIN-SUFFIX,wapm.io
 DOMAIN-SUFFIX,wasmer.io
+DOMAIN-SUFFIX,webflow.com
+DOMAIN-SUFFIX,weblate.org
 DOMAIN-SUFFIX,wireshark.org
 DOMAIN-SUFFIX,x.org
 DOMAIN-SUFFIX,xposed.info
@@ -23674,4 +23685,3 @@ DOMAIN-SUFFIX,tsquare.tv
 DOMAIN-SUFFIX,windy.com
 DOMAIN-SUFFIX,xdty.org
 DOMAIN-SUFFIX,xingrz.me
-DOMAIN-SUFFIX,immersivetranslate.com

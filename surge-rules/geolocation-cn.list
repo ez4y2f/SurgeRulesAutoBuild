@@ -1325,6 +1325,8 @@ DOMAIN-SUFFIX,iresearch.cn
 DOMAIN-SUFFIX,jianyuweb.com
 DOMAIN-SUFFIX,wallstcn.com
 DOMAIN-SUFFIX,wallstreetcn.com
+DOMAIN-SUFFIX,jfdaily.com
+DOMAIN-SUFFIX,shobserver.com
 DOMAIN-SUFFIX,jiqizhixin.com
 DOMAIN-SUFFIX,jrj.com.cn
 DOMAIN-SUFFIX,jrjimg.cn
@@ -2229,6 +2231,7 @@ DOMAIN-SUFFIX,jiashule.com
 DOMAIN-SUFFIX,jiasule.com
 DOMAIN-SUFFIX,yunaq.com
 DOMAIN-SUFFIX,jikeiot.cloud
+DOMAIN-SUFFIX,jsdmirror.com
 DOMAIN-SUFFIX,kaipuyun.cn
 DOMAIN-SUFFIX,kaipuyun.com
 DOMAIN-SUFFIX,kaipuyun.com.cn
@@ -2866,6 +2869,7 @@ DOMAIN-SUFFIX,cugbonline.cn
 DOMAIN-SUFFIX,dearedu.com
 DOMAIN-SUFFIX,dgjy.net
 DOMAIN-SUFFIX,eduei.com
+DOMAIN-SUFFIX,gk100.com
 DOMAIN-SUFFIX,ictbda.cn
 DOMAIN-SUFFIX,ictbda.com
 DOMAIN-SUFFIX,modex.com.cn
@@ -4281,6 +4285,11 @@ DOMAIN-SUFFIX,tiktokw.us
 DOMAIN-SUFFIX,ttlivecdn.com
 DOMAIN-SUFFIX,ttoverseaus.net
 DOMAIN-SUFFIX,ttwstatic.com
+DOMAIN-SUFFIX,tiktokcdn-us.com.edgesuite.net
+DOMAIN-SUFFIX,tiktokcdn.com.akamaized.net
+DOMAIN-SUFFIX,tiktokcdn.com.edgesuite.net
+DOMAIN-SUFFIX,tiktokv.com.edgekey.net
+DOMAIN-SUFFIX,tiktokv.com.edgesuite.net
 DOMAIN,p16-tiktokcdn-com.akamaized.net
 DOMAIN,roovza-launches.appsflyersdk.com
 DOMAIN,roovza.inapps.appsflyersdk.com

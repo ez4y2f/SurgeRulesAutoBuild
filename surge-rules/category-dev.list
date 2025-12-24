@@ -508,6 +508,7 @@ DOMAIN-SUFFIX,mobatek.net
 DOMAIN-SUFFIX,mpv.io
 DOMAIN-SUFFIX,mysql.com
 DOMAIN-SUFFIX,neovim.io
+DOMAIN-SUFFIX,newpipe.net
 DOMAIN-SUFFIX,nixos.org
 DOMAIN-SUFFIX,nodesource.com
 DOMAIN-SUFFIX,notepad-plus-plus.org
@@ -518,8 +519,8 @@ DOMAIN-SUFFIX,packagist.org
 DOMAIN-SUFFIX,pcre.org
 DOMAIN-SUFFIX,phantomjs.org
 DOMAIN-SUFFIX,php.net
-DOMAIN-SUFFIX,putty.org
 DOMAIN-SUFFIX,postgresql.org
+DOMAIN-SUFFIX,putty.org
 DOMAIN-SUFFIX,r-project.org
 DOMAIN-SUFFIX,raspberrypi.org
 DOMAIN-SUFFIX,raspbian.org
@@ -537,6 +538,8 @@ DOMAIN-SUFFIX,videojs.com
 DOMAIN-SUFFIX,videolan.org
 DOMAIN-SUFFIX,wapm.io
 DOMAIN-SUFFIX,wasmer.io
+DOMAIN-SUFFIX,webflow.com
+DOMAIN-SUFFIX,weblate.org
 DOMAIN-SUFFIX,wireshark.org
 DOMAIN-SUFFIX,x.org
 DOMAIN-SUFFIX,xposed.info
