@@ -45,6 +45,7 @@ DOMAIN,appleworldwidedeveloper.sc.omtrdc.net
 DOMAIN,p-events-delivery.akamaized.net
 DOMAIN-SUFFIX,archlinux.org
 DOMAIN-SUFFIX,archlinuxarm.org
+DOMAIN-SUFFIX,archlinuxcn.org
 DOMAIN-SUFFIX,bootstrapcdn.com
 DOMAIN-SUFFIX,getbootstrap.com
 DOMAIN-SUFFIX,braventures.com
@@ -489,6 +490,7 @@ DOMAIN-SUFFIX,getcomposer.org
 DOMAIN-SUFFIX,getzola.org
 DOMAIN-SUFFIX,git-scm.com
 DOMAIN-SUFFIX,gnu.org
+DOMAIN-SUFFIX,godbolt.org
 DOMAIN-SUFFIX,greenend.org.uk
 DOMAIN-SUFFIX,hex.pm
 DOMAIN-SUFFIX,hexdocs.pm
