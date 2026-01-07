@@ -48,6 +48,7 @@ DOMAIN,ocsp.apple.com
 DOMAIN,ocsp2-lb.apple.com.akadns.net
 DOMAIN,ocsp2.apple.com
 DOMAIN,valid.apple.com
+DOMAIN,valid.origin-apple.com.akadns.net
 DOMAIN,apple-tv-plus-press.apple.com
 DOMAIN,hls-amt.itunes.apple.com
 DOMAIN,hls.itunes.apple.com
@@ -899,10 +900,6 @@ DOMAIN-SUFFIX,itunesu.com
 DOMAIN-SUFFIX,itunesu.net
 DOMAIN-SUFFIX,iutunes.com
 DOMAIN-SUFFIX,wwwitunes.com
-DOMAIN-SUFFIX,appleswift.com
-DOMAIN-SUFFIX,swift.org
-DOMAIN-SUFFIX,swiftui.cn
-DOMAIN-SUFFIX,swiftui.com.cn
 DOMAIN-SUFFIX,apple
 DOMAIN-SUFFIX,apple.ae
 DOMAIN-SUFFIX,apple.at
@@ -1700,7 +1697,6 @@ DOMAIN,cds-cdn.v.aaplimg.com
 DOMAIN,cds.apple.com
 DOMAIN,cds.apple.com.akadns.net
 DOMAIN,cdsassets.apple.com
-DOMAIN,certs.apple.com
 DOMAIN,cl2-cn.apple.com
 DOMAIN,cl4-cn.apple.com
 DOMAIN,clientflow.apple.com
@@ -1708,7 +1704,6 @@ DOMAIN,clientflow.apple.com.akadns.net
 DOMAIN,cn-smp-paymentservices.apple.com
 DOMAIN,configuration.apple.com
 DOMAIN,configuration.apple.com.akadns.net
-DOMAIN,crl.apple.com
 DOMAIN,cstat.apple.com
 DOMAIN,cstat.cdn-apple.com
 DOMAIN,dd-cdn.origin-apple.com.akadns.net
@@ -1761,10 +1756,6 @@ DOMAIN,mesu-china.apple.com.akadns.net
 DOMAIN,mesu.apple.com
 DOMAIN,ml.cdn-apple.com
 DOMAIN,music.apple.com
-DOMAIN,ocsp-lb.apple.com.akadns.net
-DOMAIN,ocsp.apple.com
-DOMAIN,ocsp2-lb.apple.com.akadns.net
-DOMAIN,ocsp2.apple.com
 DOMAIN,oscdn.apple.com
 DOMAIN,oscdn.origin-apple.com.akadns.net
 DOMAIN,osxapps.itunes.g.aaplimg.com
@@ -1807,8 +1798,6 @@ DOMAIN,tj-pod1-smp-device.apple.com
 DOMAIN,updates-http.cdn-apple.com
 DOMAIN,updates-http.cdn-apple.com.akadns.net
 DOMAIN,updates.cdn-apple.com
-DOMAIN,valid.apple.com
-DOMAIN,valid.origin-apple.com.akadns.net
 DOMAIN,weather-data.apple.com
 DOMAIN,weather-data.apple.com.akadns.net
 DOMAIN,weather-map.apple.com

@@ -1015,8 +1015,9 @@ DOMAIN-SUFFIX,xn--gogl-1nd42e.com
 DOMAIN-SUFFIX,xplr.co
 DOMAIN-SUFFIX,zukunftswerkstatt.de
 DOMAIN,google-ohttp-relay-safebrowsing.fastly-edge.com
+DOMAIN-SUFFIX,gvt1-cn.com
+DOMAIN-SUFFIX,gvt2-cn.com
 DOMAIN,www.recaptcha.net
-DOMAIN,safebrowsing-cache.google.com
 DOMAIN,265.com
 DOMAIN,2mdn-cn.net
 DOMAIN,2mdn.net
@@ -1045,7 +1046,6 @@ DOMAIN,cnappinstall.googleadapis.com
 DOMAIN,connectivitycheck.gstatic.com
 DOMAIN,content.googleadapis.com
 DOMAIN,crashlyticsreports-pa.googleapis.com
-DOMAIN,crl.pki.goog
 DOMAIN,csi.gstatic.com
 DOMAIN,dartsearch-cn.net
 DOMAIN,dg-meta.video.google.com
@@ -1057,7 +1057,6 @@ DOMAIN,download.mlcc.google.com
 DOMAIN,download.qatp1.net
 DOMAIN,download.tensorflow.google.com
 DOMAIN,emmapplecodevice.googleapis.com
-DOMAIN,firebase-settings.crashlytics.com
 DOMAIN,fontfiles.googleapis.com
 DOMAIN,fonts.googleapis.com
 DOMAIN,fonts.gstatic.com
@@ -1096,10 +1095,8 @@ DOMAIN,logger-dev.corp.google.com
 DOMAIN,logger.corp.google.com
 DOMAIN,login.corp.google.com
 DOMAIN,monitoring.qpdp1.net
-DOMAIN,ocsp.pki.goog
 DOMAIN,pagead-googlehosted.l.google.com
 DOMAIN,performanceparameters.googleapis.com
-DOMAIN,pki-goog.l.google.com
 DOMAIN,prod-controlbe.floonet.goog
 DOMAIN,prod-databe.floonet.goog
 DOMAIN,prod.databe.floonet.goog
@@ -1118,7 +1115,6 @@ DOMAIN,redirector.bdn.dev
 DOMAIN,redirector.c.chat.google.com
 DOMAIN,redirector.c.mail.google.com
 DOMAIN,redirector.c.pack.google.com
-DOMAIN,redirector.c.play.google.com
 DOMAIN,redirector.c.youtubeeducation.com
 DOMAIN,redirector.gcpcdn.gvt1.com
 DOMAIN,redirector.gvt1.com
@@ -1157,5 +1153,3 @@ DOMAIN,www.destinationurl.com
 DOMAIN,www.gstatic.com
 DOMAIN,www.pxcc.com
 DOMAIN,xn--flw351e.com
-DOMAIN-SUFFIX,gvt1-cn.com
-DOMAIN-SUFFIX,gvt2-cn.com
