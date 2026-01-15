@@ -930,6 +930,7 @@ DOMAIN-SUFFIX,miaopai.com
 DOMAIN-SUFFIX,motie.com
 DOMAIN-SUFFIX,motieimg.com
 DOMAIN-SUFFIX,pearvideo.com
+DOMAIN-SUFFIX,pipi.cn
 DOMAIN-SUFFIX,sfacg.com
 DOMAIN-SUFFIX,shuhai.com
 DOMAIN-SUFFIX,tadu.com
@@ -1502,6 +1503,7 @@ DOMAIN-SUFFIX,dandan818.com
 DOMAIN-SUFFIX,dandanvoice.com
 DOMAIN-SUFFIX,maimai.cn
 DOMAIN-SUFFIX,taou.com
+DOMAIN-SUFFIX,zsxq.com
 DOMAIN-SUFFIX,gepush.com
 DOMAIN-SUFFIX,getui.cn
 DOMAIN-SUFFIX,getui.com
@@ -3444,6 +3446,7 @@ DOMAIN-SUFFIX,zbjimg.com
 DOMAIN-SUFFIX,zhubajie.com
 DOMAIN-SUFFIX,7moor-fs1.com
 DOMAIN-SUFFIX,7moor.com
+DOMAIN-SUFFIX,alookweb.com
 DOMAIN-SUFFIX,antutu.com
 DOMAIN-SUFFIX,antutu.net
 DOMAIN-SUFFIX,bambulab.com
@@ -3455,11 +3458,21 @@ DOMAIN-SUFFIX,xiachufang.com
 DOMAIN-SUFFIX,clink.cn
 DOMAIN-SUFFIX,dangbei.com
 DOMAIN-SUFFIX,dangbei.net
+DOMAIN-SUFFIX,dcloud.io
+DOMAIN-SUFFIX,dcloud.net.cn
 DOMAIN-SUFFIX,deepepg.com
 DOMAIN-SUFFIX,kookong.com
 DOMAIN-SUFFIX,dida365.com
+DOMAIN-SUFFIX,dui88.com
+DOMAIN-SUFFIX,duiba.com.cn
 DOMAIN-SUFFIX,hapjs.org
 DOMAIN-SUFFIX,quickapp.cn
+DOMAIN-SUFFIX,hpplay.cn
+DOMAIN-SUFFIX,lbtp.com
+DOMAIN-SUFFIX,lebo.cn
+DOMAIN-SUFFIX,lebo.com.cn
+DOMAIN-SUFFIX,lebo.top
+DOMAIN-SUFFIX,mirrorcast.cn
 DOMAIN-SUFFIX,huolala.cn
 DOMAIN-SUFFIX,huorong.cn
 DOMAIN-SUFFIX,i8tq.com
@@ -3483,6 +3496,7 @@ DOMAIN-SUFFIX,sobot.com
 DOMAIN-SUFFIX,soboten.com
 DOMAIN-SUFFIX,tacool.com
 DOMAIN-SUFFIX,viayoo.com
+DOMAIN-SUFFIX,xbext.com
 DOMAIN-SUFFIX,yinxiang.com
 DOMAIN-SUFFIX,zhaopin.cn
 DOMAIN-SUFFIX,1tyy.cn
@@ -6355,6 +6369,7 @@ DOMAIN-SUFFIX,migu.cn
 DOMAIN-SUFFIX,migucloud.com
 DOMAIN-SUFFIX,migufun.com
 DOMAIN-SUFFIX,miguvideo.com
+DOMAIN-SUFFIX,cmft.com.cn
 DOMAIN-SUFFIX,cmcc-cs.cn
 DOMAIN-SUFFIX,online-cmcc.cn
 DOMAIN-SUFFIX,andfx.cn
