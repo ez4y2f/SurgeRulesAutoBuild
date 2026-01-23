@@ -1341,6 +1341,7 @@ DOMAIN-SUFFIX,ruguoapp.com
 DOMAIN-SUFFIX,include:sina
 DOMAIN-SUFFIX,askdiandian.com
 DOMAIN-SUFFIX,diandianlife.top
+DOMAIN-SUFFIX,rednotecdn.com
 DOMAIN-SUFFIX,xhscdn.com
 DOMAIN-SUFFIX,xhscdn.net
 DOMAIN-SUFFIX,xhslink.com
@@ -2158,6 +2159,7 @@ DOMAIN,hospital.pku.edu.cn
 DOMAIN,ss.bjmu.edu.cn
 DOMAIN-SUFFIX,yctdyy.com
 DOMAIN-SUFFIX,smuszh.com
+DOMAIN-SUFFIX,cd120.com
 DOMAIN-SUFFIX,ahfda.com
 DOMAIN-SUFFIX,biomart.cn
 DOMAIN-SUFFIX,dxy.com
