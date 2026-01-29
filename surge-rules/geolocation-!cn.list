@@ -13850,6 +13850,7 @@ DOMAIN-SUFFIX,rpglogs.cn
 DOMAIN-SUFFIX,thetrackernetwork.com
 DOMAIN-SUFFIX,tracker.gg
 DOMAIN-SUFFIX,tracker.network
+DOMAIN-SUFFIX,battleye.com
 DOMAIN-SUFFIX,bluestacks.com
 DOMAIN-SUFFIX,ldmnq.com
 DOMAIN-SUFFIX,lsplayer.com
@@ -17124,6 +17125,7 @@ DOMAIN,amp-api-edge.apps.apple.com
 DOMAIN,amp-api-search-edge.apps.apple.com
 DOMAIN,amp-api.apps.apple.com
 DOMAIN,amp-api.music.apple.com
+DOMAIN,aod-ssl.itunes.apple.com
 DOMAIN,aod.itunes.apple.com
 DOMAIN,api-edge.apps.apple.com
 DOMAIN,apptrailers.itunes.apple.com
