@@ -1,4 +1,3 @@
-DOMAIN-SUFFIX,ads.pubmatic.com
 DOMAIN-SUFFIX,ads.yahoo.com
 DOMAIN-SUFFIX,gemini.yahoo.com
 DOMAIN-SUFFIX,ysm.yahoo.com
@@ -23,12 +22,8 @@ DOMAIN,ad-display.diwodiwo.xyz
 DOMAIN-SUFFIX,collector.xhamster.com
 DOMAIN-SUFFIX,collector.github.com
 DOMAIN-SUFFIX,copilot-telemetry.githubusercontent.com
-DOMAIN-SUFFIX,ads.unitychina.cn
-DOMAIN-SUFFIX,splash-ads.cdn.unity.cn
-DOMAIN-SUFFIX,splash-ads.unitychina.cn
-DOMAIN-SUFFIX,unityads.unity.cn
+DOMAIN-SUFFIX,iads.unity3d.com
 DOMAIN-SUFFIX,unityads.unity3d.com
-DOMAIN-SUFFIX,unityads.unitychina.cn
 DOMAIN-SUFFIX,advertising.adobe.com
 DOMAIN-SUFFIX,tubemogul.com
 DOMAIN-SUFFIX,amazon-adsystem.com

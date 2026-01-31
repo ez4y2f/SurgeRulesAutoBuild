@@ -1,7 +1,6 @@
 DOMAIN-SUFFIX,include:category-ai-!cn
 DOMAIN-SUFFIX,pubmatic.com
 DOMAIN-SUFFIX,pubmatic.co.jp
-DOMAIN-SUFFIX,ads.pubmatic.com
 DOMAIN-SUFFIX,taboola.com
 DOMAIN-SUFFIX,cf-ipfs.com
 DOMAIN-SUFFIX,cloudflare-ipfs.com
@@ -14881,12 +14880,8 @@ DOMAIN-SUFFIX,linuxfoundation.org
 DOMAIN-SUFFIX,topcoder.com
 DOMAIN-SUFFIX,unity.com
 DOMAIN-SUFFIX,unity3d.com
-DOMAIN-SUFFIX,ads.unitychina.cn
-DOMAIN-SUFFIX,splash-ads.cdn.unity.cn
-DOMAIN-SUFFIX,splash-ads.unitychina.cn
-DOMAIN-SUFFIX,unityads.unity.cn
+DOMAIN-SUFFIX,iads.unity3d.com
 DOMAIN-SUFFIX,unityads.unity3d.com
-DOMAIN-SUFFIX,unityads.unitychina.cn
 DOMAIN-SUFFIX,v8.dev
 DOMAIN-SUFFIX,v8project.org
 DOMAIN-SUFFIX,vim.org
