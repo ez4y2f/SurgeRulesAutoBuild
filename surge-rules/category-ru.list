@@ -154,6 +154,9 @@ DOMAIN-SUFFIX,yamal.ru
 DOMAIN-SUFFIX,fix-price.com
 DOMAIN-SUFFIX,lenta.com
 DOMAIN-SUFFIX,lenta.tech
+DOMAIN-SUFFIX,avs.io
+DOMAIN-SUFFIX,aviasales.ru
+DOMAIN-SUFFIX,aviasales.com
 DOMAIN-SUFFIX,mosmetro.ru
 DOMAIN-SUFFIX,mosmetro.tech
 DOMAIN-SUFFIX,avito.ru
@@ -291,6 +294,7 @@ DOMAIN-SUFFIX,yastat.net
 DOMAIN-SUFFIX,yastatic.net
 DOMAIN-SUFFIX,kinopoisk.ru
 DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
+DOMAIN,yandex-pogoda.static-storage.net
 DOMAIN-SUFFIX,dodopizza.ru
 DOMAIN-SUFFIX,dodopizza.com
 DOMAIN-SUFFIX,dodostatic.net

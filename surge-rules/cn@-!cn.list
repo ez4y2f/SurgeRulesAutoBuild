@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,include:alibaba
 DOMAIN-SUFFIX,include:bytedance
 DOMAIN-SUFFIX,include:didi
 DOMAIN-SUFFIX,include:huawei
+DOMAIN-SUFFIX,include:netease
 DOMAIN-SUFFIX,include:oppo
 DOMAIN-SUFFIX,include:tencent
 DOMAIN-SUFFIX,include:vivo
