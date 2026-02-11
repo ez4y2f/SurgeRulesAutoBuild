@@ -233,9 +233,6 @@ DOMAIN-SUFFIX,flic.kr
 DOMAIN-SUFFIX,flickr.com
 DOMAIN-SUFFIX,flickr.net
 DOMAIN-SUFFIX,staticflickr.com
-DOMAIN-SUFFIX,ads.yahoo.com
-DOMAIN-SUFFIX,gemini.yahoo.com
-DOMAIN-SUFFIX,ysm.yahoo.com
 DOMAIN-SUFFIX,yahoo
 DOMAIN-SUFFIX,yahoo.ae
 DOMAIN-SUFFIX,yahoo.am
@@ -403,6 +400,9 @@ DOMAIN-SUFFIX,yimg.jp
 DOMAIN-SUFFIX,ymail.com
 DOMAIN-SUFFIX,yusercontent.com
 DOMAIN,cdn.js7k.com
+DOMAIN-SUFFIX,ads.yahoo.com
+DOMAIN-SUFFIX,gemini.yahoo.com
+DOMAIN-SUFFIX,ysm.yahoo.com
 DOMAIN-SUFFIX,oath.cloud
 DOMAIN-SUFFIX,oath.com
 DOMAIN-SUFFIX,ouroath.com

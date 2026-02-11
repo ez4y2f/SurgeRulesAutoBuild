@@ -94,6 +94,7 @@ DOMAIN-SUFFIX,themisweeps.com
 DOMAIN-SUFFIX,yuanshen.com
 DOMAIN-SUFFIX,juequling.com
 URL-REGEX,^https?://.+-mihayo\.akamaized\.net(?::\d+)?(?:/|$)
+DOMAIN-SUFFIX,log-upload.mihoyo.com
 DOMAIN-SUFFIX,battlecare.net
 DOMAIN-SUFFIX,gameitop.com
 DOMAIN-SUFFIX,gameloop.com
