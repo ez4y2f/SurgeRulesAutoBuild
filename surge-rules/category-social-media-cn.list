@@ -19,15 +19,7 @@ DOMAIN-SUFFIX,okjike.com
 DOMAIN-SUFFIX,okjk.co
 DOMAIN-SUFFIX,ruguoapp.com
 DOMAIN-SUFFIX,include:sina
-DOMAIN-SUFFIX,askdiandian.com
-DOMAIN-SUFFIX,diandianlife.top
-DOMAIN-SUFFIX,redelight.cn
-DOMAIN-SUFFIX,rednotecdn.com
-DOMAIN-SUFFIX,xhscdn.com
-DOMAIN-SUFFIX,xhscdn.net
-DOMAIN-SUFFIX,xhslink.com
-DOMAIN-SUFFIX,xhsrcdn.com
-DOMAIN-SUFFIX,xiaohongshu.com
+DOMAIN-SUFFIX,include:xiaohongshu
 DOMAIN-SUFFIX,duowan.com
 DOMAIN-SUFFIX,dwstatic.com
 DOMAIN-SUFFIX,yy.com
