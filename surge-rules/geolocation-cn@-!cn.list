@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,include:ctrip
 DOMAIN-SUFFIX,include:dewu
 DOMAIN-SUFFIX,include:jd
 DOMAIN-SUFFIX,include:alibaba
+DOMAIN-SUFFIX,include:anker
 DOMAIN-SUFFIX,include:bytedance
 DOMAIN-SUFFIX,include:didi
 DOMAIN-SUFFIX,include:huawei
