@@ -300,6 +300,7 @@ DOMAIN-SUFFIX,webcams.tv
 DOMAIN-SUFFIX,whynotbi.com
 DOMAIN-SUFFIX,missav.ai
 DOMAIN-SUFFIX,missav.com
+DOMAIN-SUFFIX,missav.live
 DOMAIN-SUFFIX,missav.uno
 DOMAIN-SUFFIX,missav.vip
 DOMAIN-SUFFIX,missav.ws
@@ -2701,6 +2702,8 @@ DOMAIN-SUFFIX,heavyfetish.com
 DOMAIN-SUFFIX,hegre.com
 DOMAIN-SUFFIX,heiguab.top
 DOMAIN-SUFFIX,heijidi.life
+DOMAIN-SUFFIX,heiliao.com
+DOMAIN-SUFFIX,heiliao88.com
 DOMAIN-SUFFIX,heise360181.buzz
 DOMAIN-SUFFIX,heise360182.buzz
 DOMAIN-SUFFIX,helixstudios.net
@@ -6626,6 +6629,7 @@ URL-REGEX,^https?://(^|\.)tqav[1-9][0-9]\.com(?::\d+)?(?:/|$)
 URL-REGEX,^https?://(^|\.)tt[1-2][0-9]\.tv(?::\d+)?(?:/|$)
 URL-REGEX,^https?://(^|\.)ttghg[1-9][0-9]\.xyz(?::\d+)?(?:/|$)
 URL-REGEX,^https?://(^|\.)tttv([1-9][0-9]?|100)\.com(?::\d+)?(?:/|$)
+URL-REGEX,^https?://(^|\.)twav[1-9]\.xyz(?::\d+)?(?:/|$)
 URL-REGEX,^https?://(^|\.)twseb([1-9][0-9]?)?\.com(?::\d+)?(?:/|$)
 URL-REGEX,^https?://(^|\.)uu[a-z][1-9][0-9]?\.com(?::\d+)?(?:/|$)
 URL-REGEX,^https?://(^|\.)whtdh0[1-3]\.cc(?::\d+)?(?:/|$)
