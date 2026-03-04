@@ -4597,6 +4597,7 @@ DOMAIN,disney.my.sentry.io
 DOMAIN-SUFFIX,chobit.cc
 DOMAIN-SUFFIX,ci-en.jp
 DOMAIN-SUFFIX,ci-en.net
+DOMAIN-SUFFIX,dlaf.jp
 DOMAIN-SUFFIX,dlsite.com
 DOMAIN-SUFFIX,dlsite.com.tw
 DOMAIN-SUFFIX,dlsite.jp
@@ -4953,6 +4954,7 @@ DOMAIN-SUFFIX,tiktokv.eu
 DOMAIN-SUFFIX,tiktokv.us
 DOMAIN-SUFFIX,tiktokw.eu
 DOMAIN-SUFFIX,tiktokw.us
+DOMAIN-SUFFIX,ttcdn-us.com
 DOMAIN-SUFFIX,ttlivecdn.com
 DOMAIN-SUFFIX,ttoverseaus.net
 DOMAIN-SUFFIX,ttwstatic.com
@@ -7137,6 +7139,7 @@ DOMAIN-SUFFIX,cuinc.tw
 DOMAIN-SUFFIX,chobit.cc
 DOMAIN-SUFFIX,ci-en.jp
 DOMAIN-SUFFIX,ci-en.net
+DOMAIN-SUFFIX,dlaf.jp
 DOMAIN-SUFFIX,dlsite.com
 DOMAIN-SUFFIX,dlsite.com.tw
 DOMAIN-SUFFIX,dlsite.jp
@@ -7210,8 +7213,6 @@ DOMAIN-SUFFIX,hooligapps.com
 DOMAIN-SUFFIX,slotbitches.com
 DOMAIN-SUFFIX,smutstone.com
 DOMAIN-SUFFIX,townofsins.com
-DOMAIN-SUFFIX,illusion.co.jp
-DOMAIN-SUFFIX,illusion.jp
 DOMAIN-SUFFIX,acgcf.com
 DOMAIN-SUFFIX,acgdg.com
 DOMAIN-SUFFIX,acgdv.com
@@ -7241,6 +7242,8 @@ DOMAIN-SUFFIX,lliusno.com
 DOMAIN-SUFFIX,noisullifb.com
 DOMAIN-SUFFIX,wnoaissulli1.com
 DOMAIN-SUFFIX,zzycdz.com
+DOMAIN-SUFFIX,illgames.jp
+DOMAIN-SUFFIX,japan-illgames.com
 DOMAIN-SUFFIX,cdnlab.live
 DOMAIN-SUFFIX,jable.tv
 DOMAIN-SUFFIX,mushroomtrack.com
@@ -14169,6 +14172,11 @@ DOMAIN-SUFFIX,keeper.io
 DOMAIN-SUFFIX,keepersecurity.com
 DOMAIN-SUFFIX,roboform.com
 DOMAIN-SUFFIX,strongboxsafe.com
+DOMAIN-SUFFIX,bit.ly
+DOMAIN-SUFFIX,bitly.com
+DOMAIN-SUFFIX,bitly.is
+DOMAIN-SUFFIX,shorturl.at
+DOMAIN-SUFFIX,tinyurl.com
 DOMAIN-SUFFIX,4pcdn.org
 DOMAIN-SUFFIX,4plebs.org
 DOMAIN-SUFFIX,archive.today
@@ -14239,9 +14247,6 @@ DOMAIN-SUFFIX,arphic.com
 DOMAIN-SUFFIX,arphic.com.cn
 DOMAIN-SUFFIX,arphic.com.tw
 DOMAIN-SUFFIX,ifontcloud.com
-DOMAIN-SUFFIX,bit.ly
-DOMAIN-SUFFIX,bitly.com
-DOMAIN-SUFFIX,bitly.is
 DOMAIN-SUFFIX,bigbuckbunny.org
 DOMAIN-SUFFIX,blender.org
 DOMAIN-SUFFIX,elephantsdream.org
@@ -14434,7 +14439,6 @@ DOMAIN-SUFFIX,shopifycdn.com
 DOMAIN-SUFFIX,shopifycloud.com
 DOMAIN-SUFFIX,shopifystatus.com
 DOMAIN-SUFFIX,shopifysvc.com
-DOMAIN-SUFFIX,shorturl.at
 DOMAIN-SUFFIX,slideshare.com
 DOMAIN-SUFFIX,slideshare.net
 DOMAIN-SUFFIX,slidesharecdn.com
@@ -14490,7 +14494,6 @@ DOMAIN-SUFFIX,latex-project.org
 DOMAIN-SUFFIX,miktex.org
 DOMAIN-SUFFIX,tug.org
 DOMAIN-SUFFIX,tidelift.com
-DOMAIN-SUFFIX,tinyurl.com
 DOMAIN-SUFFIX,trello.com
 DOMAIN-SUFFIX,trellocdn.com
 DOMAIN-SUFFIX,tumblr.com
@@ -16515,6 +16518,7 @@ DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,icloud-isupport.com
 DOMAIN-SUFFIX,icloud-sandbox.com
 DOMAIN-SUFFIX,icloud.ch
+DOMAIN-SUFFIX,icloud.cn
 DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,icloud.de
@@ -23353,15 +23357,6 @@ DOMAIN-SUFFIX,avxhm.is
 DOMAIN-SUFFIX,avxlive.icu
 DOMAIN-SUFFIX,xsava.xyz
 DOMAIN-SUFFIX,zavat.pw
-DOMAIN-SUFFIX,chobit.cc
-DOMAIN-SUFFIX,ci-en.jp
-DOMAIN-SUFFIX,ci-en.net
-DOMAIN-SUFFIX,dlsite.com
-DOMAIN-SUFFIX,dlsite.com.tw
-DOMAIN-SUFFIX,dlsite.jp
-DOMAIN-SUFFIX,dlsitestudio.com
-DOMAIN-SUFFIX,nijiyome.jp
-DOMAIN-SUFFIX,triokini.com
 DOMAIN-SUFFIX,espressif.com
 DOMAIN-SUFFIX,esp32.com
 DOMAIN-SUFFIX,esp8266.com
