@@ -5261,6 +5261,7 @@ DOMAIN-SUFFIX,omobi.cc
 DOMAIN-SUFFIX,oranum.com
 DOMAIN-SUFFIX,overcast.fm
 DOMAIN-SUFFIX,qobuz.com
+DOMAIN-SUFFIX,sendvid.com
 DOMAIN-SUFFIX,syosetu.com
 DOMAIN-SUFFIX,weverse.io
 DOMAIN-SUFFIX,yande.re
@@ -13831,12 +13832,15 @@ DOMAIN-SUFFIX,shenyuncreations.com
 DOMAIN-SUFFIX,shenyunperformingarts.org
 DOMAIN-SUFFIX,apkcombo.com
 DOMAIN-SUFFIX,apkmirror.com
+DOMAIN,apkmirror.disqus.com
 DOMAIN-SUFFIX,apkpure.com
 DOMAIN-SUFFIX,apkpure.net
 DOMAIN-SUFFIX,apkpures.xyz
 DOMAIN-SUFFIX,cdnpure.com
 DOMAIN-SUFFIX,pureapk.com
 DOMAIN-SUFFIX,winudf.com
+DOMAIN-SUFFIX,uptodown.com
+DOMAIN-SUFFIX,utdstc.com
 DOMAIN-SUFFIX,comodo.com
 DOMAIN-SUFFIX,comodo.net
 DOMAIN-SUFFIX,drweb.by
@@ -20829,6 +20833,8 @@ DOMAIN-SUFFIX,mail.ru
 DOMAIN-SUFFIX,ok.ru
 DOMAIN-SUFFIX,okcdn.ru
 DOMAIN-SUFFIX,mycdn.me
+DOMAIN,st-ok-pts.cdn-vk.ru
+DOMAIN,st-ok.cdn-vk.ru
 DOMAIN-SUFFIX,cdn-vk.ru
 DOMAIN-SUFFIX,mradx.net
 DOMAIN-SUFFIX,mvk.com
@@ -20871,6 +20877,9 @@ DOMAIN-SUFFIX,max.ru
 DOMAIN-SUFFIX,memealerts.com
 DOMAIN-SUFFIX,oneme.ru
 DOMAIN-SUFFIX,tamtam.chat
+DOMAIN-SUFFIX,youla.io
+DOMAIN-SUFFIX,youla.ru
+DOMAIN,youla-web-static.mrgcdn.ru
 DOMAIN-SUFFIX,aboutfacebook.com
 DOMAIN-SUFFIX,accessfacebookfromschool.com
 DOMAIN-SUFFIX,acebooik.com
@@ -22181,10 +22190,6 @@ DOMAIN-SUFFIX,mdn.mozit.cloud
 DOMAIN-SUFFIX,mdnplay.dev
 DOMAIN-SUFFIX,mdnyalp.dev
 DOMAIN,mdn.mozillademos.org
-DOMAIN-SUFFIX,rust-lang.org
-DOMAIN-SUFFIX,rustup.rs
-DOMAIN-SUFFIX,crates.io
-DOMAIN-SUFFIX,docs.rs
 DOMAIN-SUFFIX,mozgcp.net
 DOMAIN-SUFFIX,mozilla.com
 DOMAIN-SUFFIX,mozilla.community
@@ -22195,8 +22200,6 @@ DOMAIN-SUFFIX,bugzilla.org
 DOMAIN-SUFFIX,getpocket.com
 DOMAIN-SUFFIX,seamonkey-project.org
 DOMAIN-SUFFIX,thunderbird.net
-DOMAIN-SUFFIX,location.services.mozilla.com
-DOMAIN-SUFFIX,push.services.mozilla.com
 DOMAIN-SUFFIX,msi.cn
 DOMAIN-SUFFIX,msi.com
 DOMAIN-SUFFIX,musixmatch.com
