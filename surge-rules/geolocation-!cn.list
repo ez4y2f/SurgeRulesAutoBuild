@@ -2196,6 +2196,7 @@ DOMAIN-SUFFIX,visaplus.com
 DOMAIN-SUFFIX,visasavingsedge.ca
 DOMAIN-SUFFIX,visasignature.co.kr
 DOMAIN-SUFFIX,visb.org
+DOMAIN-SUFFIX,app-pay.jp
 DOMAIN-SUFFIX,include:category-cdn-!cn
 DOMAIN-SUFFIX,awempire.com
 DOMAIN-SUFFIX,dditsadn.com
@@ -22504,10 +22505,12 @@ DOMAIN-SUFFIX,samsungeshop.com.cn
 DOMAIN-SUFFIX,samsunggalaxyfriends.com
 DOMAIN-SUFFIX,samsunghealth.com
 DOMAIN-SUFFIX,samsungiotcloud.com
+DOMAIN-SUFFIX,samsungiots.com
 DOMAIN-SUFFIX,samsungknox.com
 DOMAIN-SUFFIX,samsungosp.com
 DOMAIN-SUFFIX,samsungqbe.com
 DOMAIN-SUFFIX,samsungrs.com
+DOMAIN-SUFFIX,smartthings.com
 DOMAIN-SUFFIX,skyperfectjsat.space
 DOMAIN-SUFFIX,sptvbroadcast.com
 DOMAIN-SUFFIX,spcc-sp.com
