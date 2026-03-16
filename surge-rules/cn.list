@@ -891,8 +891,10 @@ DOMAIN-SUFFIX,aisee.tv
 DOMAIN-SUFFIX,anitabi.cn
 DOMAIN-SUFFIX,baofeng.com
 DOMAIN-SUFFIX,baofeng.net
+DOMAIN-SUFFIX,bemanicn.com
 DOMAIN-SUFFIX,bgwxc.com
 DOMAIN-SUFFIX,bsbsb.top
+DOMAIN-SUFFIX,cdkeynogap.com
 DOMAIN-SUFFIX,dmzj.com
 DOMAIN-SUFFIX,muwai.com
 DOMAIN-SUFFIX,dongdianqiu.com
@@ -2350,12 +2352,12 @@ DOMAIN-SUFFIX,fenbike.cn
 DOMAIN-SUFFIX,fenbike.com
 DOMAIN-SUFFIX,fenbilantian.cn
 DOMAIN-SUFFIX,fenbilantian.com
+DOMAIN-SUFFIX,edu.cn
 DOMAIN-SUFFIX,rainclassroom.com
 DOMAIN-SUFFIX,yuketang.cn
 DOMAIN-SUFFIX,yudou.cn
 DOMAIN-SUFFIX,yushiyan.net
 DOMAIN-SUFFIX,xuetangx.com
-DOMAIN-SUFFIX,edu.cn
 DOMAIN-SUFFIX,cbern.com.cn
 DOMAIN-SUFFIX,smartedu.cn
 DOMAIN-SUFFIX,cedf.cn
@@ -2432,6 +2434,7 @@ DOMAIN-SUFFIX,neoschool.com
 DOMAIN-SUFFIX,oldboyedu.com
 DOMAIN-SUFFIX,pigai.org
 DOMAIN-SUFFIX,saduck.top
+DOMAIN-SUFFIX,unipus.cn
 DOMAIN-SUFFIX,weilaiyunxiao.com
 DOMAIN-SUFFIX,winyoungreading.com
 DOMAIN-SUFFIX,x-cloud.cc
@@ -2577,6 +2580,8 @@ DOMAIN-SUFFIX,guoxuedashi.com
 DOMAIN-SUFFIX,guoxuemi.com
 DOMAIN-SUFFIX,zyh365.com
 DOMAIN-SUFFIX,wzlib.cn
+DOMAIN-SUFFIX,zgbk.com
+DOMAIN-SUFFIX,zjlib.cn
 DOMAIN-SUFFIX,askdiandian.com
 DOMAIN-SUFFIX,diandianlife.top
 DOMAIN-SUFFIX,deepseek.com
@@ -3114,6 +3119,7 @@ DOMAIN-SUFFIX,shifen.com
 DOMAIN-SUFFIX,smartapps.cn
 DOMAIN-SUFFIX,tieba.com
 DOMAIN-SUFFIX,tiebaimg.com
+DOMAIN-SUFFIX,xdrtc.com
 DOMAIN-SUFFIX,xianfae.com
 DOMAIN-SUFFIX,xiaodutv.com
 DOMAIN-SUFFIX,yoojia.com
