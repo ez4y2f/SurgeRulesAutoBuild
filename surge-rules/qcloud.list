@@ -266,13 +266,6 @@ DOMAIN-SUFFIX,tdnsv12.net
 DOMAIN-SUFFIX,tdnsv13.net
 DOMAIN-SUFFIX,tdnsv14.net
 DOMAIN-SUFFIX,tdnsv15.net
-URL-REGEX,^https?://\.(.+-)?ap-beijing(-.+)?\.myqcloud\.com(?::\d+)?(?:/|$)
-URL-REGEX,^https?://\.(.+-)?ap-nanjing(-.+)?\.myqcloud\.com(?::\d+)?(?:/|$)
-URL-REGEX,^https?://\.(.+-)?ap-shanghai(-.+)?\.myqcloud\.com(?::\d+)?(?:/|$)
-URL-REGEX,^https?://\.(.+-)?ap-guangzhou(-.+)?\.myqcloud\.com(?::\d+)?(?:/|$)
-URL-REGEX,^https?://\.(.+-)?ap-chengdu(-.+)?\.myqcloud\.com(?::\d+)?(?:/|$)
-URL-REGEX,^https?://\.(.+-)?ap-chongqing(-.+)?\.myqcloud\.com(?::\d+)?(?:/|$)
-URL-REGEX,^https?://\.(.+-)?ap-shenzhen(-.+)?\.myqcloud\.com(?::\d+)?(?:/|$)
 DOMAIN-SUFFIX,ap-hongkong.myqcloud.com
 DOMAIN-SUFFIX,ap-singapore.myqcloud.com
 DOMAIN-SUFFIX,ap-mumbai.myqcloud.com
@@ -286,13 +279,6 @@ DOMAIN-SUFFIX,na-toronto.myqcloud.com
 DOMAIN-SUFFIX,sa-saopaulo.myqcloud.com
 DOMAIN-SUFFIX,eu-frankfurt.myqcloud.com
 DOMAIN-SUFFIX,eu-moscow.myqcloud.com
-URL-REGEX,^https?://\.(.+-)?ap-beijing(-.+)?\.tencentcos\.(cn|com(\.cn)?)(?::\d+)?(?:/|$)
-URL-REGEX,^https?://\.(.+-)?ap-nanjing(-.+)?\.tencentcos\.(cn|com(\.cn)?)(?::\d+)?(?:/|$)
-URL-REGEX,^https?://\.(.+-)?ap-shanghai(-.+)?\.tencentcos\.(cn|com(\.cn)?)(?::\d+)?(?:/|$)
-URL-REGEX,^https?://\.(.+-)?ap-guangzhou(-.+)?\.tencentcos\.(cn|com(\.cn)?)(?::\d+)?(?:/|$)
-URL-REGEX,^https?://\.(.+-)?ap-chengdu(-.+)?\.tencentcos\.(cn|com(\.cn)?)(?::\d+)?(?:/|$)
-URL-REGEX,^https?://\.(.+-)?ap-chongqing(-.+)?\.tencentcos\.(cn|com(\.cn)?)(?::\d+)?(?:/|$)
-URL-REGEX,^https?://\.(.+-)?ap-shenzhen(-.+)?\.tencentcos\.(cn|com(\.cn)?)(?::\d+)?(?:/|$)
 DOMAIN-SUFFIX,ap-hongkong.tencentcos.cn
 DOMAIN-SUFFIX,ap-hongkong.tencentcos.com
 DOMAIN-SUFFIX,ap-hongkong.tencentcos.com.cn
