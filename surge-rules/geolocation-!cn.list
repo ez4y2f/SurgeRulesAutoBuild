@@ -97,6 +97,8 @@ DOMAIN-SUFFIX,xtls.github.io
 DOMAIN-SUFFIX,trojan-gfw.github.io
 DOMAIN-SUFFIX,zeronet.io
 DOMAIN-SUFFIX,metacubex.one
+DOMAIN-SUFFIX,equinox.io
+DOMAIN-SUFFIX,ngrok-agent.com
 DOMAIN-SUFFIX,ngrok-free.app
 DOMAIN-SUFFIX,ngrok-free.dev
 DOMAIN-SUFFIX,ngrok-free.pizza
@@ -20894,6 +20896,8 @@ DOMAIN-SUFFIX,max.ru
 DOMAIN-SUFFIX,memealerts.com
 DOMAIN-SUFFIX,oneme.ru
 DOMAIN-SUFFIX,tamtam.chat
+DOMAIN-SUFFIX,telega.info
+DOMAIN-SUFFIX,telega.me
 DOMAIN-SUFFIX,youla.io
 DOMAIN-SUFFIX,youla.ru
 DOMAIN,youla-web-static.mrgcdn.ru
