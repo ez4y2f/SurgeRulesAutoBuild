@@ -494,6 +494,7 @@ DOMAIN-SUFFIX,kktv.me
 DOMAIN-SUFFIX,theater-kktv.cdn.hinet.net
 DOMAIN-SUFFIX,last.fm
 DOMAIN,lastfm.freetls.fastly.net
+DOMAIN,ws.audioscrobbler.com
 DOMAIN-SUFFIX,litv.tv
 DOMAIN-SUFFIX,litvfreepc.akamaized.net
 DOMAIN,ntdfreemobile-tgc.cdn.hinet.net
