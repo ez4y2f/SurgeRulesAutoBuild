@@ -36,6 +36,7 @@ DOMAIN-SUFFIX,include:pikpak
 DOMAIN-SUFFIX,include:pixiv
 DOMAIN-SUFFIX,include:qihoo360
 DOMAIN-SUFFIX,include:samsung
+DOMAIN-SUFFIX,include:sber
 DOMAIN-SUFFIX,include:sina
 DOMAIN-SUFFIX,include:snap
 DOMAIN-SUFFIX,include:sohu
@@ -50,6 +51,7 @@ DOMAIN-SUFFIX,include:xhamster
 DOMAIN-SUFFIX,include:xiaomi
 DOMAIN-SUFFIX,include:ximalaya
 DOMAIN-SUFFIX,include:yahoo
+DOMAIN-SUFFIX,include:yandex
 DOMAIN-SUFFIX,include:zhihu
 DOMAIN-SUFFIX,51.la
 DOMAIN-SUFFIX,51y5.net
