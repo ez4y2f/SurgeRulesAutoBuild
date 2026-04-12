@@ -1,6 +1,7 @@
 DOMAIN-SUFFIX,sbermarketing.ru
-DOMAIN,clickstream.sberbank.ru
-DOMAIN,error-tracking.megamarket.tech
-DOMAIN,sentry.sberauto.com
-DOMAIN,tracing-http.megamarket.tech
-DOMAIN,visor.sberbank.ru
+DOMAIN-SUFFIX,ads.neon.click
+DOMAIN-SUFFIX,clickstream.sberbank.ru
+DOMAIN-SUFFIX,error-tracking.megamarket.tech
+DOMAIN-SUFFIX,sentry.sberauto.com
+DOMAIN-SUFFIX,tracing-http.megamarket.tech
+DOMAIN-SUFFIX,visor.sberbank.ru

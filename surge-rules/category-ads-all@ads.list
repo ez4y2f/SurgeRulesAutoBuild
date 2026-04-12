@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,include:amazon
 DOMAIN-SUFFIX,include:apple
 DOMAIN-SUFFIX,include:baidu
 DOMAIN-SUFFIX,include:bytedance
+DOMAIN-SUFFIX,include:carrotquest
 DOMAIN-SUFFIX,include:cctv
 DOMAIN-SUFFIX,include:disney
 DOMAIN-SUFFIX,include:dmm
@@ -21,9 +22,11 @@ DOMAIN-SUFFIX,include:le
 DOMAIN-SUFFIX,include:meta
 DOMAIN-SUFFIX,include:microsoft
 DOMAIN-SUFFIX,include:mihoyo
+DOMAIN-SUFFIX,include:mindbox
 DOMAIN-SUFFIX,include:netease
 DOMAIN-SUFFIX,include:ookla-speedtest
 DOMAIN-SUFFIX,include:openai
+DOMAIN-SUFFIX,include:ozon
 DOMAIN-SUFFIX,include:picacg
 DOMAIN-SUFFIX,include:pikpak
 DOMAIN-SUFFIX,include:pixiv
@@ -40,6 +43,8 @@ DOMAIN-SUFFIX,include:tendcloud
 DOMAIN-SUFFIX,include:twitter
 DOMAIN-SUFFIX,include:unity
 DOMAIN-SUFFIX,include:unitychina
+DOMAIN-SUFFIX,include:wildberries
+DOMAIN-SUFFIX,include:x5
 DOMAIN-SUFFIX,include:xhamster
 DOMAIN-SUFFIX,include:xiaomi
 DOMAIN-SUFFIX,include:ximalaya

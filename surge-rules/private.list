@@ -127,3 +127,5 @@ DOMAIN,miwifi.com
 DOMAIN,www.miwifi.com
 DOMAIN-SUFFIX,zte.home
 DOMAIN-SUFFIX,ts.net
+DOMAIN,local.adguard.org
+DOMAIN-SUFFIX,kis.v2.scr.kaspersky-labs.com
