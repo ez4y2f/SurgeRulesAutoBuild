@@ -30,5 +30,7 @@ DOMAIN-SUFFIX,advert-api-sandbox.wildberries.ru
 DOMAIN-SUFFIX,advert-media-api.wildberries.ru
 DOMAIN-SUFFIX,analytics-stage.wildberries.ru
 DOMAIN-SUFFIX,analytics.wildberries.ru
+DOMAIN-SUFFIX,marketing-info.wildberries.ru
+DOMAIN-SUFFIX,marketplace-sentry.wb.ru
 DOMAIN-SUFFIX,sentry.wb.ru
 DOMAIN-SUFFIX,web-analytics.wildberries.ru

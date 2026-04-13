@@ -1,3 +1,4 @@
+DOMAIN-SUFFIX,12365auto.com
 DOMAIN-SUFFIX,autohome.com
 DOMAIN-SUFFIX,autohome.com.cn
 DOMAIN-SUFFIX,autohome.tel
@@ -1288,6 +1289,8 @@ DOMAIN-SUFFIX,cztv.com
 DOMAIN-SUFFIX,cztvcdn.com
 DOMAIN-SUFFIX,cztvcloud.com
 DOMAIN-SUFFIX,zjstv.com
+DOMAIN-SUFFIX,daheapp.com
+DOMAIN-SUFFIX,dahebao.cn
 DOMAIN-SUFFIX,dutenews.com
 DOMAIN-SUFFIX,dzh.com.cn
 DOMAIN-SUFFIX,gw.com.cn
@@ -2252,11 +2255,14 @@ DOMAIN-SUFFIX,haodf.com
 DOMAIN-SUFFIX,hdfimg.com
 DOMAIN-SUFFIX,jsehealth.com
 DOMAIN-SUFFIX,mingxuan.store
+DOMAIN-SUFFIX,12315.cn
+DOMAIN-SUFFIX,12321.cn
 DOMAIN-SUFFIX,gov.cn
 DOMAIN-SUFFIX,cma.cn
 DOMAIN-SUFFIX,conac.cn
 DOMAIN-SUFFIX,nmc.cn
 DOMAIN-SUFFIX,piyao.org.cn
+DOMAIN-SUFFIX,zgbznet.com.cn
 DOMAIN-SUFFIX,airchina.com.cn
 DOMAIN-SUFFIX,airchinacargo.com
 DOMAIN-SUFFIX,hainanairlines.com
@@ -2634,7 +2640,9 @@ DOMAIN-SUFFIX,xinghuo.xfyun.cn
 DOMAIN-SUFFIX,hailuoai.com
 DOMAIN-SUFFIX,minimaxi.com
 DOMAIN-SUFFIX,xingyeai.com
+DOMAIN-SUFFIX,codebuddy.cn
 DOMAIN-SUFFIX,hunyuan.tencent.com
+DOMAIN-SUFFIX,yuanqi.tencent.com
 DOMAIN-SUFFIX,baichuan-ai.com
 DOMAIN-SUFFIX,botvip.cn
 DOMAIN-SUFFIX,liblib.art
@@ -2651,6 +2659,8 @@ DOMAIN-SUFFIX,xiezuocat.com
 DOMAIN-SUFFIX,aispeech.com
 DOMAIN-SUFFIX,dui.ai
 DOMAIN-SUFFIX,duiopen.com
+DOMAIN-SUFFIX,clawhub-mirror.com
+DOMAIN-SUFFIX,skillhub.cn
 DOMAIN-SUFFIX,asklink.com
 DOMAIN-SUFFIX,easytier.cn
 DOMAIN-SUFFIX,feihengip.com
@@ -4165,6 +4175,7 @@ DOMAIN-SUFFIX,kq7.com
 DOMAIN-SUFFIX,ksord.com
 DOMAIN-SUFFIX,kuaaa.com
 DOMAIN-SUFFIX,kuaihou.com
+DOMAIN-SUFFIX,kuaiji.com
 DOMAIN-SUFFIX,kuaizhan.com
 DOMAIN-SUFFIX,kuqin.com
 DOMAIN-SUFFIX,kuyiso.com

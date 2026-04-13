@@ -1,7 +1,9 @@
+DOMAIN-SUFFIX,neon.click
 DOMAIN-SUFFIX,sbermarketing.ru
-DOMAIN-SUFFIX,ads.neon.click
+DOMAIN-SUFFIX,ads.sber.ru
 DOMAIN-SUFFIX,clickstream.sberbank.ru
 DOMAIN-SUFFIX,error-tracking.megamarket.tech
+DOMAIN-SUFFIX,metrics.21-school.ru
 DOMAIN-SUFFIX,sentry.sberauto.com
 DOMAIN-SUFFIX,tracing-http.megamarket.tech
 DOMAIN-SUFFIX,visor.sberbank.ru
@@ -42,6 +44,8 @@ DOMAIN-SUFFIX,advert-api-sandbox.wildberries.ru
 DOMAIN-SUFFIX,advert-media-api.wildberries.ru
 DOMAIN-SUFFIX,analytics-stage.wildberries.ru
 DOMAIN-SUFFIX,analytics.wildberries.ru
+DOMAIN-SUFFIX,marketing-info.wildberries.ru
+DOMAIN-SUFFIX,marketplace-sentry.wb.ru
 DOMAIN-SUFFIX,sentry.wb.ru
 DOMAIN-SUFFIX,web-analytics.wildberries.ru
 DOMAIN-SUFFIX,ad.games.dmm.com
@@ -168,8 +172,9 @@ DOMAIN-SUFFIX,api-ru.mindbox.cloud
 DOMAIN-SUFFIX,api-staging.mindbox.ru
 DOMAIN-SUFFIX,api.mindbox.cloud
 DOMAIN-SUFFIX,api.mindbox.ru
-DOMAIN-SUFFIX,api.e.mindbox.ru
-DOMAIN-SUFFIX,api.s.mindbox.ru
+DOMAIN-SUFFIX,e.mindbox.ru
+DOMAIN-SUFFIX,g.mindbox.ru
+DOMAIN-SUFFIX,s.mindbox.ru
 DOMAIN-SUFFIX,sentry.mindbox.ru
 DOMAIN-SUFFIX,sentry.popmechanic.ru
 DOMAIN-SUFFIX,samsungads.com
