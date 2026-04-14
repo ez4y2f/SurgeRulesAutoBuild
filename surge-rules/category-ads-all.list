@@ -27,6 +27,7 @@ DOMAIN-SUFFIX,include:jd
 DOMAIN-SUFFIX,include:kuaishou
 DOMAIN-SUFFIX,include:kugou
 DOMAIN-SUFFIX,include:le
+DOMAIN-SUFFIX,include:mailru-group
 DOMAIN-SUFFIX,include:meta
 DOMAIN-SUFFIX,include:microsoft
 DOMAIN-SUFFIX,include:mihoyo
