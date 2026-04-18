@@ -962,6 +962,11 @@ DOMAIN-SUFFIX,vscale.io
 DOMAIN-SUFFIX,vscale.ru
 DOMAIN-SUFFIX,sky.pro
 DOMAIN-SUFFIX,skyeng.ru
+DOMAIN-SUFFIX,tilda.cc
+DOMAIN-SUFFIX,tilda.ru
+DOMAIN-SUFFIX,tilda.ws
+DOMAIN-SUFFIX,tildaapi.com
+DOMAIN-SUFFIX,tildacdn.com
 DOMAIN-SUFFIX,timeweb.cloud
 DOMAIN-SUFFIX,timeweb.com
 DOMAIN-SUFFIX,twcstorage.ru
@@ -1390,7 +1395,6 @@ DOMAIN-SUFFIX,gismeteo.net
 DOMAIN-SUFFIX,gismeteo.st
 DOMAIN-SUFFIX,group-ib.com
 DOMAIN-SUFFIX,kinescopecdn.net
-DOMAIN-SUFFIX,kontur.host
 DOMAIN-SUFFIX,ognihome.com
 DOMAIN-SUFFIX,saas-support.com
 DOMAIN-SUFFIX,targetads.io
