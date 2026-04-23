@@ -2620,8 +2620,12 @@ DOMAIN-SUFFIX,yoma.cn
 DOMAIN-SUFFIX,miaibox.com
 DOMAIN-SUFFIX,xiaoaiassist.com
 DOMAIN-SUFFIX,xiaomimimo.com
+DOMAIN-SUFFIX,liblib.art
+DOMAIN-SUFFIX,liblib.cloud
+DOMAIN-SUFFIX,liblib.tv
 DOMAIN-SUFFIX,rwkv.cn
 DOMAIN-SUFFIX,rwkv.com
+DOMAIN-SUFFIX,tapnow.top
 DOMAIN-SUFFIX,qianwen.aliyun.com
 DOMAIN-SUFFIX,qianwen.com
 DOMAIN-SUFFIX,qwen.ai
@@ -2646,8 +2650,6 @@ DOMAIN-SUFFIX,codebuddy.cn
 DOMAIN-SUFFIX,hunyuan.tencent.com
 DOMAIN-SUFFIX,yuanqi.tencent.com
 DOMAIN-SUFFIX,baichuan-ai.com
-DOMAIN-SUFFIX,botvip.cn
-DOMAIN-SUFFIX,liblib.art
 DOMAIN-SUFFIX,cueme.cn
 DOMAIN,cueme-api.quark.cn
 DOMAIN-SUFFIX,n.cn
