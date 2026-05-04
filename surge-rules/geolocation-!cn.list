@@ -3119,6 +3119,7 @@ DOMAIN-SUFFIX,okx-dns1.com
 DOMAIN-SUFFIX,okx-dns2.com
 DOMAIN-SUFFIX,okx.cab
 DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,oklink.com
 DOMAIN-SUFFIX,onekey-asset.com
 DOMAIN-SUFFIX,onekey.so
@@ -14721,6 +14722,7 @@ DOMAIN-SUFFIX,contentful.com
 DOMAIN-SUFFIX,ctfassets.net
 DOMAIN-SUFFIX,cutt.ly
 DOMAIN-SUFFIX,digitalocean.com
+DOMAIN-SUFFIX,digitalocean-ui.com
 DOMAIN-SUFFIX,digitaloceanspaces.com
 DOMAIN-SUFFIX,do.co
 DOMAIN-SUFFIX,nginxconfig.io
@@ -19287,6 +19289,7 @@ DOMAIN,supportassist.dell.com
 DOMAIN,www-csb.dell.com
 DOMAIN,www.dell.com
 DOMAIN-SUFFIX,digitalocean.com
+DOMAIN-SUFFIX,digitalocean-ui.com
 DOMAIN-SUFFIX,digitaloceanspaces.com
 DOMAIN-SUFFIX,do.co
 DOMAIN-SUFFIX,nginxconfig.io
