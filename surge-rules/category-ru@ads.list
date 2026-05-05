@@ -176,9 +176,9 @@ DOMAIN,metrics.21-school.ru
 DOMAIN,sentry.sberauto.com
 DOMAIN,tracing-http.megamarket.tech
 DOMAIN,visor.sberbank.ru
+DOMAIN-SUFFIX,a.mts.ru
+DOMAIN-SUFFIX,obs.mts.ru
+DOMAIN,sentry.iptv.rt.ru
 DOMAIN-SUFFIX,roistat.com
-DOMAIN-SUFFIX,envybox.io
 DOMAIN-SUFFIX,flocktory.com
-DOMAIN-SUFFIX,saas-support.com
 DOMAIN-SUFFIX,targetads.io
-DOMAIN-SUFFIX,whitesaas.com

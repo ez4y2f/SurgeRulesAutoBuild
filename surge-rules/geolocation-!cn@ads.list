@@ -245,6 +245,9 @@ DOMAIN,api.mindbox.cloud
 DOMAIN,api.mindbox.ru
 DOMAIN,sentry.mindbox.ru
 DOMAIN,sentry.popmechanic.ru
+DOMAIN-SUFFIX,a.mts.ru
+DOMAIN-SUFFIX,obs.mts.ru
+DOMAIN,sentry.iptv.rt.ru
 DOMAIN-SUFFIX,samsungads.com
 DOMAIN-SUFFIX,snapads.com
 DOMAIN-SUFFIX,ads.yahoo.com
