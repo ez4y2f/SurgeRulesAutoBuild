@@ -493,6 +493,8 @@ DOMAIN-SUFFIX,7k7k.com
 DOMAIN-SUFFIX,9xgame.com
 DOMAIN-SUFFIX,arcaea.cn
 DOMAIN-SUFFIX,astral-vector.com
+DOMAIN,end-api.shallow.ink
+DOMAIN,end.shallow.ink
 DOMAIN-SUFFIX,feihuo.com
 DOMAIN-SUFFIX,forevernine.com
 DOMAIN-SUFFIX,fxt365.com
@@ -2222,6 +2224,7 @@ DOMAIN-SUFFIX,dmall.com
 DOMAIN-SUFFIX,dmallcdn.com
 DOMAIN-SUFFIX,geilicdn.com
 DOMAIN-SUFFIX,weidian.com
+DOMAIN-SUFFIX,huotan.net
 DOMAIN-SUFFIX,jmstatic.com
 DOMAIN-SUFFIX,jumei.com
 DOMAIN-SUFFIX,kongfz.com
@@ -4761,12 +4764,9 @@ DOMAIN-SUFFIX,zuowen8.com
 DOMAIN-SUFFIX,zuowenwang.net
 DOMAIN-SUFFIX,zysou.com
 DOMAIN-SUFFIX,zztfly.com
-DOMAIN-SUFFIX,fm3838.com
-DOMAIN-SUFFIX,larsonlimited.com
+DOMAIN-SUFFIX,azz.net
 DOMAIN-SUFFIX,runsheng.com
 DOMAIN-SUFFIX,vzuu.com
-DOMAIN-SUFFIX,zoom3g.com
-DOMAIN-SUFFIX,zoomyou.cn
 DOMAIN-SUFFIX,kujiale.com
 DOMAIN-SUFFIX,jsw118.com
 DOMAIN-SUFFIX,sxcxldjy.com
