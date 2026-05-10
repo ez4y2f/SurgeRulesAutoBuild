@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,include:apple
 DOMAIN-SUFFIX,include:baidu
 DOMAIN-SUFFIX,include:bytedance
 DOMAIN-SUFFIX,include:carrotquest
+DOMAIN-SUFFIX,include:category-food-cn
 DOMAIN-SUFFIX,include:cctv
 DOMAIN-SUFFIX,include:disney
 DOMAIN-SUFFIX,include:dmm

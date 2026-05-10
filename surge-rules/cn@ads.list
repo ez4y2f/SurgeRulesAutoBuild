@@ -70,6 +70,10 @@ DOMAIN-SUFFIX,statis.api.3g.youku.com
 DOMAIN-SUFFIX,v6-adashx.ut.youku.com
 DOMAIN-SUFFIX,yk-ssp.ad.youku.com
 DOMAIN-SUFFIX,ykad-data.youku.com
+DOMAIN-SUFFIX,logger.qmai.cn
+DOMAIN-SUFFIX,tracking.mcdonalds.com.cn
+DOMAIN-SUFFIX,trackingprd.hwwt8.com
+DOMAIN-SUFFIX,trackserver.shuxinyc.com
 DOMAIN-SUFFIX,v6-adashx.ut.cainiao.com
 DOMAIN-SUFFIX,ad.cctv.com
 DOMAIN-SUFFIX,inte.sogou.com

@@ -1,4 +1,5 @@
 URL-REGEX,^https?://.+-mihayo\.akamaized\.net(?::\d+)?(?:/|$)
+DOMAIN-SUFFIX,include:mcdonalds
 DOMAIN-SUFFIX,cf-china.info
 DOMAIN-SUFFIX,cf-ns.com
 DOMAIN-SUFFIX,cf-ns.net
