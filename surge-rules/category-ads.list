@@ -36,6 +36,7 @@ DOMAIN-SUFFIX,include:mihoyo
 DOMAIN-SUFFIX,include:mindbox
 DOMAIN-SUFFIX,include:mts-ru
 DOMAIN-SUFFIX,include:netease
+DOMAIN-SUFFIX,include:nicegram
 DOMAIN-SUFFIX,include:ookla-speedtest
 DOMAIN-SUFFIX,include:openai
 DOMAIN-SUFFIX,include:ozon
