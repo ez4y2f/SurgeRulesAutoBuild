@@ -23333,6 +23333,10 @@ DOMAIN-SUFFIX,mozillafoundation.org
 DOMAIN-SUFFIX,mzl.la
 DOMAIN-SUFFIX,seamonkey-project.org
 DOMAIN-SUFFIX,thunderbird.net
+DOMAIN,ads-img.mozilla.org
+DOMAIN,ads.mozilla.org
+DOMAIN,incoming.telemetry.mozilla.org
+DOMAIN,incoming-telemetry.thunderbird.net
 DOMAIN-SUFFIX,msi.cn
 DOMAIN-SUFFIX,msi.com
 DOMAIN-SUFFIX,mts-ws.net

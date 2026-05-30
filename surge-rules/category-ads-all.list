@@ -34,6 +34,7 @@ DOMAIN-SUFFIX,include:meta
 DOMAIN-SUFFIX,include:microsoft
 DOMAIN-SUFFIX,include:mihoyo
 DOMAIN-SUFFIX,include:mindbox
+DOMAIN-SUFFIX,include:mozilla
 DOMAIN-SUFFIX,include:mts-ru
 DOMAIN-SUFFIX,include:netease
 DOMAIN-SUFFIX,include:nicegram
