@@ -8057,9 +8057,13 @@ DOMAIN-SUFFIX,xhamster.xxx
 DOMAIN-SUFFIX,xhamster18.com
 DOMAIN-SUFFIX,xhamster18.desi
 DOMAIN-SUFFIX,xhamster19.com
+DOMAIN-SUFFIX,xhamster2.com
 DOMAIN-SUFFIX,xhamster3.com
 DOMAIN-SUFFIX,xhamsterlive.com
 DOMAIN-SUFFIX,xhcdn.com
+DOMAIN-SUFFIX,xhnews.live
+DOMAIN-SUFFIX,xhpingcdn.com
+DOMAIN-SUFFIX,xhreal5.com
 DOMAIN,widgets.stripst.com
 DOMAIN-SUFFIX,collector.xhamster.com
 DOMAIN-SUFFIX,avstar01.me
@@ -14801,6 +14805,7 @@ DOMAIN-SUFFIX,digitaloceanspaces.com
 DOMAIN-SUFFIX,do.co
 DOMAIN-SUFFIX,nginxconfig.io
 DOMAIN-SUFFIX,ondigitalocean.com
+DOMAIN-SUFFIX,disq.us
 DOMAIN-SUFFIX,disqus.com
 DOMAIN-SUFFIX,disquscdn.com
 DOMAIN-SUFFIX,disqusservice.com
@@ -23311,6 +23316,7 @@ DOMAIN-SUFFIX,motorolanews.com
 DOMAIN-SUFFIX,motorolasolutions.com
 DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,firefoxusercontent.com
+DOMAIN,mozilla-ohttp.fastly-edge.com
 DOMAIN-SUFFIX,developer.allizom.org
 DOMAIN-SUFFIX,developer.mozilla.org
 DOMAIN-SUFFIX,mdn.allizom.net
