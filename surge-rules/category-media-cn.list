@@ -46,9 +46,13 @@ DOMAIN-SUFFIX,zygbdszt.net.cn
 DOMAIN-SUFFIX,ad.cctv.com
 DOMAIN-SUFFIX,chinanews.com
 DOMAIN-SUFFIX,chinanews.com.cn
+DOMAIN-SUFFIX,chinaqw.com
 DOMAIN-SUFFIX,cns.com.cn
+DOMAIN-SUFFIX,cnsimg.net
 DOMAIN-SUFFIX,ecns.cn
 DOMAIN-SUFFIX,inewsweek.cn
+DOMAIN-SUFFIX,jwview.com
+DOMAIN-SUFFIX,xinmeng.info
 DOMAIN-SUFFIX,coolbuy.com
 DOMAIN-SUFFIX,ifanr.cn
 DOMAIN-SUFFIX,ifanr.com
@@ -270,6 +274,7 @@ DOMAIN-SUFFIX,nanyuenews.com
 DOMAIN-SUFFIX,nbd.com.cn
 DOMAIN-SUFFIX,neweekly.com.cn
 DOMAIN-SUFFIX,news.cn
+DOMAIN-SUFFIX,newsimg.cn
 DOMAIN-SUFFIX,xinhuanet.com
 DOMAIN-SUFFIX,xinhuaxmt.com
 DOMAIN-SUFFIX,ofweek.com
