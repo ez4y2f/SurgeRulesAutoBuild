@@ -566,7 +566,6 @@ DOMAIN-SUFFIX,soku.com
 DOMAIN-SUFFIX,tudou.com
 DOMAIN-SUFFIX,ykimg.com
 DOMAIN-SUFFIX,youku.com
-DOMAIN-SUFFIX,zimgs.cn
 DOMAIN-SUFFIX,ad.api.3g.youku.com
 DOMAIN-SUFFIX,ad.api.mobile.youku.com
 DOMAIN-SUFFIX,ad.mobile.youku.com
@@ -678,6 +677,7 @@ DOMAIN-SUFFIX,sfacg.com
 DOMAIN-SUFFIX,shuhai.com
 DOMAIN-SUFFIX,tadu.com
 DOMAIN-SUFFIX,vsread.com
+DOMAIN-SUFFIX,xinlishumeng.com
 DOMAIN-SUFFIX,xyys.com
 DOMAIN-SUFFIX,yamibo.com
 DOMAIN-SUFFIX,yiyouliao.com
