@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,include:adobe
 DOMAIN-SUFFIX,include:alibaba
 DOMAIN-SUFFIX,include:amazon
 DOMAIN-SUFFIX,include:apple
+DOMAIN-SUFFIX,include:avito
 DOMAIN-SUFFIX,include:baidu
 DOMAIN-SUFFIX,include:bytedance
 DOMAIN-SUFFIX,include:carrotquest
@@ -134,6 +135,7 @@ DOMAIN-SUFFIX,click.ali213.net
 DOMAIN-SUFFIX,pbmp.ali213.net
 DOMAIN-SUFFIX,applovin.com
 DOMAIN-SUFFIX,applvn.com
+DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN,pinggai0.caixin.com
 DOMAIN,pinggai1.caixin.com
 DOMAIN,pinggai2.caixin.com
@@ -164,6 +166,7 @@ DOMAIN-SUFFIX,g1.tagtic.cn
 DOMAIN-SUFFIX,xy-log.tagtic.cn
 DOMAIN-SUFFIX,ad.unimhk.com
 DOMAIN-SUFFIX,das-rpt-log.ucloud.cn
+DOMAIN,logs.ads.vungle.com
 DOMAIN-SUFFIX,telecome.cn
 DOMAIN-SUFFIX,unioncom.cc
 DOMAIN-SUFFIX,yfanads.cn

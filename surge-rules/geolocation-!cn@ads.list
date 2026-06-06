@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,ysm.yahoo.com
 DOMAIN-SUFFIX,adsgram.ai
 DOMAIN-SUFFIX,graph.whatsapp.com
 DOMAIN-SUFFIX,graph.whatsapp.net
+DOMAIN,stats.avito.ru
 DOMAIN,ad.ozone.ru
 DOMAIN,adv.ozon.ru
 DOMAIN,agency-adv.ozon.ru
@@ -299,6 +300,7 @@ DOMAIN,clck.yandex.com
 DOMAIN,clck.yandex.net
 DOMAIN,clck.yango.com
 DOMAIN,informer.yandex.ru
+DOMAIN,log.strm.yandex.ru
 DOMAIN,mc.yandex.com
 DOMAIN,mc.yandex.net
 DOMAIN,mc.yango.com

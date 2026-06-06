@@ -3,6 +3,7 @@ DOMAIN-SUFFIX,include:adobe
 DOMAIN-SUFFIX,include:alibaba
 DOMAIN-SUFFIX,include:amazon
 DOMAIN-SUFFIX,include:apple
+DOMAIN-SUFFIX,include:avito
 DOMAIN-SUFFIX,include:baidu
 DOMAIN-SUFFIX,include:bytedance
 DOMAIN-SUFFIX,include:carrotquest

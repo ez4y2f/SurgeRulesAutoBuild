@@ -3294,6 +3294,7 @@ DOMAIN-SUFFIX,wintermute.com
 DOMAIN-SUFFIX,zapper.fi
 DOMAIN-SUFFIX,avito.ru
 DOMAIN-SUFFIX,avito.st
+DOMAIN,stats.avito.ru
 DOMAIN-SUFFIX,ewisdom.us.kg
 DOMAIN-SUFFIX,o3.ru
 DOMAIN-SUFFIX,o3t.ru
@@ -5896,6 +5897,7 @@ DOMAIN-SUFFIX,poecdn.net
 DOMAIN-SUFFIX,qr.ae
 DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,quoracdn.net
+DOMAIN,www.quora.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,reddit.app.link
 DOMAIN-SUFFIX,reddit.com
@@ -24637,6 +24639,7 @@ DOMAIN,clck.yandex.com
 DOMAIN,clck.yandex.net
 DOMAIN,clck.yango.com
 DOMAIN,informer.yandex.ru
+DOMAIN,log.strm.yandex.ru
 DOMAIN,mc.yandex.com
 DOMAIN,mc.yandex.net
 DOMAIN,mc.yango.com
