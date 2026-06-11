@@ -6934,6 +6934,7 @@ DOMAIN-SUFFIX,atom.io
 DOMAIN-SUFFIX,dependabot.com
 DOMAIN-SUFFIX,gh.io
 DOMAIN-SUFFIX,ghcr.io
+DOMAIN-SUFFIX,ghe.com
 DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,github.ai
 DOMAIN-SUFFIX,github.blog
@@ -8481,6 +8482,18 @@ DOMAIN-SUFFIX,wisecoin.com
 DOMAIN-SUFFIX,wiseid.com
 DOMAIN-SUFFIX,wisekey.com
 DOMAIN-SUFFIX,wisekey.com.hk
+DOMAIN-SUFFIX,v.ps
+DOMAIN-SUFFIX,vps.hosting
+DOMAIN-SUFFIX,xtom.au
+DOMAIN-SUFFIX,xtom.com
+DOMAIN-SUFFIX,xtom.de
+DOMAIN-SUFFIX,xtom.ee
+DOMAIN-SUFFIX,xtom.hk
+DOMAIN-SUFFIX,xtom.jp
+DOMAIN-SUFFIX,xtom.nl
+DOMAIN-SUFFIX,xtom.sg
+DOMAIN-SUFFIX,xtom.social
+DOMAIN-SUFFIX,xtom.us
 DOMAIN-SUFFIX,flickr
 DOMAIN-SUFFIX,flic.kr
 DOMAIN-SUFFIX,flickr.com
