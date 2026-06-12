@@ -372,10 +372,12 @@ DOMAIN-SUFFIX,dartlang.org
 DOMAIN-SUFFIX,dartpad.dev
 DOMAIN-SUFFIX,fastlane.ci
 DOMAIN-SUFFIX,fastlane.tools
+DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,firebase.com
 DOMAIN-SUFFIX,firebase.io
 DOMAIN-SUFFIX,firebaseapp.com
 DOMAIN-SUFFIX,firebaseio.com
+DOMAIN,crashlyticsreports-pa.googleapis.com
 DOMAIN,firebase-settings.crashlytics.com
 DOMAIN,firebase.google.com
 DOMAIN,firebase.googleapis.com
@@ -389,6 +391,7 @@ DOMAIN,firebaselogging-pa.googleapis.com
 DOMAIN,firebaselogging.googleapis.com
 DOMAIN,firebaseperusertopics-pa.googleapis.com
 DOMAIN,firebaseremoteconfig.googleapis.com
+DOMAIN,update.crashlytics.com
 DOMAIN-SUFFIX,flutter.dev
 DOMAIN-SUFFIX,flutterapp.com
 DOMAIN-SUFFIX,pub.dev
@@ -1287,10 +1290,13 @@ DOMAIN-SUFFIX,pagead.l.google.com
 DOMAIN-SUFFIX,partnerad.l.google.com
 DOMAIN-SUFFIX,urchin.com
 DOMAIN,analytics.google.com
+DOMAIN-SUFFIX,265.com
 DOMAIN-SUFFIX,gvt1-cn.com
 DOMAIN-SUFFIX,gvt2-cn.com
+DOMAIN,recaptcha-cn.net
+DOMAIN,recaptcha.net
+DOMAIN,www.recaptcha-cn.net
 DOMAIN,www.recaptcha.net
-DOMAIN,265.com
 DOMAIN,2mdn-cn.net
 DOMAIN,2mdn.net
 DOMAIN,admob-cn.com
@@ -1315,7 +1321,6 @@ DOMAIN,clickserver.googleads.com
 DOMAIN,clientservices.googleapis.com
 DOMAIN,cn.widevine.com
 DOMAIN,connectivitycheck.gstatic.com
-DOMAIN,crashlyticsreports-pa.googleapis.com
 DOMAIN,csi.gstatic.com
 DOMAIN,dartsearch-cn.net
 DOMAIN,dg-meta.video.google.com
@@ -1364,8 +1369,6 @@ DOMAIN,prod-databe.floonet.goog
 DOMAIN,prod.databe.floonet.goog
 DOMAIN,qiao-cn.com
 DOMAIN,qpx.googleflights.net
-DOMAIN,recaptcha-cn.net
-DOMAIN,recaptcha.net
 DOMAIN,redirector.bdn.dev
 DOMAIN,redirector.c.chat.google.com
 DOMAIN,redirector.c.mail.google.com
@@ -1386,7 +1389,6 @@ DOMAIN,staging-databe.floonet.goog
 DOMAIN,staging.databe.floonet.goog
 DOMAIN,tac.googleapis.com
 DOMAIN,tools.google.com
-DOMAIN,update.crashlytics.com
 DOMAIN,update.googleapis.com
 DOMAIN,wear.googleapis.com
 DOMAIN,www-google-analytics.l.google.com
