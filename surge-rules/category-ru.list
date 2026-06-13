@@ -1,5 +1,3 @@
-DOMAIN-SUFFIX,ru.com
-DOMAIN-SUFFIX,ru.net
 DOMAIN-SUFFIX,moscow
 DOMAIN-SUFFIX,ru
 DOMAIN-SUFFIX,su
@@ -11,6 +9,8 @@ DOMAIN-SUFFIX,xn--c1avg
 DOMAIN-SUFFIX,xn--d1acj3b
 DOMAIN-SUFFIX,xn--p1acf
 DOMAIN-SUFFIX,xn--p1ai
+DOMAIN-SUFFIX,ru.com
+DOMAIN-SUFFIX,ru.net
 DOMAIN-SUFFIX,betboom.ru
 DOMAIN-SUFFIX,mobile-bb.com
 DOMAIN-SUFFIX,bk6bba-resources.com
@@ -1658,6 +1658,7 @@ DOMAIN-SUFFIX,vtbglobalperspectives.com
 DOMAIN-SUFFIX,credit-zenit.ru
 DOMAIN-SUFFIX,zenit-card.ru
 DOMAIN-SUFFIX,zenit.ru
+DOMAIN-SUFFIX,nspk.ru
 DOMAIN-SUFFIX,absolutbank.ru
 DOMAIN-SUFFIX,akbars.ru
 DOMAIN-SUFFIX,alefbank.com
