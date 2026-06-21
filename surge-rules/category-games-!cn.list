@@ -287,15 +287,7 @@ DOMAIN-SUFFIX,seagroup.com
 DOMAIN-SUFFIX,gog.com
 DOMAIN-SUFFIX,gog-statics.com
 DOMAIN,gog.qtlglb.com
-DOMAIN,gogalaxy.gog-statics.com
-DOMAIN,menu-static.gog-statics.com
-DOMAIN,productcard.gog-statics.com
-DOMAIN,static-login.gog-statics.com
-DOMAIN,www4-static.gog-statics.com
-URL-REGEX,^https?://cdn-akamai-.+\.gog-services\.com(?::\d+)?(?:/|$)
-URL-REGEX,^https?://gog-cdn-.+\.footprint\.net(?::\d+)?(?:/|$)
-URL-REGEX,^https?://images(-\d)?\.gog-statics\.com(?::\d+)?(?:/|$)
-DOMAIN,gog-cdn-fastly.gog.com
+DOMAIN,gog-cdn-lumen.secure2.footprint.net
 DOMAIN,gog-cdn.akamaized.net
 DOMAIN-SUFFIX,genshinimpact.com
 DOMAIN-SUFFIX,honkaiimpact3.com

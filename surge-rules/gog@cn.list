@@ -1,11 +1,1 @@
 DOMAIN,gog.qtlglb.com
-DOMAIN,gogalaxy.gog-statics.com
-DOMAIN,menu-static.gog-statics.com
-DOMAIN,productcard.gog-statics.com
-DOMAIN,static-login.gog-statics.com
-DOMAIN,www4-static.gog-statics.com
-URL-REGEX,^https?://cdn-akamai-.+\.gog-services\.com(?::\d+)?(?:/|$)
-URL-REGEX,^https?://gog-cdn-.+\.footprint\.net(?::\d+)?(?:/|$)
-URL-REGEX,^https?://images(-\d)?\.gog-statics\.com(?::\d+)?(?:/|$)
-DOMAIN,gog-cdn-fastly.gog.com
-DOMAIN,gog-cdn.akamaized.net
