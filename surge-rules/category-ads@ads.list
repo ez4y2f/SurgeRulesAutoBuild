@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,include:disney
 DOMAIN-SUFFIX,include:dmm
 DOMAIN-SUFFIX,include:duolingo
 DOMAIN-SUFFIX,include:gamersky
+DOMAIN-SUFFIX,include:gog
 DOMAIN-SUFFIX,include:google
 DOMAIN-SUFFIX,include:hetzner
 DOMAIN-SUFFIX,include:huawei

@@ -285,10 +285,13 @@ DOMAIN-SUFFIX,garena.vn
 DOMAIN-SUFFIX,garenanow.com
 DOMAIN-SUFFIX,seagroup.com
 DOMAIN-SUFFIX,gog.com
+DOMAIN-SUFFIX,gog-services.com
 DOMAIN-SUFFIX,gog-statics.com
+DOMAIN-SUFFIX,gogalaxy.com
 DOMAIN,gog.qtlglb.com
 DOMAIN,gog-cdn-lumen.secure2.footprint.net
 DOMAIN,gog-cdn.akamaized.net
+DOMAIN-SUFFIX,insights-collector.gog.com
 DOMAIN-SUFFIX,genshinimpact.com
 DOMAIN-SUFFIX,honkaiimpact3.com
 DOMAIN-SUFFIX,honkaistarrail.com
@@ -637,7 +640,9 @@ DOMAIN,steamuserimages-a.akamaihd.net
 DOMAIN,steamvideo-a.akamaihd.net
 DOMAIN,steamcloudsweden.blob.core.windows.net
 DOMAIN,steamugcquincy.blob.core.windows.net
+DOMAIN-SUFFIX,csgo.com.cn
 DOMAIN-SUFFIX,csgo.wmsj.cn
+DOMAIN-SUFFIX,dota2.com.cn
 DOMAIN-SUFFIX,dota2.wmsj.cn
 DOMAIN-SUFFIX,wmsjsteam.com
 DOMAIN-SUFFIX,client-update.queniuqe.com
