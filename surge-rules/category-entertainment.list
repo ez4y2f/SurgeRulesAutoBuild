@@ -162,6 +162,8 @@ DOMAIN-SUFFIX,mangafunb.fun
 DOMAIN-SUFFIX,dailymotion.com
 DOMAIN-SUFFIX,dm-event.net
 DOMAIN-SUFFIX,dmcdn.net
+DOMAIN-SUFFIX,dandanplay.com
+DOMAIN-SUFFIX,dandanplay.net
 DOMAIN-SUFFIX,dandanzan.cc
 DOMAIN-SUFFIX,nunuyy.cc
 DOMAIN-SUFFIX,dazn.com
@@ -1040,6 +1042,7 @@ DOMAIN-SUFFIX,overcast.fm
 DOMAIN-SUFFIX,qobuz.com
 DOMAIN-SUFFIX,sendvid.com
 DOMAIN-SUFFIX,syosetu.com
+DOMAIN-SUFFIX,unsplash.com
 DOMAIN-SUFFIX,weverse.io
 DOMAIN-SUFFIX,yande.re
 DOMAIN-SUFFIX,amp-api.podcast.apple.com
