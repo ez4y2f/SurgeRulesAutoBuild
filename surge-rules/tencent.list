@@ -539,6 +539,16 @@ DOMAIN-SUFFIX,stat.y.qq.com
 DOMAIN-SUFFIX,tmead.y.qq.com
 DOMAIN-SUFFIX,tmeadcomm.y.qq.com
 DOMAIN-SUFFIX,webnovel.com
+DOMAIN-SUFFIX,aireads.cn
+DOMAIN-SUFFIX,chatdrama.cn
+DOMAIN-SUFFIX,chatdrama.net
+DOMAIN-SUFFIX,chatqidian.cn
+DOMAIN-SUFFIX,chatqidian.net
+DOMAIN-SUFFIX,chattext.cn
+DOMAIN-SUFFIX,chatwrite.net
+DOMAIN-SUFFIX,chatxiaoxiang.com
+DOMAIN-SUFFIX,chatyuewen.cn
+DOMAIN-SUFFIX,dishu3.com
 DOMAIN-SUFFIX,hongxiu.com
 DOMAIN-SUFFIX,qdmm.com
 DOMAIN-SUFFIX,qidian.com
@@ -548,6 +558,7 @@ DOMAIN-SUFFIX,tingbook.com
 DOMAIN-SUFFIX,xs.cn
 DOMAIN-SUFFIX,xs8.cn
 DOMAIN-SUFFIX,xxsy.net
+DOMAIN-SUFFIX,xxsypro.com
 DOMAIN-SUFFIX,yuewen.com
 DOMAIN-SUFFIX,qq.xn--fiqs8s
 DOMAIN-SUFFIX,xn--r70as2s.xn--fiqs8s
@@ -560,6 +571,7 @@ DOMAIN-SUFFIX,gtimg.com
 DOMAIN-SUFFIX,gtimg.com.cn
 DOMAIN-SUFFIX,idqqimg.com
 DOMAIN-SUFFIX,imqq.com
+DOMAIN-SUFFIX,iot-tencent.com
 DOMAIN-SUFFIX,myapp.com
 DOMAIN-SUFFIX,qlivecdn.com
 DOMAIN-SUFFIX,qlogo.cn
@@ -585,11 +597,13 @@ DOMAIN-SUFFIX,wechat.com
 DOMAIN-SUFFIX,wechatpay.cn
 DOMAIN-SUFFIX,weishi.com
 DOMAIN-SUFFIX,weixin.com
+DOMAIN-SUFFIX,weixinsxy.com
 DOMAIN-SUFFIX,weiyun.com
 DOMAIN-SUFFIX,wxaurl.cn
 DOMAIN-SUFFIX,wxcloudrun.com
 DOMAIN-SUFFIX,wxgateway.com
 DOMAIN-SUFFIX,wxlivecdn.com
+DOMAIN-SUFFIX,wxmpurl.cn
 DOMAIN-SUFFIX,wetv.vip
 DOMAIN-SUFFIX,wetvinfo.com
 DOMAIN,wetv.qq.com
