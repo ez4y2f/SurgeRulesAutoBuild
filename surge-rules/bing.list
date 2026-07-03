@@ -12,7 +12,6 @@ DOMAIN-SUFFIX,bingsandbox.com
 DOMAIN-SUFFIX,bingvisualsearch.com
 DOMAIN-SUFFIX,bingworld.com
 DOMAIN-SUFFIX,bluehatnights.com
-DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,dictate.ms
 DOMAIN-SUFFIX,flipwithsurface.com
 DOMAIN-SUFFIX,masalladeloslimites.com
@@ -27,6 +26,8 @@ DOMAIN-SUFFIX,office365love.com
 DOMAIN-SUFFIX,office365tw.com
 DOMAIN-SUFFIX,renovacionoffice.com
 DOMAIN-SUFFIX,sprinklesapp.com
+DOMAIN-SUFFIX,copilot.com
+DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN,location.microsoft.com
 DOMAIN-SUFFIX,cn.bing.com
 DOMAIN-SUFFIX,cn.bing.net

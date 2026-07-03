@@ -1204,6 +1204,9 @@ DOMAIN-SUFFIX,nichost.ru
 DOMAIN-SUFFIX,nic.ru
 DOMAIN-SUFFIX,r01.ru
 DOMAIN-SUFFIX,sweb.ru
+DOMAIN-SUFFIX,ptcloud.ru
+DOMAIN-SUFFIX,ptsecurity.com
+DOMAIN-SUFFIX,standoff365.com
 DOMAIN-SUFFIX,reg.cloud
 DOMAIN-SUFFIX,reg.com
 DOMAIN-SUFFIX,reg.ru
@@ -1231,6 +1234,8 @@ DOMAIN-SUFFIX,tehnodom.com
 DOMAIN-SUFFIX,vscale.blog
 DOMAIN-SUFFIX,vscale.io
 DOMAIN-SUFFIX,vscale.ru
+DOMAIN-SUFFIX,servicepipe.tech
+DOMAIN-SUFFIX,servicepipe.ru
 DOMAIN-SUFFIX,sky.pro
 DOMAIN-SUFFIX,skyeng.ru
 DOMAIN-SUFFIX,tilda.cc
@@ -1774,6 +1779,7 @@ DOMAIN-SUFFIX,dom.ru
 DOMAIN-SUFFIX,3ebra.net
 DOMAIN-SUFFIX,apptrackpets.com
 DOMAIN-SUFFIX,flomni.com
+DOMAIN-SUFFIX,foto-planeta.com
 DOMAIN-SUFFIX,gazfond-pn.ru
 DOMAIN-SUFFIX,kinescopecdn.net
 DOMAIN-SUFFIX,litres.ru
@@ -1784,6 +1790,7 @@ DOMAIN-SUFFIX,ognihome.com
 DOMAIN-SUFFIX,pochta.ru
 DOMAIN-SUFFIX,ponyexpress.ru
 DOMAIN-SUFFIX,qms.ru
+DOMAIN-SUFFIX,randomgodbot.com
 DOMAIN-SUFFIX,srv-hub.org
 DOMAIN-SUFFIX,t1.cloud
 DOMAIN-SUFFIX,taxsee.com
