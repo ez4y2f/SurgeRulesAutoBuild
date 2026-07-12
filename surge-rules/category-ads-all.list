@@ -36,6 +36,7 @@ DOMAIN-SUFFIX,include:meta
 DOMAIN-SUFFIX,include:microsoft
 DOMAIN-SUFFIX,include:mihoyo
 DOMAIN-SUFFIX,include:mindbox
+DOMAIN-SUFFIX,include:moji
 DOMAIN-SUFFIX,include:mozilla
 DOMAIN-SUFFIX,include:mts-ru
 DOMAIN-SUFFIX,include:netease
@@ -72,7 +73,6 @@ DOMAIN-SUFFIX,51y5.net
 DOMAIN-SUFFIX,a.adtng.com
 DOMAIN-SUFFIX,aaxads.com
 DOMAIN-SUFFIX,ad-srv.net
-DOMAIN-SUFFIX,ad.api.moji.com
 DOMAIN-SUFFIX,ad.wang502.com
 DOMAIN-SUFFIX,adbutter.net
 DOMAIN-SUFFIX,addthisedge.com
@@ -222,6 +222,10 @@ DOMAIN-SUFFIX,segment.com
 DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,segmenthub.com
 DOMAIN-SUFFIX,segmentify.com
+DOMAIN-SUFFIX,getsentry.com
+DOMAIN-SUFFIX,sentry.dev
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,sentry-cdn.com
 DOMAIN-SUFFIX,ssacdn.com
 DOMAIN-SUFFIX,supersonic.com
 DOMAIN-SUFFIX,supersonicads.com
