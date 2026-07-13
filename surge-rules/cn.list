@@ -251,10 +251,7 @@ DOMAIN-SUFFIX,boe.com
 DOMAIN-SUFFIX,boe.com.cn
 DOMAIN-SUFFIX,bouffalolab.com
 DOMAIN-SUFFIX,cxmt.com
-DOMAIN-SUFFIX,esp8266.cn
-DOMAIN-SUFFIX,esp8266.com.cn
-DOMAIN-SUFFIX,espressif.cn
-DOMAIN-SUFFIX,espressif.com.cn
+DOMAIN-SUFFIX,include:espressif
 DOMAIN-SUFFIX,eda.cn
 DOMAIN-SUFFIX,elecfans.com
 DOMAIN-SUFFIX,hqchip.com
@@ -3596,7 +3593,7 @@ DOMAIN-SUFFIX,emoriko.com
 DOMAIN-SUFFIX,sukasuka.cn
 DOMAIN-SUFFIX,include:alibaba
 DOMAIN-SUFFIX,include:anker
-DOMAIN-SUFFIX,include:aux
+DOMAIN-SUFFIX,include:auxgroup
 DOMAIN-SUFFIX,zuoyebang.cc
 DOMAIN-SUFFIX,zuoyebang.com
 DOMAIN-SUFFIX,zybang.com

@@ -50,3 +50,4 @@ DOMAIN,alt4-mtalk.google.com
 DOMAIN,alt5-mtalk.google.com
 DOMAIN,alt6-mtalk.google.com
 DOMAIN,mtalk.google.com
+DOMAIN-SUFFIX,include:espressif

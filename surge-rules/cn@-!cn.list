@@ -1,4 +1,5 @@
 DOMAIN-SUFFIX,include:deepin
+DOMAIN-SUFFIX,include:espressif
 DOMAIN-SUFFIX,include:kurogames
 DOMAIN-SUFFIX,include:xd
 DOMAIN-SUFFIX,include:bilibili
@@ -19,7 +20,7 @@ DOMAIN-SUFFIX,include:dewu
 DOMAIN-SUFFIX,include:jd
 DOMAIN-SUFFIX,include:alibaba
 DOMAIN-SUFFIX,include:anker
-DOMAIN-SUFFIX,include:aux
+DOMAIN-SUFFIX,include:auxgroup
 DOMAIN-SUFFIX,include:bytedance
 DOMAIN-SUFFIX,include:didi
 DOMAIN-SUFFIX,include:huawei
