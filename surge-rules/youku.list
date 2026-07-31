@@ -1,6 +1,5 @@
 DOMAIN-SUFFIX,9xsecndns.cn
 DOMAIN-SUFFIX,kumiao.com
-DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,soku.com
 DOMAIN-SUFFIX,tudou.com
 DOMAIN-SUFFIX,ykimg.com
@@ -8,6 +7,7 @@ DOMAIN-SUFFIX,youku.com
 DOMAIN-SUFFIX,youku.tv
 DOMAIN-SUFFIX,youkuhonor.com
 DOMAIN-SUFFIX,youkuplay.com
+DOMAIN,ykimg.alicdn.com
 DOMAIN-SUFFIX,ad.api.3g.youku.com
 DOMAIN-SUFFIX,ad.api.mobile.youku.com
 DOMAIN-SUFFIX,ad.mobile.youku.com

@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,firefox.hu
 DOMAIN-SUFFIX,firefoxtweetmachine.com
 DOMAIN-SUFFIX,firefoxusercontent.com
 DOMAIN,mozilla-ohttp.fastly-edge.com
+DOMAIN,mozilla.map.fastly.net
 DOMAIN-SUFFIX,torproject.org
 DOMAIN-SUFFIX,chrome
 DOMAIN-SUFFIX,chrome.com
