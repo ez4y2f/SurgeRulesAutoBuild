@@ -32,8 +32,6 @@ DOMAIN-SUFFIX,kaifayun.com
 DOMAIN-SUFFIX,programmer.com.cn
 DOMAIN-SUFFIX,programmer.net.cn
 DOMAIN-SUFFIX,include:deepin
-DOMAIN-SUFFIX,gitee.com
-DOMAIN-SUFFIX,gitee.io
 DOMAIN-SUFFIX,goproxy.cn
 DOMAIN-SUFFIX,goproxy.io
 DOMAIN-SUFFIX,bisheng.cn
