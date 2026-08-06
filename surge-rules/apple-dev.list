@@ -18,6 +18,16 @@ DOMAIN-SUFFIX,macruby.com
 DOMAIN-SUFFIX,macruby.net
 DOMAIN-SUFFIX,macruby.org
 DOMAIN-SUFFIX,apple-mapkit.com
+DOMAIN,cdn.apple-mapkit.com
+DOMAIN,cdn1.apple-mapkit.com
+DOMAIN,cdn2.apple-mapkit.com
+DOMAIN,cdn3.apple-mapkit.com
+DOMAIN,cdn4.apple-mapkit.com
+DOMAIN,cdn-cn.apple-mapkit.com
+DOMAIN,cdn-cn1.apple-mapkit.com
+DOMAIN,cdn-cn2.apple-mapkit.com
+DOMAIN,cdn-cn3.apple-mapkit.com
+DOMAIN,cdn-cn4.apple-mapkit.com
 DOMAIN-SUFFIX,playgrounds-cdn.apple.com
 DOMAIN-SUFFIX,carekit.org
 DOMAIN-SUFFIX,researchandcare.org

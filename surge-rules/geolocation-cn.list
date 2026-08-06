@@ -1290,6 +1290,7 @@ DOMAIN-SUFFIX,36dianping.com
 DOMAIN-SUFFIX,36kr.com
 DOMAIN-SUFFIX,36krcdn.com
 DOMAIN-SUFFIX,36krcnd.com
+DOMAIN-SUFFIX,adx.36kr.com
 DOMAIN-SUFFIX,cctv.cn
 DOMAIN-SUFFIX,cctv.com
 DOMAIN-SUFFIX,cctv4g.com
@@ -3635,6 +3636,14 @@ DOMAIN-SUFFIX,sinopec.com
 DOMAIN-SUFFIX,sinopecgroup.com
 DOMAIN-SUFFIX,sinopecnews.com.cn
 DOMAIN-SUFFIX,sinopecsales.com
+DOMAIN-SUFFIX,95598.cn
+DOMAIN-SUFFIX,95598pay.com
+DOMAIN-SUFFIX,echargenet.com
+DOMAIN-SUFFIX,esgcc.com.cn
+DOMAIN-SUFFIX,sgcc.com.cn
+DOMAIN-SUFFIX,csg.cn
+DOMAIN-SUFFIX,ecsg.com.cn
+DOMAIN-SUFFIX,poweremarket.com
 DOMAIN-SUFFIX,1tyy.cn
 DOMAIN-SUFFIX,bbdc.cn
 DOMAIN-SUFFIX,beingfine.cn
@@ -3818,6 +3827,11 @@ DOMAIN-SUFFIX,djiops.com
 DOMAIN-SUFFIX,djiservice.org
 DOMAIN-SUFFIX,skypixel.com
 DOMAIN-SUFFIX,robomaster.com
+DOMAIN-SUFFIX,focuschina.com
+DOMAIN-SUFFIX,made-in-china.com
+DOMAIN-SUFFIX,micstatic.com
+DOMAIN-SUFFIX,trademessenger.com
+DOMAIN-SUFFIX,vemic.com
 DOMAIN-SUFFIX,gree.cn
 DOMAIN-SUFFIX,gree.com
 DOMAIN-SUFFIX,gree.com.cn
