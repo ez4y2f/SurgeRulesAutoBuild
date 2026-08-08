@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,include:pingan
 DOMAIN-SUFFIX,include:ctrip
 DOMAIN-SUFFIX,include:dewu
 DOMAIN-SUFFIX,include:jd
+DOMAIN-SUFFIX,include:airchina
 DOMAIN-SUFFIX,include:alibaba
 DOMAIN-SUFFIX,include:anker
 DOMAIN-SUFFIX,include:auxgroup

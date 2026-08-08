@@ -97,7 +97,10 @@ DOMAIN-SUFFIX,supercachenode.com
 DOMAIN-SUFFIX,ultracachenode.com
 DOMAIN-SUFFIX,woaihuoshan.com
 DOMAIN-SUFFIX,wohst8.com
+DOMAIN-SUFFIX,douyinec.com
 DOMAIN-SUFFIX,douyinpay.com
+DOMAIN-SUFFIX,ulpay.com
+DOMAIN-SUFFIX,lifexue.com
 DOMAIN-SUFFIX,open-douyin.com
 DOMAIN-SUFFIX,activity-zhendingtech.com
 DOMAIN-SUFFIX,changdunovel.com
@@ -702,6 +705,7 @@ DOMAIN-SUFFIX,bytetos.com
 DOMAIN-SUFFIX,bytetraffic.net
 DOMAIN-SUFFIX,bytetstatic.com
 DOMAIN-SUFFIX,bytetstatic.net
+DOMAIN-SUFFIX,byteurl.cn
 DOMAIN-SUFFIX,bytevalk.com
 DOMAIN-SUFFIX,bytevcloudapi.com
 DOMAIN-SUFFIX,bytevcloudvod.com
@@ -838,6 +842,7 @@ DOMAIN-SUFFIX,jimeng.com
 DOMAIN-SUFFIX,vlabimg.com
 DOMAIN-SUFFIX,vlabstatic.com
 DOMAIN-SUFFIX,vlabvod.com
+DOMAIN-SUFFIX,capcut.cn
 DOMAIN-SUFFIX,capcut.com
 DOMAIN-SUFFIX,capcutcdn-us.com
 DOMAIN-SUFFIX,toutiao.com
@@ -897,13 +902,19 @@ DOMAIN-SUFFIX,ppximg.com
 DOMAIN-SUFFIX,ppxstatic.com
 DOMAIN-SUFFIX,ppxvod.com
 DOMAIN-SUFFIX,xiaoxiaapi.com
-DOMAIN-SUFFIX,douyinec.com
+DOMAIN-SUFFIX,dailygn.com
+DOMAIN-SUFFIX,nvsgames.cn
+DOMAIN-SUFFIX,buydouke.com
 DOMAIN-SUFFIX,ecombdapi.com
+DOMAIN-SUFFIX,ecombdimg.com
 DOMAIN-SUFFIX,ecombdstatic.com
+DOMAIN-SUFFIX,ecombdvod.com
 DOMAIN-SUFFIX,jinritemai.com
 DOMAIN-SUFFIX,faceu.com
+DOMAIN-SUFFIX,faceu.mobi
 DOMAIN-SUFFIX,ulikecam.com
 DOMAIN-SUFFIX,rsproxy.cn
+DOMAIN-SUFFIX,oceanengine.com
 DOMAIN-SUFFIX,ad.toutiao.com
 DOMAIN-SUFFIX,bds.snssdk.com
 DOMAIN-SUFFIX,byteadverts.com
