@@ -49,6 +49,7 @@ DOMAIN-SUFFIX,douyinact.net
 DOMAIN-SUFFIX,douyincdn.com
 DOMAIN-SUFFIX,douyinfe.com
 DOMAIN-SUFFIX,douyinliving.com
+DOMAIN-SUFFIX,douyinmusicpromotion.com
 DOMAIN-SUFFIX,douyinpic.com
 DOMAIN-SUFFIX,douyinstatic.com
 DOMAIN-SUFFIX,douyinvod.com
@@ -83,7 +84,6 @@ DOMAIN-SUFFIX,ihuoshanimg.com
 DOMAIN-SUFFIX,ihuoshanlive.com
 DOMAIN-SUFFIX,ihuoshanstatic.com
 DOMAIN-SUFFIX,ihuoshanvod.com
-DOMAIN-SUFFIX,kesong.co
 DOMAIN-SUFFIX,kolbuyer.cn
 DOMAIN-SUFFIX,nextvid.net
 DOMAIN-SUFFIX,ppkankan01.com
@@ -737,6 +737,7 @@ DOMAIN-SUFFIX,jokecommunity.com
 DOMAIN-SUFFIX,jokecommunity.net
 DOMAIN-SUFFIX,jstti.com
 DOMAIN-SUFFIX,jtamac.com
+DOMAIN-SUFFIX,letsign.com
 DOMAIN-SUFFIX,livecdnstatic.com
 DOMAIN-SUFFIX,local-ip.online
 DOMAIN-SUFFIX,luckysf.net
@@ -810,6 +811,8 @@ DOMAIN-SUFFIX,volcdns-test.com
 DOMAIN-SUFFIX,volcdns-test.net
 DOMAIN-SUFFIX,voleai.com
 DOMAIN-SUFFIX,wtturl.cn
+DOMAIN-SUFFIX,xiaohe.cn
+DOMAIN-SUFFIX,xingtu.cn
 DOMAIN-SUFFIX,xsgtvacct.com
 DOMAIN-SUFFIX,yhgfb-cn-static.com
 DOMAIN-SUFFIX,zijieapi.cn
@@ -914,6 +917,7 @@ DOMAIN-SUFFIX,ecombdvod.com
 DOMAIN-SUFFIX,jinritemai.com
 DOMAIN-SUFFIX,faceu.com
 DOMAIN-SUFFIX,faceu.mobi
+DOMAIN-SUFFIX,kesong.co
 DOMAIN-SUFFIX,ulikecam.com
 DOMAIN-SUFFIX,rsproxy.cn
 DOMAIN-SUFFIX,oceanengine.com
