@@ -62,6 +62,7 @@ DOMAIN-SUFFIX,include:xiaomi
 DOMAIN-SUFFIX,include:yahoo
 DOMAIN-SUFFIX,include:yandex
 DOMAIN-SUFFIX,include:zhihu
+DOMAIN-SUFFIX,include:zuoyebang
 DOMAIN-SUFFIX,adjust.com
 DOMAIN-SUFFIX,adjust.io
 DOMAIN-SUFFIX,adjust.net.in
