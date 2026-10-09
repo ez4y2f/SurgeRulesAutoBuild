@@ -8,8 +8,6 @@ DOMAIN,sentry.sberauto.com
 DOMAIN,tracing-http.megamarket.tech
 DOMAIN,visor.sberbank.ru
 DOMAIN-SUFFIX,adsgram.ai
-DOMAIN-SUFFIX,graph.whatsapp.com
-DOMAIN-SUFFIX,graph.whatsapp.net
 DOMAIN,stats.avito.ru
 DOMAIN,ad.ozone.ru
 DOMAIN,adv.ozon.ru
@@ -67,9 +65,6 @@ DOMAIN-SUFFIX,ms.dzen.ru
 DOMAIN,ad-channel.diwodiwo.xyz
 DOMAIN,ad-display.diwodiwo.xyz
 DOMAIN-SUFFIX,collector.xhamster.com
-DOMAIN,copilot-telemetry-service.githubusercontent.com
-DOMAIN,copilot-telemetry.githubusercontent.com
-DOMAIN-SUFFIX,collector.github.com
 DOMAIN-SUFFIX,analytics.cloud.unity3d.com
 DOMAIN-SUFFIX,config.uca.cloud.unity3d.com
 DOMAIN-SUFFIX,cdp.cloud.unity3d.com
@@ -232,12 +227,7 @@ DOMAIN-SUFFIX,facebookads.com
 DOMAIN-SUFFIX,pixel.facebook.com
 DOMAIN-SUFFIX,graph.instagram.com
 DOMAIN-SUFFIX,graph-fallback.instagram.com
-DOMAIN-SUFFIX,graph.whatsapp.com
-DOMAIN-SUFFIX,graph.whatsapp.net
 DOMAIN-SUFFIX,bingads.com
-DOMAIN,copilot-telemetry-service.githubusercontent.com
-DOMAIN,copilot-telemetry.githubusercontent.com
-DOMAIN-SUFFIX,collector.github.com
 DOMAIN-SUFFIX,browser.events.data.msn.cn
 DOMAIN-SUFFIX,browser.events.data.msn.com
 DOMAIN-SUFFIX,clarity.ms
@@ -256,8 +246,6 @@ DOMAIN,sentry.mindbox.ru
 DOMAIN,sentry.popmechanic.ru
 DOMAIN,ads-img.mozilla.org
 DOMAIN,ads.mozilla.org
-DOMAIN,incoming.telemetry.mozilla.org
-DOMAIN,incoming-telemetry.thunderbird.net
 DOMAIN-SUFFIX,a.mts.ru
 DOMAIN-SUFFIX,obs.mts.ru
 DOMAIN,sentry.iptv.rt.ru

@@ -2948,8 +2948,6 @@ DOMAIN-SUFFIX,whatsapp.net
 DOMAIN-SUFFIX,whatsapp.org
 DOMAIN-SUFFIX,whatsapp.tv
 DOMAIN-SUFFIX,whatsappbrand.com
-DOMAIN-SUFFIX,graph.whatsapp.com
-DOMAIN-SUFFIX,graph.whatsapp.net
 DOMAIN-SUFFIX,botim.me
 DOMAIN-SUFFIX,asproex.com
 DOMAIN-SUFFIX,asproexapi.com
@@ -15534,6 +15532,7 @@ DOMAIN,productionresultssa16.blob.core.windows.net
 DOMAIN,productionresultssa17.blob.core.windows.net
 DOMAIN,productionresultssa18.blob.core.windows.net
 DOMAIN,productionresultssa19.blob.core.windows.net
+DOMAIN-SUFFIX,cafe.github.com
 DOMAIN-SUFFIX,collector.github.com
 DOMAIN-SUFFIX,github1s.com
 DOMAIN-SUFFIX,sourcegraph.com
@@ -22683,8 +22682,6 @@ DOMAIN-SUFFIX,whatsapp.net
 DOMAIN-SUFFIX,whatsapp.org
 DOMAIN-SUFFIX,whatsapp.tv
 DOMAIN-SUFFIX,whatsappbrand.com
-DOMAIN-SUFFIX,graph.whatsapp.com
-DOMAIN-SUFFIX,graph.whatsapp.net
 DOMAIN-SUFFIX,atmeta.com
 DOMAIN-SUFFIX,llama.com
 DOMAIN-SUFFIX,meta.ai
@@ -22945,6 +22942,7 @@ DOMAIN,productionresultssa16.blob.core.windows.net
 DOMAIN,productionresultssa17.blob.core.windows.net
 DOMAIN,productionresultssa18.blob.core.windows.net
 DOMAIN,productionresultssa19.blob.core.windows.net
+DOMAIN-SUFFIX,cafe.github.com
 DOMAIN-SUFFIX,collector.github.com
 DOMAIN-SUFFIX,adaptivecards.io
 DOMAIN-SUFFIX,api-extractor.com

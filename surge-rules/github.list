@@ -61,4 +61,5 @@ DOMAIN,productionresultssa16.blob.core.windows.net
 DOMAIN,productionresultssa17.blob.core.windows.net
 DOMAIN,productionresultssa18.blob.core.windows.net
 DOMAIN,productionresultssa19.blob.core.windows.net
+DOMAIN-SUFFIX,cafe.github.com
 DOMAIN-SUFFIX,collector.github.com

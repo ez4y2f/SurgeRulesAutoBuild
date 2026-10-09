@@ -152,12 +152,7 @@ DOMAIN-SUFFIX,facebookads.com
 DOMAIN-SUFFIX,pixel.facebook.com
 DOMAIN-SUFFIX,graph.instagram.com
 DOMAIN-SUFFIX,graph-fallback.instagram.com
-DOMAIN-SUFFIX,graph.whatsapp.com
-DOMAIN-SUFFIX,graph.whatsapp.net
 DOMAIN-SUFFIX,bingads.com
-DOMAIN,copilot-telemetry-service.githubusercontent.com
-DOMAIN,copilot-telemetry.githubusercontent.com
-DOMAIN-SUFFIX,collector.github.com
 DOMAIN-SUFFIX,browser.events.data.msn.cn
 DOMAIN-SUFFIX,browser.events.data.msn.com
 DOMAIN-SUFFIX,clarity.ms
@@ -176,8 +171,6 @@ DOMAIN,sentry.mindbox.ru
 DOMAIN,sentry.popmechanic.ru
 DOMAIN,ads-img.mozilla.org
 DOMAIN,ads.mozilla.org
-DOMAIN,incoming.telemetry.mozilla.org
-DOMAIN,incoming-telemetry.thunderbird.net
 DOMAIN-SUFFIX,a.mts.ru
 DOMAIN-SUFFIX,obs.mts.ru
 DOMAIN,sentry.iptv.rt.ru
