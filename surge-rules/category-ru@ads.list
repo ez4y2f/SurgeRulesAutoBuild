@@ -128,6 +128,15 @@ DOMAIN,api.mindbox.cloud
 DOMAIN,api.mindbox.ru
 DOMAIN,sentry.mindbox.ru
 DOMAIN,sentry.popmechanic.ru
+DOMAIN-SUFFIX,ads.sber.ru
+DOMAIN-SUFFIX,clickstream.sberbank.ru
+DOMAIN,visor.sberbank.ru
+DOMAIN-SUFFIX,neon.click
+DOMAIN-SUFFIX,sbermarketing.ru
+DOMAIN,error-tracking.megamarket.tech
+DOMAIN,metrics.21-school.ru
+DOMAIN,sentry.sberauto.com
+DOMAIN,tracing-http.megamarket.tech
 DOMAIN-SUFFIX,adfox.ru
 DOMAIN-SUFFIX,adfox.yandex.ru
 DOMAIN-SUFFIX,admetrica.ru
