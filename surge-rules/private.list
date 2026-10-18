@@ -120,6 +120,8 @@ DOMAIN-SUFFIX,router.ctc
 DOMAIN-SUFFIX,plex.direct
 DOMAIN-SUFFIX,localhost.sec.qq.com
 DOMAIN-SUFFIX,localhost.ptlogin2.qq.com
+DOMAIN,localhost.weixin.qq.com
+DOMAIN,localhost.work.weixin.qq.com
 DOMAIN-SUFFIX,tendawifi.com
 DOMAIN-SUFFIX,tplinkwifi.net
 DOMAIN,tplogin.cn
