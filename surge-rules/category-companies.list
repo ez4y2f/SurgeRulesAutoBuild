@@ -7705,6 +7705,7 @@ DOMAIN-SUFFIX,tvoyodbo.online
 DOMAIN-SUFFIX,kion.ru
 DOMAIN-SUFFIX,mtsmedia.ru
 DOMAIN-SUFFIX,on-media.ru
+DOMAIN-SUFFIX,mts-link.ru
 DOMAIN-SUFFIX,musixmatch.com
 DOMAIN-SUFFIX,mxmcdn.net
 DOMAIN-SUFFIX,mxlogin.com
@@ -8584,6 +8585,9 @@ DOMAIN-SUFFIX,gemini.yahoo.com
 DOMAIN-SUFFIX,ysm.yahoo.com
 DOMAIN-SUFFIX,kinopoisk.ru
 DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
+DOMAIN-SUFFIX,kp.yandex.net
+DOMAIN,kp-config-smart-tv.akamaized.net
+DOMAIN,kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
 DOMAIN-SUFFIX,yandex
 DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai
 DOMAIN-SUFFIX,berizaryad.ru
