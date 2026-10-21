@@ -18,6 +18,7 @@ DOMAIN,production-openaicom-storage.azureedge.net
 URL-REGEX,^https?://chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com(?::\d+)?(?:/|$)
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,o33249.ingest.sentry.io
+DOMAIN,o33249.ingest.us.sentry.io
 DOMAIN,openai.qualtrics.com
 DOMAIN-SUFFIX,chatgpt.livekit.cloud
 DOMAIN-SUFFIX,host.livekit.cloud
