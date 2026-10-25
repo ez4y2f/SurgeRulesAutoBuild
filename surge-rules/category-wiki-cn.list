@@ -8,8 +8,8 @@ DOMAIN-SUFFIX,chaz.fun
 DOMAIN-SUFFIX,huijistatic.com
 DOMAIN-SUFFIX,huijiwiki.com
 DOMAIN-SUFFIX,mcmod.cn
-DOMAIN-SUFFIX,moegirl.org
-DOMAIN-SUFFIX,moegirl.org.cn
+DOMAIN,app.moegirl.org.cn
+DOMAIN,storage.moegirl.org.cn
 DOMAIN-SUFFIX,pwsannong.com
 DOMAIN-SUFFIX,qiuwenbaike.cn
 DOMAIN-SUFFIX,qiuwen.wiki
