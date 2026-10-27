@@ -1,3 +1,4 @@
+DOMAIN-SUFFIX,testipv6.cn
 DOMAIN-SUFFIX,chaip.me
 DOMAIN-SUFFIX,check-host.cn
 DOMAIN-SUFFIX,cip.cc
@@ -41,7 +42,6 @@ DOMAIN-SUFFIX,seeip.cn
 DOMAIN-SUFFIX,todetect.cn
 DOMAIN-SUFFIX,whatip.cn
 DOMAIN-SUFFIX,whatismyip.com.cn
-DOMAIN-SUFFIX,testipv6.cn
 DOMAIN,ip.3322.net
 DOMAIN,ip.gymcalc.cn
 DOMAIN,ip.kutool.com

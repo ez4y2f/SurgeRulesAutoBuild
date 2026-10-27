@@ -25,4 +25,4 @@ URL-REGEX,^https?://(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com(?::\d+)?(?
 URL-REGEX,^https?://(^|\.)apiproxy-website-nlb-prod-.+\.amazonaws\.com(?::\d+)?(?:/|$)
 URL-REGEX,^https?://(^|\.)dualstack\.apiproxy-.+\.amazonaws\.com(?::\d+)?(?:/|$)
 URL-REGEX,^https?://(^|\.)dualstack\.ichnaea-web-.+\.amazonaws\.com(?::\d+)?(?:/|$)
-DOMAIN,netflix.com.edgesuite.net
+DOMAIN-SUFFIX,netflix.com.edgesuite.net
