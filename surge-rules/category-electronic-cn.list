@@ -1,9 +1,11 @@
+DOMAIN-SUFFIX,allwinnertech.com
 DOMAIN-SUFFIX,analog.com
 DOMAIN-SUFFIX,arrow.cn
 DOMAIN-SUFFIX,avermedia.cn
 DOMAIN-SUFFIX,boe.com
 DOMAIN-SUFFIX,boe.com.cn
 DOMAIN-SUFFIX,bouffalolab.com
+DOMAIN-SUFFIX,cambricon.com
 DOMAIN-SUFFIX,cxmt.com
 DOMAIN-SUFFIX,include:espressif
 DOMAIN-SUFFIX,eda.cn
@@ -73,6 +75,7 @@ DOMAIN-SUFFIX,szlcsc.com
 DOMAIN-SUFFIX,zs-jlc.com
 DOMAIN-SUFFIX,zxhgroup.com
 DOMAIN-SUFFIX,listenai.com
+DOMAIN-SUFFIX,mthreads.com
 DOMAIN-SUFFIX,nanocorechip.com
 DOMAIN-SUFFIX,rock-chips.com
 DOMAIN-SUFFIX,seeed.cn
@@ -81,6 +84,8 @@ DOMAIN-SUFFIX,seeed.com.cn
 DOMAIN-SUFFIX,seeedstudio.com.cn
 DOMAIN-SUFFIX,sipeed.com
 DOMAIN-SUFFIX,maixhub.com
+DOMAIN-SUFFIX,southchip.com
+DOMAIN-SUFFIX,t-head.cn
 DOMAIN-SUFFIX,ti.com.cn
 DOMAIN-SUFFIX,wch.cn
 DOMAIN-SUFFIX,wch-ic.com
