@@ -2,4 +2,4 @@ DOMAIN-SUFFIX,jav.app
 DOMAIN-SUFFIX,javdb.com
 DOMAIN-SUFFIX,jdbimgs.com
 DOMAIN-SUFFIX,jdbstatic.com
-URL-REGEX,^https?://javdb\d+\.com(?::\d+)?(?:/|$)
+URL-REGEX,^https?://(^|\.)javdb\d+\.com(?::\d+)?(?:/|$)
