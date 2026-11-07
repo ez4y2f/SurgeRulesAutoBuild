@@ -107,6 +107,13 @@ DOMAIN-SUFFIX,xiezuocat.com
 DOMAIN-SUFFIX,aispeech.com
 DOMAIN-SUFFIX,dui.ai
 DOMAIN-SUFFIX,duiopen.com
+DOMAIN-SUFFIX,senseaudio.cn
+DOMAIN-SUFFIX,senseavatar.com
+DOMAIN-SUFFIX,sensecore.cn
+DOMAIN-SUFFIX,sensefoundry.cn
+DOMAIN-SUFFIX,sensenova.cn
+DOMAIN-SUFFIX,sensetime.com
+DOMAIN-SUFFIX,xiaohuanxiong.com
 DOMAIN-SUFFIX,clawhub-mirror.com
 DOMAIN-SUFFIX,skillhub.cn
 DOMAIN-SUFFIX,safeskill.cn
@@ -118,3 +125,4 @@ DOMAIN-SUFFIX,kakaxing.com
 DOMAIN-SUFFIX,favonis.cloud
 DOMAIN-SUFFIX,favonis.com
 DOMAIN-SUFFIX,favonis.space
+DOMAIN-SUFFIX,ai-indeed.com

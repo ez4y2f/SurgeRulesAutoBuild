@@ -48,6 +48,7 @@ DOMAIN-SUFFIX,include:sber
 DOMAIN-SUFFIX,include:sberbank
 DOMAIN-SUFFIX,include:shuqi
 DOMAIN-SUFFIX,include:sina
+DOMAIN-SUFFIX,include:tcl
 DOMAIN-SUFFIX,include:tencent
 DOMAIN-SUFFIX,include:tencent-dev
 DOMAIN-SUFFIX,include:tencent-tme
