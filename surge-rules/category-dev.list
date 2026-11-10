@@ -286,6 +286,8 @@ DOMAIN-SUFFIX,godoc.org
 DOMAIN-SUFFIX,golang.com
 DOMAIN-SUFFIX,golang.net
 DOMAIN-SUFFIX,golang.org
+DOMAIN-SUFFIX,grafana.com
+DOMAIN-SUFFIX,grafana.net
 DOMAIN-SUFFIX,consul.io
 DOMAIN-SUFFIX,hashicorp.com
 DOMAIN-SUFFIX,nomadproject.io
