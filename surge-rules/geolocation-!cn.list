@@ -58,6 +58,7 @@ DOMAIN-SUFFIX,vpngate.jp
 DOMAIN-SUFFIX,vpngate.net
 DOMAIN-SUFFIX,docs.rw
 DOMAIN-SUFFIX,log.rw
+DOMAIN-SUFFIX,remna.dev
 DOMAIN-SUFFIX,remna.st
 DOMAIN-SUFFIX,try.rw
 DOMAIN,matsuridayo.github.io
@@ -1666,6 +1667,9 @@ DOMAIN-SUFFIX,vtb.ru
 DOMAIN-SUFFIX,vtbbo.ru
 DOMAIN-SUFFIX,vtbglobalperspectives.com
 DOMAIN-SUFFIX,xn--90ab2c.xn--p1ai
+DOMAIN-SUFFIX,bank.yandex.ru
+DOMAIN-SUFFIX,yandex-bank.net
+DOMAIN-SUFFIX,yb-payment.ru
 DOMAIN-SUFFIX,credit-zenit.ru
 DOMAIN-SUFFIX,zenit-card.ru
 DOMAIN-SUFFIX,zenit.ru
@@ -1700,7 +1704,6 @@ DOMAIN-SUFFIX,aversbank.ru
 DOMAIN-SUFFIX,bancaintesa.ru
 DOMAIN-SUFFIX,bank-arzamas.ru
 DOMAIN-SUFFIX,bank-hlynov.ru
-DOMAIN-SUFFIX,bank.yandex.ru
 DOMAIN-SUFFIX,bankermak.ru
 DOMAIN-SUFFIX,bankofkazan.ru
 DOMAIN-SUFFIX,bankperm.ru
@@ -3192,6 +3195,7 @@ DOMAIN-SUFFIX,cryptomus.com
 DOMAIN-SUFFIX,curve.fi
 DOMAIN-SUFFIX,cyberx.com
 DOMAIN-SUFFIX,debank.com
+DOMAIN-SUFFIX,debot.ai
 DOMAIN-SUFFIX,delets.cash
 DOMAIN-SUFFIX,delets.online
 DOMAIN-SUFFIX,dogecoin.com
@@ -5375,8 +5379,10 @@ DOMAIN,inappcheck.itunes.apple.com
 DOMAIN,init.itunes.apple.com
 DOMAIN,iosapps.itunes.apple.com
 DOMAIN,misc-assets.itunes.apple.com
+DOMAIN,musicstatus.itunes.apple.com
 DOMAIN,mvod.itunes.apple.com
 DOMAIN,myapp.itunes.apple.com
+DOMAIN,mzstorekit.itunes.apple.com
 DOMAIN,np-edge.itunes.apple.com
 DOMAIN,osxapps.itunes.apple.com
 DOMAIN,pd-nk.itunes.apple.com
@@ -15734,9 +15740,11 @@ DOMAIN-SUFFIX,vscodeedu.com
 DOMAIN-SUFFIX,xamarin.com
 DOMAIN,az764295.vo.msecnd.net
 DOMAIN,bingsettingssearch.trafficmanager.net
+DOMAIN,builds.dotnet.microsoft.com
 DOMAIN,dc.services.visualstudio.com
 DOMAIN,default.exp-tas.com
 DOMAIN,developer.microsoft.com
+DOMAIN,dotnetcli.trafficmanager.net
 DOMAIN,download.visualstudio.microsoft.com
 DOMAIN,dtlgalleryint.cloudapp.net
 DOMAIN,packages.microsoft.com
@@ -15745,9 +15753,11 @@ DOMAIN,psg-int-centralus.cloudapp.net
 DOMAIN,psg-int-eastus.cloudapp.net
 DOMAIN,rink.hockeyapp.net
 DOMAIN,rt.services.visualstudio.com
+DOMAIN,sundry-star-net-geo.trafficmanager.net
 DOMAIN,vscode-sync-insiders.trafficmanager.net
 DOMAIN,vscode-sync.trafficmanager.net
 DOMAIN,vscode.blob.core.windows.net
+DOMAIN,vscode.download.prss.microsoft.com
 DOMAIN,vscode.search.windows.net
 DOMAIN,vsmarketplacebadge.apphb.com
 DOMAIN-SUFFIX,mongodb.com
@@ -18683,8 +18693,10 @@ DOMAIN,inappcheck.itunes.apple.com
 DOMAIN,init.itunes.apple.com
 DOMAIN,iosapps.itunes.apple.com
 DOMAIN,misc-assets.itunes.apple.com
+DOMAIN,musicstatus.itunes.apple.com
 DOMAIN,mvod.itunes.apple.com
 DOMAIN,myapp.itunes.apple.com
+DOMAIN,mzstorekit.itunes.apple.com
 DOMAIN,np-edge.itunes.apple.com
 DOMAIN,osxapps.itunes.apple.com
 DOMAIN,pd-nk.itunes.apple.com
@@ -19395,11 +19407,13 @@ DOMAIN,apple.com.akadns.net
 DOMAIN,configuration-lb.ls-apple.com.akadns.net
 DOMAIN,push-apple.com.akadns.net
 DOMAIN-SUFFIX,courier-push-apple.com.akadns.net
+DOMAIN-SUFFIX,captive.apple.com
 DOMAIN,amp-api-edge.apps.apple.com
 DOMAIN,amp-api-search-edge.apps.apple.com
 DOMAIN,amp-api.apps.apple.com
 DOMAIN,api-edge.apps.apple.com
 DOMAIN,communities.apple.com
+DOMAIN,configuration.ls.apple.com
 DOMAIN,discussionschinese.apple.com
 DOMAIN,fides-pol.apple.com
 DOMAIN,gspe12-cn-ssl.ls.apple.com
@@ -23112,9 +23126,11 @@ DOMAIN-SUFFIX,vscodeedu.com
 DOMAIN-SUFFIX,xamarin.com
 DOMAIN,az764295.vo.msecnd.net
 DOMAIN,bingsettingssearch.trafficmanager.net
+DOMAIN,builds.dotnet.microsoft.com
 DOMAIN,dc.services.visualstudio.com
 DOMAIN,default.exp-tas.com
 DOMAIN,developer.microsoft.com
+DOMAIN,dotnetcli.trafficmanager.net
 DOMAIN,download.visualstudio.microsoft.com
 DOMAIN,dtlgalleryint.cloudapp.net
 DOMAIN,packages.microsoft.com
@@ -23123,9 +23139,11 @@ DOMAIN,psg-int-centralus.cloudapp.net
 DOMAIN,psg-int-eastus.cloudapp.net
 DOMAIN,rink.hockeyapp.net
 DOMAIN,rt.services.visualstudio.com
+DOMAIN,sundry-star-net-geo.trafficmanager.net
 DOMAIN,vscode-sync-insiders.trafficmanager.net
 DOMAIN,vscode-sync.trafficmanager.net
 DOMAIN,vscode.blob.core.windows.net
+DOMAIN,vscode.download.prss.microsoft.com
 DOMAIN,vscode.search.windows.net
 DOMAIN,vsmarketplacebadge.apphb.com
 DOMAIN-SUFFIX,msocsp.com
@@ -23551,7 +23569,6 @@ DOMAIN,surface.download.prss.microsoft.com
 DOMAIN,surface.downloads.prss.microsoft.com
 DOMAIN,vlportal.download.prss.microsoft.com
 DOMAIN,volic.download.prss.microsoft.com
-DOMAIN,vscode.download.prss.microsoft.com
 DOMAIN,vz.download.prss.microsoft.com
 DOMAIN,windbg.download.prss.microsoft.com
 DOMAIN-SUFFIX,mikrotik.com
@@ -24734,6 +24751,7 @@ DOMAIN-SUFFIX,yangofellowship.com
 DOMAIN-SUFFIX,yastat.net
 DOMAIN-SUFFIX,yastatic-net.ru
 DOMAIN-SUFFIX,yastatic.net
+DOMAIN-SUFFIX,yb-payment.ru
 DOMAIN-SUFFIX,yccdn.ru
 DOMAIN-SUFFIX,ydb.tech
 DOMAIN-SUFFIX,yndx.net
