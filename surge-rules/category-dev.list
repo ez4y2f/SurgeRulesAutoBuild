@@ -96,6 +96,7 @@ DOMAIN-SUFFIX,dartlang.org
 DOMAIN-SUFFIX,dartpad.dev
 DOMAIN-SUFFIX,debian.org
 DOMAIN-SUFFIX,dotdeb.org
+DOMAIN-SUFFIX,debian.map.fastlydns.net
 DOMAIN-SUFFIX,discourse-cdn.com
 DOMAIN-SUFFIX,discourse.group
 DOMAIN-SUFFIX,discourse.org
@@ -445,6 +446,7 @@ DOMAIN-SUFFIX,nixos.org
 DOMAIN-SUFFIX,nixpkgs.org
 DOMAIN,nix-community.github.io
 DOMAIN-SUFFIX,builtwithnix.org
+DOMAIN-SUFFIX,cachix.org
 DOMAIN-SUFFIX,mynixos.com
 DOMAIN-SUFFIX,nix-community.org
 DOMAIN-SUFFIX,nixos.wiki
@@ -543,6 +545,7 @@ DOMAIN-SUFFIX,tildacdn.com
 DOMAIN-SUFFIX,tildacdn.net
 DOMAIN-SUFFIX,unity.com
 DOMAIN-SUFFIX,unity3d.com
+DOMAIN-SUFFIX,vivox.com
 DOMAIN-SUFFIX,analytics.cloud.unity3d.com
 DOMAIN-SUFFIX,config.uca.cloud.unity3d.com
 DOMAIN-SUFFIX,cdp.cloud.unity3d.com
